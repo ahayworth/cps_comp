@@ -1,0 +1,651 @@
+title,job_code,position_number,unit_number,unit_name,time_equivalent,salary,fte_salary,benefit_cost
+Assistant Principal,000042,522941,11110,Network Support,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,522942,11110,Network Support,1.0,108254.43,108254.43,34260.0
+Assistant Principal,000042,469974,11116,AUSL Program Support,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,510079,11116,AUSL Program Support,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,510080,11116,AUSL Program Support,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,510081,11116,AUSL Program Support,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,208301,12670,Education General - City Wide,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,460972,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,519575,12670,Education General - City Wide,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,519576,12670,Education General - City Wide,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,519577,12670,Education General - City Wide,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,519578,12670,Education General - City Wide,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,519579,12670,Education General - City Wide,1.0,122422.64,122422.64,37414.0
+Assistant Principal,000042,519580,12670,Education General - City Wide,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,522289,12670,Education General - City Wide,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,522290,12670,Education General - City Wide,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,522291,12670,Education General - City Wide,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,522455,12670,Education General - City Wide,1.0,132064.56,132064.56,39561.0
+Assistant Principal,000042,522456,12670,Education General - City Wide,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,522457,12670,Education General - City Wide,1.0,117774.36,117774.36,36380.0
+Assistant Principal,000042,522458,12670,Education General - City Wide,1.0,126926.81,126926.81,38417.0
+Assistant Principal,000042,522459,12670,Education General - City Wide,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,522460,12670,Education General - City Wide,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,522461,12670,Education General - City Wide,1.0,100458.54,100458.54,32525.0
+Assistant Principal,000042,522462,12670,Education General - City Wide,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,522463,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522464,12670,Education General - City Wide,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,522465,12670,Education General - City Wide,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,522466,12670,Education General - City Wide,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,522467,12670,Education General - City Wide,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,522468,12670,Education General - City Wide,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,522470,12670,Education General - City Wide,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,522471,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522472,12670,Education General - City Wide,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,522473,12670,Education General - City Wide,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,522474,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522475,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522476,12670,Education General - City Wide,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,522477,12670,Education General - City Wide,1.0,104291.03,104291.03,33378.0
+Assistant Principal,000042,522478,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522479,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522480,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522481,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522482,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522483,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522484,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522485,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522486,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522487,12670,Education General - City Wide,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,522488,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522489,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522490,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,522491,12670,Education General - City Wide,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,290990,20071,Columbia Explorers Academy,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,523586,20071,Columbia Explorers Academy,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,146148,22021,Jane Addams School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,523759,22031,Louis J Agassiz School,1.0,104291.03,104291.03,33378.0
+Assistant Principal,000042,265885,22041,Louisa May Alcott School,1.0,108254.43,108254.43,34260.0
+Assistant Principal,000042,331777,22041,Louisa May Alcott School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,128315,22071,New Field School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,381933,22081,George Armstrong Elementary School,1.0,132064.56,132064.56,39561.0
+Assistant Principal,000042,442650,22081,George Armstrong Elementary School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,524021,22081,George Armstrong Elementary School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,123114,22091,Audubon Elementary School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,125224,22101,Avalon Park School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,135417,22131,Alice L Barnard Computer Math & Science Center,1.0,103333.6,103333.6,33165.0
+Assistant Principal,000042,135964,22141,John Barry Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,523897,22141,John Barry Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,502760,22151,Clara W Barton School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,137077,22161,Perkins Bass School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,136254,22171,Newton Bateman Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,483815,22171,Newton Bateman Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,135421,22181,Lillian R Nicholson Specialty School For Science & Mathem,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,121534,22191,George Rogers Clark Elementary School,1.0,109271.47,109271.47,34487.0
+Assistant Principal,000042,119552,22201,Jean Baptiste Beaubien School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,214076,22211,Jacob Beidler School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,120721,22221,Hiram H Belding School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,137975,22231,Alexander Graham Bell School,1.0,122422.64,122422.64,37414.0
+Assistant Principal,000042,523597,22231,Alexander Graham Bell School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,140374,22241,Frank I Bennett School,1.0,108254.43,108254.43,34260.0
+Assistant Principal,000042,338727,22251,South Shore Fine Arts Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,145021,22261,James G Blaine School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,511534,22261,James G Blaine School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,428258,22271,Daniel Boone School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,262076,22281,Scott Joplin School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,128608,22301,Alex Haley School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,523870,22311,Brentano Math & Science Academy,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,116028,22321,Norman Bridge School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,443600,22321,Norman Bridge School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,298397,22331,Orville T Bright Elementary School,1.0,117774.36,117774.36,36380.0
+Assistant Principal,000042,404395,22341,Federico Garcia Lorca Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,133870,22351,William H Brown Elementary School,1.0,117774.36,117774.36,36380.0
+Assistant Principal,000042,146686,22361,Charles S Brownell School,1.0,109271.47,109271.47,34487.0
+Assistant Principal,000042,127967,22371,Bouchet Academy,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,406155,22381,West Ridge Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,144745,22391,Lyman A Budlong School,1.0,124450.27,124450.27,37866.0
+Assistant Principal,000042,112085,22401,Luther Burbank School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,126143,22401,Luther Burbank School,1.0,132064.56,132064.56,39561.0
+Assistant Principal,000042,124666,22411,Edmund Burke Elementary School,1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,519891,22411,Edmund Burke Elementary School,1.0,97668.58,97668.58,30595.0
+Assistant Principal,000042,142296,22421,Augustus H Burley Elementary School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,131646,22431,Burnham/Anthony Inclusive Academy,1.0,116628.88,116628.88,36125.0
+Assistant Principal,000042,328329,22441,Irene C. Hernandez Middle School for the Advancement of the Sciences,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,360092,22451,Hughes/Davis,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,499434,22461,Castellanos,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,146724,22471,Jonathan Burr Elementary School,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,121270,22481,John C Burroughs School,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,119509,22491,Milton Brunson Specialty Elementary School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,487533,22491,Milton Brunson Specialty Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,204636,22501,Michael M Byrne School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,125282,22521,Little Village Academy,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,113848,22531,Daniel R Cameron Elementary School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,116335,22531,Daniel R Cameron Elementary School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,329788,22541,Arthur E Canty,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,121671,22551,Andrew Carnegie School,1.0,116628.88,116628.88,36125.0
+Assistant Principal,000042,448250,22571,Charles Carroll School,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,371208,22581,Dr Jorge Prieto Math and Science Academy,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,502303,22591,Skinner North,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,118748,22601,Rachel Carson Elementary School,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,523567,22601,Rachel Carson Elementary School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,142612,22621,George Washington Carver Elementary,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,499428,22641,Ira F Aldridge Elementary School,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,215601,22651,George F Cassell School,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,136455,22661,Horace Greeley School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,487220,22671,Thomas Chalmers Specialty School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,115424,22681,Eliza Chappell Elementary School,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,408324,22691,Marvin Camras Elementary School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,127432,22701,Salmon P Chase School,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,132145,22721,Frederic Chopin School,1.0,104291.03,104291.03,33378.0
+Assistant Principal,000042,115479,22731,Henry Clay Elementary School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,122846,22741,Grover Cleveland School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,112545,22751,Dewitt Clinton School,1.0,129487.55,129487.55,38987.0
+Assistant Principal,000042,133839,22761,Henry R Clissold School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,119896,22771,Edward Coles Model For Excellence School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,115906,22801,John W Cook Elementary School,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,524717,22811,Jordan Community School,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,114373,22821,John C Coonley School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,136045,22831,Peter Cooper Dual Language Academy,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,298870,22841,Anna R. Langford Community Academy,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,116890,22851,Daniel J Corkery School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,506790,22871,Everett Mckinley Dirksen School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,120373,22881,Charles R Darwin School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,138684,22891,Nathan S Davis School & Annex,1.0,122422.64,122422.64,37414.0
+Assistant Principal,000042,143800,22901,Charles Gates Dawes School,1.0,122422.64,122422.64,37414.0
+Assistant Principal,000042,506111,22921,Mariano Azuela Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,523926,22921,Mariano Azuela Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,524985,22931,Charles S Deneen School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,141765,22941,William E Dever School,1.0,108254.43,108254.43,34260.0
+Assistant Principal,000042,487221,22951,Dewey Academy Of Multicultural Studies,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,140440,22971,Arthur Dixon School,1.0,110362.25,110362.25,34730.0
+Assistant Principal,000042,520527,22981,Dodge Renaissance Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,144817,22991,James R Doolittle Jr Intermediate & Upper Cycle East,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,145413,23001,John C Dore School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,524804,23021,Thomas Drummond Elementary School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,512447,23031,Charles W Earle School,1.0,116628.88,116628.88,36125.0
+Assistant Principal,000042,112023,23041,John F Eberhart School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,264515,23041,John F Eberhart School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,120341,23051,Christian Ebinger,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,483928,23061,George W Curtis Elementary School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,248584,23071,Edgebrook School,1.0,117774.36,117774.36,36380.0
+Assistant Principal,000042,137480,23081,Richard Edwards School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,484029,23081,Richard Edwards School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,123212,23101,Edward (Duke) K Ellington School,1.0,126926.81,126926.81,38417.0
+Assistant Principal,000042,523898,23101,Edward (Duke) K Ellington School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,113220,23131,Esmond School,1.0,116628.88,116628.88,36125.0
+Assistant Principal,000042,440987,23151,Laughlin Falconer School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,463470,23151,Laughlin Falconer School,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,115372,23161,James B Farnsworth School,1.0,108254.43,108254.43,34260.0
+Assistant Principal,000042,524704,23201,Fernwood School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,127704,23221,John Fiske School,1.0,104291.03,104291.03,33378.0
+Assistant Principal,000042,502335,23241,Fort Dearborn Elementary School,1.0,108254.43,108254.43,34260.0
+Assistant Principal,000042,140898,23251,Joseph Kellman Corporate Community School,1.0,109271.47,109271.47,34487.0
+Assistant Principal,000042,115402,23261,Foster Park School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,303327,23281,Robert Fulton School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,515476,23291,Frederick Funston School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,119436,23301,John W Garvy School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,138628,23311,Joseph E Gary School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,523624,23311,Joseph E Gary School,1.0,129487.55,129487.55,38986.0
+Assistant Principal,000042,116331,23321,Frank L Gillespie School,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,126449,23341,J W Von Goethe School,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,135595,23351,Jesse Owens Elementary Community Academy,1.0,110362.25,110362.25,34730.0
+Assistant Principal,000042,204648,23371,William C. Goudy Technology Academy,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,131648,23391,Alexander Graham School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,303780,23401,William P Gray School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,509972,23401,William P Gray School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,143764,23411,Josefa Ortiz De Dominguez Elementary School New Gary,1.0,108254.43,108254.43,34260.0
+Assistant Principal,000042,124520,23431,Nathanael Greene School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,120821,23441,John Gregory School,1.0,110362.25,110362.25,34730.0
+Assistant Principal,000042,519604,23451,Walter Q Gresham Elementary School of Excellence,1.0,116628.88,116628.88,36125.0
+Assistant Principal,000042,137815,23461,Robert L Grimes School,1.0,104291.03,104291.03,33378.0
+Assistant Principal,000042,145243,23481,John C Haines School,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,214838,23491,Nathan Hale School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,122952,23501,Alexander Hamilton School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,117011,23511,John H Hamline Elementary School,1.0,108254.43,108254.43,34260.0
+Assistant Principal,000042,120823,23511,John H Hamline Elementary School,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,130191,23531,Charles G Hammond School,1.0,106295.01,106295.01,33824.0
+Assistant Principal,000042,524622,23541,William F Finkl,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,119315,23551,Sharon Christa Mcauliffe Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,145966,23561,Bret Harte Elementary School,1.0,109271.47,109271.47,34487.0
+Assistant Principal,000042,472412,23581,John Harvard Elementary School of Excellence,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,139895,23591,Helge A Haugan,1.0,129487.55,129487.55,38987.0
+Assistant Principal,000042,464248,23591,Helge A Haugan,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,131267,23611,Emiliano Zapata Academy,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,136025,23621,Stephen K Hayt School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,449802,23631,Woodlawn Community,1.0,109271.47,109271.47,34487.0
+Assistant Principal,000042,469344,23641,Wendell Smith,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,489392,23651,Robert Healy School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,212350,23671,Phoebe Apperson Hearst School,1.0,126926.81,126926.81,38417.0
+Assistant Principal,000042,114426,23681,James Hedges School Main,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,144263,23711,Helen M Hefferan School,1.0,103333.6,103333.6,33165.0
+Assistant Principal,000042,524653,23711,Helen M Hefferan School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,524242,23721,Charles R Henderson School,1.0,113451.47,113451.47,35417.0
+Assistant Principal,000042,122402,23731,Patrick Henry School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,141510,23751,South Loop School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,464154,23771,Theodore Herzl School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,142893,23791,Agustin Lara Academy,1.0,104291.03,104291.03,33378.0
+Assistant Principal,000042,127894,23801,William G Hibbard School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,504218,23801,William G Hibbard School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,129562,23811,Rufus M Hitch School,1.0,104291.03,104291.03,33378.0
+Assistant Principal,000042,146834,23821,Charles N Holden School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,298462,23851,Julia Ward Howe School,1.0,110362.25,110362.25,34730.0
+Assistant Principal,000042,142692,23871,Thomas Hoyne School,1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,142241,23881,Paul Cuffe Elementary School,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,113154,23891,Countee Cullen School,1.0,117774.36,117774.36,36380.0
+Assistant Principal,000042,145605,23901,Charles Evans Hughes School,1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,450681,23911,Edward N Hurley School,1.0,124450.27,124450.27,37866.0
+Assistant Principal,000042,144527,23931,Minnie Mars Jamieson School,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,511674,23951,Edward Jenner Academy Of The Arts,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,129914,23971,Kate S Kellogg School,1.0,106295.01,106295.01,33824.0
+Assistant Principal,000042,140072,23991,Joshua D Kershaw Elementary School,1.0,109271.47,109271.47,34487.0
+Assistant Principal,000042,524719,24011,Pablo Casals,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,115002,24021,Joyce Kilmer School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,131265,24051,Lazaro Cardenas School,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,114369,24071,John H Kinzie Elementary School,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,214837,24081,Rudyard Kipling School,1.0,113451.47,113451.47,35417.0
+Assistant Principal,000042,133460,24101,Rodolfo Lozano Bilingual & International Center,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,117650,24131,Wendell E Green,1.0,109271.47,109271.47,34487.0
+Assistant Principal,000042,483805,24151,Leslie Lewis School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,114299,24171,Arthur A Libby School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,139110,24191,Abraham Lincoln Elementary School,1.0,108254.43,108254.43,34260.0
+Assistant Principal,000042,112016,24201,Carl Von Linne Elementary School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,310635,24221,Henry D Lloyd School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,474511,24221,Henry D Lloyd School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,131404,24231,Josephine C Locke School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,137103,24231,Josephine C Locke School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,519793,24231,Josephine C Locke School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,524943,24231,Josephine C Locke School,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,137064,24241,Joseph Lovett School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,423117,24281,Mary Lyon School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,506077,24281,Mary Lyon School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,122521,24311,George Manierre School,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,494487,24331,Horace Mann School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,510884,24331,Horace Mann School,1.0,111359.32,111359.32,33459.0
+Assistant Principal,000042,465704,24341,Marquette Elementary,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,121842,24361,John L Marsh School,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,125716,24381,Roswell B Mason Elementary School,1.0,122422.64,122422.64,37414.0
+Assistant Principal,000042,142184,24401,Oscar F Mayer Elementary School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,126221,24431,Cyrus H Mccormick School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,119140,24441,Emmit Louis Till Math and Science Academy,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,119028,24451,Francis M Mckay School,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,266408,24451,Francis M Mckay School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,141249,24461,Hanson Park School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,485190,24461,Hanson Park School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,522638,24461,Hanson Park School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,116142,24471,James B Mcpherson Elementary School,1.0,126926.81,126926.81,38417.0
+Assistant Principal,000042,147192,24511,Ellen Mitchell School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,121948,24531,James Monroe School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,524548,24531,James Monroe School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,125786,24551,Bernhard Moos School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,146871,24571,Donald L Morrill Mathematics & Science Specialty School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,121251,24591,Mount Greenwood Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,121903,24601,Mount Vernon Elementary School,1.0,116628.88,116628.88,36125.0
+Assistant Principal,000042,126478,24611,Wolfgang A Mozart School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,131920,24621,John B Murphy School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,112176,24651,Jane A Neil School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,266921,24661,Louis Nettelhorst School,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,129932,24671,Florence Nightingale School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,338361,24671,Florence Nightingale School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,133514,24681,William P Nixon School,1.0,124450.27,124450.27,37866.0
+Assistant Principal,000042,256841,24681,William P Nixon School,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,124782,24691,Alfred Nobel Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,524261,24691,Alfred Nobel Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,127775,24711,Norwood Park Elementary School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,125339,24721,West Park Academy,1.0,126926.81,126926.81,38417.0
+Assistant Principal,000042,406365,24731,William B Ogden School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,504266,24731,William B Ogden School,1.0,125960.47,125960.47,38202.0
+Assistant Principal,000042,512198,24731,William B Ogden School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,487227,24751,Isabell C O'Keeffe School,1.0,108254.43,108254.43,34260.0
+Assistant Principal,000042,513290,24751,Isabell C O'Keeffe School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,132988,24761,William J Onahan School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,464751,24781,Brian Piccolo Elementary School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,119273,24791,James Otis School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,125409,24801,Luke O'Toole School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,214392,24811,Wells Preparatory School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,121779,24821,John M Palmer School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,119597,24841,Park Manor Elementary School,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,267335,24851,Louis Pasteur School,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,444183,24851,Louis Pasteur School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,115724,24871,Ferdinand W Peck School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,435064,24871,Ferdinand W Peck School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,144657,24881,Washington Irving School,1.0,104291.03,104291.03,33378.0
+Assistant Principal,000042,121094,24891,Helen C Peirce School Of International Studies,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,124211,24911,William Penn School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,144305,24921,Harold Washington School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,147337,24931,Irma C Ruiz School,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,259326,24941,Mary G Peterson School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,114942,24951,Marcus Moziah Garvey School,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,142914,24961,Josiah L Pickard School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,138676,24991,Laura S Ward School,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,136152,25011,Portage Park Elementary School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,115301,25021,William H Prescott School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,112200,25031,Ernst Prussing,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,119796,25041,George M Pullman School,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,298515,25061,Ravenswood School,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,126172,25071,William H Ray School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,139186,25101,Frank W Reilly School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,410561,25101,Frank W Reilly School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,144727,25111,Peter A Reinberg,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,114525,25141,Philip Rogers School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,523764,25141,Philip Rogers School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,403769,25151,Cesar E Chavez Multicultural Academic Center,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,523574,25151,Cesar E Chavez Multicultural Academic Center,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,214383,25181,Martha M Ruggles Elementary School,1.0,103333.6,103333.6,33165.0
+Assistant Principal,000042,421067,25191,William H Ryder Math/Science Specialty School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,246426,25211,Sauganash Elementary School,1.0,117774.36,117774.36,36380.0
+Assistant Principal,000042,120538,25231,Sidney Sawyer School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,505800,25231,Sidney Sawyer School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,444599,25241,Jonathan Y Scammon School,1.0,124450.27,124450.27,37866.0
+Assistant Principal,000042,524501,25241,Jonathan Y Scammon School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,113447,25291,Franz Peter Schubert School,1.0,129487.55,129487.55,38987.0
+Assistant Principal,000042,504376,25291,Franz Peter Schubert School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,112741,25301,William H Seward Communication Arts Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,147474,25301,William H Seward Communication Arts Academy,1.0,125960.47,125960.47,38202.0
+Assistant Principal,000042,524677,25331,Arnold Mireles Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,505432,25341,William T. Sherman Elementary School of Excellence,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,113012,25351,Jesse Sherwood School,1.0,100458.54,100458.54,32525.0
+Assistant Principal,000042,139856,25361,James Shields Elementary School,1.0,132064.56,132064.56,39561.0
+Assistant Principal,000042,486216,25361,James Shields Elementary School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,133398,25371,Beulah Shoesmith School,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,132189,25381,John D Shoop Elementary School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,136053,25401,Washington D Smyser School,1.0,126926.81,126926.81,38417.0
+Assistant Principal,000042,483999,25401,Washington D Smyser School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,494935,25411,John M Smyth Elementary School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,122851,25441,Herbert Spencer Math & Science Academy,1.0,109286.83,109286.83,34124.0
+Assistant Principal,000042,448378,25441,Herbert Spencer Math & Science Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,144767,25451,John Spry Community School,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,469678,25451,John Spry Community School,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,111959,25471,Adlai E Stevenson School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,126418,25471,Adlai E Stevenson School,1.0,132064.56,132064.56,39561.0
+Assistant Principal,000042,135753,25491,Edward F Dunne School,1.0,106295.01,106295.01,33824.0
+Assistant Principal,000042,117358,25521,Harriet Beecher Stowe School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,137877,25541,William K Sullivan Specialty School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,131929,25561,Elizabeth H Sutherland School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,130090,25571,George B Swift Specialty School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,122132,25581,Mancel Talcott School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,122687,25591,Douglas Taylor Elementary School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,259613,25601,James N Thorp Elementary School,1.0,113451.47,113451.47,35417.0
+Assistant Principal,000042,141042,25621,George W Tilton School,1.0,113451.47,113451.47,35417.0
+Assistant Principal,000042,463606,25631,Enrico Tonti School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,486389,25661,Mark Twain School,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,524047,25661,Mark Twain School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,496089,25671,Lavizzo Elementray,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,126224,25681,Alessandro Volta School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,146579,25681,Alessandro Volta School,1.0,126926.81,126926.81,38417.0
+Assistant Principal,000042,117653,25711,James Wadsworth School,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,119129,25731,John A Walsh Elementary School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,120777,25751,James Ward Elementary School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,111671,25761,Joseph Warren Elementary School,1.0,109271.47,109271.47,34487.0
+Assistant Principal,000042,125816,25771,George Washington School,1.0,126926.81,126926.81,38417.0
+Assistant Principal,000042,144654,25781,Thomas J Waters School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,127461,25791,Daniel Webster School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,499382,25811,Daniel S Wentworth School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,256935,25831,John Whistler Elementary School,1.0,110362.25,110362.25,34730.0
+Assistant Principal,000042,405447,25841,Eli Whitney School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,144174,25861,John Greenleaf Whittier School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,118448,25871,A N Pritzker School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,131339,25881,Wildwood School,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,135209,25921,Ella Flagg Young School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,525703,25921,Ella Flagg Young School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,141000,25931,Ludwig Von Beethoven School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,135396,25941,Carrie Jacobs Bond,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,118561,25951,Richard J Daley Academy,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,224012,25991,Joseph Brennemann School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,145829,26021,Willa Cather School,1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,143091,26031,R Nathaniel Dett,1.0,110362.25,110362.25,34730.0
+Assistant Principal,000042,506758,26051,Dvorak Technology Academy School of Excellence,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,503083,26141,John Foster Dulles Elementary School of Excellence,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,524832,26141,John Foster Dulles Elementary School of Excellence,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,125290,26191,Arthur R Ashe Jr Elementary School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,419935,26231,James Weldon Johnson Elementary School of Excellence,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,135899,26251,Irvin C Mollison School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,135081,26281,Henry O Tanner School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,143929,26291,Adam Clayton Powell Jr Paideia Community Academy,1.0,113451.47,113451.47,35417.0
+Assistant Principal,000042,506756,26301,Ronald E McNair Elementary School of Excellence,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,142879,26321,Benjamin E Mays Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,524277,26321,Benjamin E Mays Academy,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,121305,26331,Richard Henry Lee School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,145089,26351,Genevieve Melody School,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,488308,26371,Dr. Martin Luther King Jr. Academy of Social Justice,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,143925,26381,Oliver S Westcott Elementary School,1.0,113451.47,113451.47,35417.0
+Assistant Principal,000042,145953,26391,George Leland Elementary School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,524856,26391,George Leland Elementary School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,467159,26441,Amelia Earhart Options For Knowledge Specialty School,1.0,109271.47,109271.47,34487.0
+Assistant Principal,000042,382546,26451,Brighton Park Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,140157,26461,Evergreen Academy School,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,464825,26521,Amos A Stagg School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,469755,26541,Carter G Woodson South,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,133942,26591,Medgar Evers School,1.0,117774.36,117774.36,36380.0
+Assistant Principal,000042,129071,26601,William E B Dubois School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,125029,26621,Charles H Wacker School,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,123246,26631,Oscar Depriest School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,524053,26631,Oscar Depriest School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,146066,26651,Mahalia Jackson School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,119162,26701,Fairfield Academy,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,119727,26721,Sandoval Elementary School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,442551,26721,Sandoval Elementary School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,407697,26731,Barbara Vick Early Childhood & Family Center,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,147560,26751,Johnnie Colemon School,1.0,106295.01,106295.01,33824.0
+Assistant Principal,000042,421206,26771,Belmont-Cragin School,1.0,116628.88,116628.88,36125.0
+Assistant Principal,000042,501245,26771,Belmont-Cragin School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,422812,26781,Talman School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,520452,26791,Tarkington School of Excellence,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,524893,26791,Tarkington School of Excellence,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,133933,26821,Calmeca Academy of Fine Arts and Dual Language,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,138771,26831,Durkin Park School,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,138745,26841,North River Elementary School,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,485720,26861,Uplift Community High School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,493892,26881,Suder Montessori Magnet School,1.0,100458.54,100458.54,32525.0
+Assistant Principal,000042,486244,26921,Disney II Magnet School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,487500,26921,Disney II Magnet School,1.0,113451.47,113451.47,35417.0
+Assistant Principal,000042,471669,27091,James Shields Middle School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,298769,28081,Edison Park Elementary,1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,127284,29011,Thomas A Edison Regional Gifted Center,1.0,103333.6,103333.6,33165.0
+Assistant Principal,000042,124582,29021,Burnside Scholastic Academy,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,146085,29031,Stephen Decatur Classical School,1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,121768,29041,Turner-Drew Language Academy,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,124092,29051,Leif Ericson Scholastic Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,136491,29071,Gerald Delgado Kanoon Magnet School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,341045,29081,Franklin Fine Arts Center,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,113507,29091,Matthew Gallistel Language Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,125966,29091,Matthew Gallistel Language Academy,1.0,132064.56,132064.56,39561.0
+Assistant Principal,000042,405137,29091,Matthew Gallistel Language Academy,1.0,122422.64,122422.64,37414.0
+Assistant Principal,000042,306082,29101,LaSalle Language Magnet,1.0,124450.27,124450.27,37866.0
+Assistant Principal,000042,144868,29111,A Philip Randolph Magnet School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,502332,29121,Frank W Gunsaulus Scholastic Academy School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,524038,29131,Hawthorne Scholastic Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,120399,29141,Galileo Scholastic Academy Of Math & Science,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,129384,29151,Maria Saucedo Scholastic Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,487252,29151,Maria Saucedo Scholastic Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,134429,29161,Lasalle Language Academy School,1.0,110362.25,110362.25,34730.0
+Assistant Principal,000042,113707,29171,Andrew Jackson Language Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,140370,29191,Inter-American Magnet,1.0,110362.25,110362.25,34730.0
+Assistant Principal,000042,405550,29201,Mark Sheridan Mathematics & Science Academy,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,258895,29211,Annie Keller Regional Gifted Magnet School,1.0,109271.47,109271.47,34487.0
+Assistant Principal,000042,112155,29221,Philip Murray Language Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,112944,29231,Walter L Newberry Mathematics & Science Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,120240,29241,William Bishop Owen Scholastic Academy School,1.0,103333.6,103333.6,33165.0
+Assistant Principal,000042,254916,29251,John J. Pershing East Magnet School,1.0,103333.6,103333.6,33165.0
+Assistant Principal,000042,124366,29261,Edgar Allan Poe Classical School,1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,130057,29271,Harriet E Sayre Language Academy,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,127598,29281,Mark Skinner School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,129361,29291,Stone Scholastic Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,505897,29301,Ole A Thorp Scholastic Academy,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,524326,29301,Ole A Thorp Scholastic Academy,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,138309,29311,John H Vanderpoel Magnet School,1.0,100458.54,100458.54,32525.0
+Assistant Principal,000042,145797,29321,Beasley Academic Center Magnet,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,172500,29321,Beasley Academic Center Magnet,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,493834,29341,Jensen Scholastic Academy School,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,227917,29361,Ted Lenart Regional Gifted Center,1.0,103333.6,103333.6,33165.0
+Assistant Principal,000042,441857,29371,Albert R Sabin Magnet School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,422212,29381,Robert A Black Magnet School,1.0,117774.36,117774.36,36380.0
+Assistant Principal,000042,294858,29391,Sir Miles Davis Magnet,1.0,103333.6,103333.6,33165.0
+Assistant Principal,000042,146842,29401,Walt Disney Magnet School,1.0,132064.56,132064.56,39561.0
+Assistant Principal,000042,475410,29401,Walt Disney Magnet School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,514023,29401,Walt Disney Magnet School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,519990,29411,Frazier International Magnet Elementary School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,146617,30011,Nancy B Jefferson Alternative School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,501958,30011,Nancy B Jefferson Alternative School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,145708,30031,Walter S Christopher School,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,394453,30041,Moses Montefiore Special School,1.0,116628.88,116628.88,36125.0
+Assistant Principal,000042,522633,30051,Daniel Carter Beard School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,507694,30071,Blair Early Childhood Center,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,394638,30081,Frederick Stock School,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,476038,30101,Ruben Salazar Bilingual Education Center School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,394671,30121,Wilma G Rudolph Learning Center,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,111756,30141,Courtenay Language Arts Center,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,492503,30141,Courtenay Language Arts Center,1.0,119894.48,119894.48,36852.0
+Assistant Principal,000042,124722,31041,Crown Community Academy Fine Arts Center,1.0,109271.47,109271.47,34487.0
+Assistant Principal,000042,510477,31061,Ralph H Metcalfe Community Academy Elementary School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,216662,31081,Stephen F Gale Community Academy,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,147110,31101,Ninos Heroes Academic Center,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,132012,31111,John Hay Community Academy School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,142500,31141,Pilsen Community Academy,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,217773,31151,Charles Kozminski Community Academy School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,141530,31181,Francis W Parker Community Academy,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,134013,31211,Pulaski International School of Chicago,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,121983,31221,Charles Sumner Mathematics & Science Community Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,112865,31251,Thomas J Higgins Community Academy,1.0,116628.88,116628.88,36125.0
+Assistant Principal,000042,236816,31261,Jose De Diego Community Academy,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,519758,31261,Jose De Diego Community Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,141836,31281,Orozco Academy,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,132211,31301,Claremont Academy,1.0,122280.07,122280.07,37383.0
+Assistant Principal,000042,138245,32011,Albany Park Multicultural Academy Elementary School,1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,214839,32021,Lionel Hampton Fine and Performing Arts School,1.0,117763.3,117763.3,36377.0
+Assistant Principal,000042,216884,32081,Ashburn Community Area School,1.0,107282.86,107282.86,34044.0
+Assistant Principal,000042,115085,41091,Logandale Middle School,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,524229,41091,Logandale Middle School,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,138109,41111,Marine Leadership Academy at Ames,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,523668,41111,Marine Leadership Academy at Ames,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,422712,41121,Northwest Middle,1.0,121060.85,121060.85,37111.0
+Assistant Principal,000042,487472,45221,Hyman G. Rickover Naval Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,523547,45221,Hyman G. Rickover Naval Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,523813,45231,Air Force Academy High School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,124389,46021,Hancock High School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,502484,46021,Hancock High School,1.0,114555.48,114555.48,35663.0
+Assistant Principal,000042,137199,46031,Roald Amundsen High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,142133,46031,Roald Amundsen High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,483523,46031,Roald Amundsen High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,488918,46041,William J Bogan Computer Technical High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,112771,46061,Northside College Prep,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,507587,46061,Northside College Prep,1.0,112425.52,112425.52,35188.0
+Assistant Principal,000042,409648,46101,Eric Solorio Academy High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,467674,46101,Eric Solorio Academy High School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,372199,46111,Christian Fenger Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,123254,46131,Edwin G Foreman High School,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,121630,46141,Gage Park High School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,128245,46171,Hyde Park Career Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,523860,46171,Hyde Park Career Academy,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,139501,46181,Thomas Kelly High School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,144401,46181,Thomas Kelly High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,493471,46181,Thomas Kelly High School,1.0,118991.44,118991.44,35056.0
+Assistant Principal,000042,503951,46181,Thomas Kelly High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,116112,46191,Kelvyn Park High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,509704,46191,Kelvyn Park High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,111818,46201,John F Kennedy High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,130379,46201,John F Kennedy High School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,132581,46211,Lake View High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,269113,46211,Lake View High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,521819,46211,Lake View High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,522649,46211,Lake View High School,1.0,109286.83,109286.83,33026.0
+Assistant Principal,000042,130777,46221,Albert G Lane Technical High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,138866,46221,Albert G Lane Technical High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,138934,46221,Albert G Lane Technical High School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,140051,46221,Albert G Lane Technical High School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,474138,46221,Albert G Lane Technical High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,488749,46221,Albert G Lane Technical High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,135581,46241,Stephen T Mather High School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,266268,46241,Stephen T Mather High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,142424,46251,Morgan Park High School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,145632,46251,Morgan Park High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,520000,46251,Morgan Park High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,494256,46261,Wendell Phillips Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,516368,46261,Wendell Phillips Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,121013,46271,Theodore Roosevelt High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,292542,46271,Theodore Roosevelt High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,113444,46281,Carl Schurz High School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,132499,46281,Carl Schurz High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,464269,46281,Carl Schurz High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,117326,46291,Charles P Steinmetz Academic Centre,1.0,122422.64,122422.64,37414.0
+Assistant Principal,000042,118274,46291,Charles P Steinmetz Academic Centre,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,290238,46291,Charles P Steinmetz Academic Centre,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,120219,46301,Roger C Sullivan High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,118778,46311,William Howard Taft High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,130144,46311,William Howard Taft High School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,170566,46311,William Howard Taft High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,503807,46311,William Howard Taft High School,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,119187,46321,Lincoln Park High School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,127283,46321,Lincoln Park High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,447055,46321,Lincoln Park High School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,219647,46331,George Washington High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,454960,46331,George Washington High School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,127874,46341,Gurdon S Hubbard High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,335482,46341,Gurdon S Hubbard High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,136833,46361,Kenwood Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,268017,46361,Kenwood Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,476457,46361,Kenwood Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,124845,46371,KIng Selective Enrollment HS,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,112260,46381,Carver Military High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,123512,46401,Percy L Julian High School,1.0,132064.56,132064.56,39561.0
+Assistant Principal,000042,443514,46401,Percy L Julian High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,124487,46421,Benito Juarez High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,125077,46421,Benito Juarez High School,1.0,125960.47,125960.47,38202.0
+Assistant Principal,000042,134838,46431,North Grand High School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,503977,46431,North Grand High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,235832,46471,Al Raby High School,1.0,111359.32,111359.32,34952.0
+Assistant Principal,000042,245065,46481,Chicago Academy High School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,450954,46491,Bowen High School,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,275172,46511,Lindblom Math and Science Academy High School,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,520225,46511,Lindblom Math and Science Academy High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,488114,46551,Back of the Yards,1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,524192,46551,Back of the Yards,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,473353,46611,Sarah Goode High School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,524348,46611,Sarah Goode High School,1.0,117774.36,117774.36,36380.0
+Assistant Principal,000042,448163,46631,South Shore International College Prep High School,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,491495,46641,Richard T. Crane (RTC) Medical Preparatory High School,1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,118278,47021,William Jones College Prep High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,475038,47021,William Jones College Prep High School,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,505752,47021,William Jones College Prep High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,520205,47031,Emil G Hirsch Metropolitan High School,1.0,105243.24,105243.24,32180.0
+Assistant Principal,000042,411937,47041,John Marshall Metropolitan High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,113358,47051,Gwendolyn Brooks,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,524831,47051,Gwendolyn Brooks,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,138222,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,442662,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,523581,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,144800,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,277753,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,523998,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,114134,47101,Whitney M Young Magnet High School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,146696,47101,Whitney M Young Magnet High School,1.0,132064.56,132064.56,39561.0
+Assistant Principal,000042,498787,47101,Whitney M Young Magnet High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,130382,49021,Northside Learning Center,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,507720,49031,Southside Occupational Academy,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,122056,49041,Consuella B. York Alternative HS,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,132698,49041,Consuella B. York Alternative HS,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,522647,49051,Simpson Academy for Young Women,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,144687,49081,Jacqueline B Vaughn Occupational High School,1.0,105243.24,105243.24,33590.0
+Assistant Principal,000042,132364,49091,Hope College Prep HS,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,522639,49101,Ray Graham Training Center,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,494510,49161,TEAM Englewood Community Academy,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,524819,51021,Harlan Community Academy High School,1.0,115657.93,115657.93,35908.0
+Assistant Principal,000042,504121,51071,William H Wells Community Academy High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,119561,51091,Roberto Clemente Community Academy High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,429665,52011,World Language High School (at Little Village),1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,467644,53011,Chicago Vocational Career Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,524007,53011,Chicago Vocational Career Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,312760,53021,Dunbar Vocational Career Academy,1.0,132064.56,132064.56,39561.0
+Assistant Principal,000042,514773,53021,Dunbar Vocational Career Academy,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,116791,53041,Charles Allen Prosser Career Academy,1.0,118991.44,118991.44,36650.0
+Assistant Principal,000042,506856,53041,Charles Allen Prosser Career Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,507647,53041,Charles Allen Prosser Career Academy,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,126403,53061,Neal F Simeon Vocational High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,140078,53061,Neal F Simeon Vocational High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,406033,53071,George Westinghouse High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,487170,53071,George Westinghouse High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,134129,53091,David G Farragut Career Academy High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,504595,53091,David G Farragut Career Academy High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,116570,53101,Marie Sklodowska Curie Metropolitan High School,1.0,122422.64,122422.64,37414.0
+Assistant Principal,000042,143911,53101,Marie Sklodowska Curie Metropolitan High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,391989,53101,Marie Sklodowska Curie Metropolitan High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,444093,53101,Marie Sklodowska Curie Metropolitan High School,1.0,132064.56,132064.56,39561.0
+Assistant Principal,000042,505569,53111,Manley Career Community Academy High School,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,511010,53121,Edward Tilden Career Commmunity Academy,1.0,112425.52,112425.52,35189.0
+Assistant Principal,000042,523658,55011,Phoenix Military Academy,1.0,112331.19,112331.19,35168.0
+Assistant Principal,000042,503914,55151,"Infinity Math, Science, and Technology High School (at Little Village)",1.0,115476.65,115476.65,35868.0
+Assistant Principal,000042,466291,55171,School of Social Justice (at Little Village),1.0,106295.01,106295.01,33824.0
+Assistant Principal,000042,269931,55191,Bronzeville Scholastic Institute,1.0,101390.47,101390.47,32733.0
+Assistant Principal,000042,474273,67021,Peace and Education Coalition High School,1.0,97668.58,97668.58,31904.0
+Assistant Principal,000042,408492,70020,Walter Payton College Preparatory  HS,1.0,109286.83,109286.83,34490.0
+Assistant Principal,000042,488037,70070,Chicago Military Academy - Bronzeville,1.0,105243.24,105243.24,33590.0

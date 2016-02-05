@@ -1,0 +1,78 @@
+title,job_code,position_number,unit_number,unit_name,time_equivalent,salary,fte_salary,benefit_cost
+Manager,020020,241537,10210,Law Office,1.0,118000.0,118000.0,35232.0
+Manager,010020,475557,10615,Safety and Security - City Wide,1.0,78700.0,78700.0,27682.0
+Manager,010020,520396,10816,Chief Education Office,1.0,95000.0,95000.0,31310.0
+Manager,000389,480791,11360,Early Childhood Development,1.0,78700.0,78700.0,26206.0
+Manager,010020,513187,11371,Student Support and Engagement,1.0,82000.0,82000.0,28416.0
+Manager,020020,518021,11371,Student Support and Engagement,0.5,43564.48,21782.24,9524.0
+Manager,020020,518022,11371,Student Support and Engagement,0.5,43564.48,21782.24,9631.0
+Manager,000389,243648,11385,Early Childhood Development - City Wide,1.0,78700.0,78700.0,26206.0
+Manager,010020,244487,11385,Early Childhood Development - City Wide,1.0,105000.0,105000.0,33536.0
+Manager,010020,244501,11385,Early Childhood Development - City Wide,1.0,89124.69,89124.69,28808.0
+Manager,010020,471756,11385,Early Childhood Development - City Wide,1.0,111000.0,111000.0,34872.0
+Manager,010020,518144,11385,Early Childhood Development - City Wide,1.0,78700.0,78700.0,26627.0
+Manager,020020,245155,11610,Diverse Learner Supports & Services,1.0,82000.0,82000.0,27584.0
+Manager,010020,375022,11610,Diverse Learner Supports & Services,1.0,94500.0,94500.0,31199.0
+Manager,020020,412628,11610,Diverse Learner Supports & Services,1.0,98083.81,98083.81,30157.0
+Manager,020020,423827,11610,Diverse Learner Supports & Services,1.0,90000.0,90000.0,29284.0
+Manager,020020,423843,11610,Diverse Learner Supports & Services,1.0,78700.0,78700.0,26206.0
+Manager,974000,489051,11610,Diverse Learner Supports & Services,1.0,104000.0,104000.0,31920.0
+Manager,010020,501499,11610,Diverse Learner Supports & Services,1.0,63000.0,63000.0,24187.0
+Manager,010020,503448,11610,Diverse Learner Supports & Services,1.0,110000.0,110000.0,34650.0
+Manager,010020,503449,11610,Diverse Learner Supports & Services,1.0,117810.0,117810.0,36388.0
+Manager,010020,503450,11610,Diverse Learner Supports & Services,1.0,117000.0,117000.0,36207.0
+Manager,010020,503457,11610,Diverse Learner Supports & Services,1.0,110000.0,110000.0,34649.0
+Manager,020020,511732,11610,Diverse Learner Supports & Services,1.0,105000.0,105000.0,32470.0
+Manager,010020,375148,11671,ODLSS Instructional Supports: Access & Opportunities,1.0,98230.0,98230.0,30713.0
+Manager,020020,423842,11671,ODLSS Instructional Supports: Access & Opportunities,1.0,82000.0,82000.0,26879.0
+Manager,020020,496459,11671,ODLSS Instructional Supports: Access & Opportunities,1.0,104250.0,104250.0,31414.0
+Manager,010020,503444,11672,ODLSS Instructional Supports: Diverse-Learner Supports,1.0,99301.43,99301.43,30937.0
+Manager,020020,520056,11672,ODLSS Instructional Supports: Diverse-Learner Supports,1.0,100000.0,100000.0,31408.0
+Manager,010020,510736,11673,ODLSS Instructional Supports: Specially-Designed Instruction,1.0,89300.0,89300.0,28845.0
+Manager,020020,515047,11673,ODLSS Instructional Supports: Specially-Designed Instruction,1.0,85000.0,85000.0,27490.0
+Manager,010020,503101,11674,ODLSS Instructional Supports: Network Supports,1.0,111000.0,111000.0,33384.0
+Manager,010020,503102,11674,ODLSS Instructional Supports: Network Supports,1.0,90000.0,90000.0,28991.0
+Manager,010020,503103,11674,ODLSS Instructional Supports: Network Supports,1.0,97000.0,97000.0,30455.0
+Manager,010020,503104,11674,ODLSS Instructional Supports: Network Supports,1.0,90000.0,90000.0,28991.0
+Manager,010020,503105,11674,ODLSS Instructional Supports: Network Supports,1.0,97633.58,97633.58,30588.0
+Manager,010020,503406,11674,ODLSS Instructional Supports: Network Supports,1.0,88500.0,88500.0,28677.0
+Manager,010020,503407,11674,ODLSS Instructional Supports: Network Supports,1.0,87000.0,87000.0,28363.0
+Manager,010020,503408,11674,ODLSS Instructional Supports: Network Supports,1.0,78700.0,78700.0,26627.0
+Manager,010020,503409,11674,ODLSS Instructional Supports: Network Supports,1.0,90000.0,90000.0,28991.0
+Manager,010020,503410,11674,ODLSS Instructional Supports: Network Supports,1.0,85000.0,85000.0,27945.0
+Manager,010020,503411,11674,ODLSS Instructional Supports: Network Supports,1.0,90000.0,90000.0,28991.0
+Manager,010020,503412,11674,ODLSS Instructional Supports: Network Supports,1.0,90000.0,90000.0,28991.0
+Manager,010020,503414,11674,ODLSS Instructional Supports: Network Supports,1.0,92700.0,92700.0,29556.0
+Manager,010020,503415,11674,ODLSS Instructional Supports: Network Supports,1.0,87000.0,87000.0,28363.0
+Manager,010020,503416,11674,ODLSS Instructional Supports: Network Supports,1.0,90000.0,90000.0,28991.0
+Manager,010020,503417,11674,ODLSS Instructional Supports: Network Supports,1.0,111000.0,111000.0,33384.0
+Manager,010020,503418,11674,ODLSS Instructional Supports: Network Supports,1.0,102000.0,102000.0,31501.0
+Manager,010020,503419,11674,ODLSS Instructional Supports: Network Supports,1.0,88000.0,88000.0,28573.0
+Manager,010020,503420,11674,ODLSS Instructional Supports: Network Supports,1.0,85000.0,85000.0,27945.0
+Manager,010020,503421,11674,ODLSS Instructional Supports: Network Supports,1.0,98500.0,98500.0,30769.0
+Manager,010020,503423,11674,ODLSS Instructional Supports: Network Supports,1.0,78700.0,78700.0,26627.0
+Manager,010020,503424,11674,ODLSS Instructional Supports: Network Supports,1.0,86000.0,86000.0,28154.0
+Manager,010020,503425,11674,ODLSS Instructional Supports: Network Supports,1.0,88898.13,88898.13,28760.0
+Manager,010020,503426,11674,ODLSS Instructional Supports: Network Supports,1.0,94600.0,94600.0,29953.0
+Manager,010020,503427,11674,ODLSS Instructional Supports: Network Supports,1.0,85000.0,85000.0,27945.0
+Manager,010020,503428,11674,ODLSS Instructional Supports: Network Supports,1.0,102000.0,102000.0,31501.0
+Manager,010020,503430,11674,ODLSS Instructional Supports: Network Supports,1.0,95000.0,95000.0,30037.0
+Manager,010020,503431,11674,ODLSS Instructional Supports: Network Supports,1.0,85000.0,85000.0,27945.0
+Manager,010020,503433,11674,ODLSS Instructional Supports: Network Supports,1.0,105000.0,105000.0,32129.0
+Manager,010020,503434,11674,ODLSS Instructional Supports: Network Supports,1.0,92700.0,92700.0,29556.0
+Manager,010020,503435,11674,ODLSS Instructional Supports: Network Supports,1.0,94605.84,94605.84,29955.0
+Manager,010020,503436,11674,ODLSS Instructional Supports: Network Supports,1.0,101679.95,101679.95,31434.0
+Manager,020020,509958,11674,ODLSS Instructional Supports: Network Supports,1.0,78700.0,78700.0,26206.0
+Manager,020020,509959,11674,ODLSS Instructional Supports: Network Supports,1.0,92700.0,92700.0,29060.0
+Manager,020020,510734,11674,ODLSS Instructional Supports: Network Supports,1.0,88743.56,88743.56,28253.0
+Manager,020020,512136,11674,ODLSS Instructional Supports: Network Supports,1.0,96305.0,96305.0,29795.0
+Manager,020020,295677,12510,Information & Technology Services,1.0,104601.0,104601.0,32385.0
+Manager,020020,295726,12510,Information & Technology Services,1.0,102400.0,102400.0,31918.0
+Manager,020020,256847,12620,Grant Funded Programs Office,1.0,95056.0,95056.0,29540.0
+Manager,020020,388887,13725,Early College and Career,1.0,86570.0,86570.0,28555.0
+Manager,020020,241778,14050,Office of Student Health & Wellness,1.0,118803.67,118803.67,35403.0
+Manager,020020,241800,14050,Office of Student Health & Wellness,1.0,82000.0,82000.0,27584.0
+Manager,020020,298083,14050,Office of Student Health & Wellness,1.0,78700.0,78700.0,26883.0
+Manager,020020,298650,16050,Accountability,1.0,81061.0,81061.0,27384.0
+Manager,020020,481473,16050,Accountability,1.0,72500.0,72500.0,25566.0
+Manager,020020,501392,16050,Accountability,1.0,89100.0,89100.0,29092.0

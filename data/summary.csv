@@ -1,0 +1,795 @@
+title,num_salaries,min,max,avg,med
+Chief of Schools,12,151131.43,151131.43,151131.43,151131.43
+Executive Assistant,23,41700.0,75660.71,54612.69,55000.0
+Instructional Support Leader,72,6908.78,125000.0,95178.85,103243.49
+Network Data Strategist,11,77250.0,108338.63,87332.6,86570.0
+Deputy Chief of Schools,6,122400.0,140000.0,132900.0,135000.0
+School Improvement Coordinator,1,80922.32,80922.32,80922.32,80922.32
+Administrative Assistant,24,29120.0,66167.0,44232.48,42500.0
+Principal,429,120102.81,162759.87,133613.19,132035.99
+Manager - Tch,9,90000.0,110000.0,102682.0,103000.0
+Senior Office Clerk,4,34924.21,39966.14,37851.45,38257.73
+Dir of Military Instruction,1,114000.0,114000.0,114000.0,114000.0
+Dep Dir-Military Instruction,1,102000.0,102000.0,102000.0,102000.0
+Manager-Logistics Jrotc,1,101736.19,101736.19,101736.19,101736.19
+Senior Admin Assist,1,86296.69,86296.69,86296.69,86296.69
+JROTC Instruction Specialist,2,85146.94,87000.0,86073.47,86073.47
+Project Manager,21,52000.0,112000.0,79575.05,74200.0
+Ex Dir Srvc Ld Acdmy Mlt Ins,1,140000.0,140000.0,140000.0,140000.0
+Program Manager,6,78700.0,110000.0,94329.67,95000.0
+Student Special Svc Advocate,76,43231.23,64588.89,48894.96,47698.71
+ALO Program Manager,1,65714.0,65714.0,65714.0,65714.0
+Student Engagement Specialist,23,50000.0,53000.0,52869.57,53000.0
+PASS Program Manager,1,92000.0,92000.0,92000.0,92000.0
+Re-Engagement Coordinator,5,63800.0,74199.04,65879.81,63800.0
+Exec Director Options Prgrms,1,136000.0,136000.0,136000.0,136000.0
+Manager-Student Re-Engagement,2,90000.0,90000.0,90000.0,90000.0
+Project Mgr Data Acctblty,1,78700.0,78700.0,78700.0,78700.0
+Coord for Policy Procedures,2,63800.0,72500.0,68150.0,68150.0
+Project Coordinator,6,41700.0,64890.0,49321.83,45670.5
+Restorative Justice Coord,1,65700.0,65700.0,65700.0,65700.0
+Regular Teacher,14238,10130.59,170413.5,73351.42,77454.48
+Special Education Teacher,3901,15080.77,114730.0,73008.94,74376.72
+Teacher Assistant,576,26881.82,38379.42,32772.15,32777.9
+School Security Officer,1067,27859.63,45339.11,33647.73,33343.16
+Secretary To The Bd Of Ed,1,112916.56,112916.56,112916.56,112916.56
+Board Office Production Spec,1,53000.0,53000.0,53000.0,53000.0
+Asst Secretary to the Bd of Ed,1,80000.0,80000.0,80000.0,80000.0
+Exec Asst To Board President,1,87856.43,87856.43,87856.43,87856.43
+Professional II,15,41700.0,58300.0,47913.73,46350.0
+Office Clerk,3,27700.0,35000.0,31300.0,31200.0
+Dep Chief of Staff - Bd of Ed,1,117300.0,117300.0,117300.0,117300.0
+Chief Of Staff To The Bd Of Ed,1,145000.0,145000.0,145000.0,145000.0
+Human Resources Assistant,1,46604.0,46604.0,46604.0,46604.0
+Senior Labor Rels Spclst - Tch,1,99217.8,99217.8,99217.8,99217.8
+Labor And Empl Rels Director,1,125000.0,125000.0,125000.0,125000.0
+EOCO Investigator,3,58232.9,63334.64,61377.35,62564.52
+Manager,77,43564.48,118803.67,91632.29,90000.0
+Labor Relations Specialist,4,54590.0,77250.0,64210.0,62500.0
+Equal Opportunity Complnc Admn,2,75000.0,103684.56,89342.28,89342.28
+Senior Labor Rels Spclst - Esp,1,95401.73,95401.73,95401.73,95401.73
+Legal Secretary,4,40960.58,46000.0,44326.33,45172.37
+Legal Asst Student Records,1,40000.0,40000.0,40000.0,40000.0
+Executive Assistant - Law,1,69020.84,69020.84,69020.84,69020.84
+Senior Legal Secretary,5,39000.0,57071.73,49430.21,51397.0
+Paralegal I,2,33500.0,38110.0,35805.0,35805.0
+Investigations Team Leader,1,75000.0,75000.0,75000.0,75000.0
+Investigator III,5,63800.0,73000.0,67535.47,68000.0
+Senior Administrative Asst,10,42944.72,74772.85,52907.25,48000.0
+Managing Records Specialist,1,87259.19,87259.19,87259.19,87259.19
+Investigations Manager,1,85000.0,85000.0,85000.0,85000.0
+Records Specialist,2,54463.85,67310.13,60886.99,60886.99
+Senior Asst General Counsel,7,95000.0,109155.64,99208.81,95000.0
+Assistant General Counsel,33,63800.0,106050.13,77785.13,75000.0
+Deputy General Counsel,6,124000.0,137462.82,127405.77,125742.96
+Investigator II,6,45000.0,54600.0,50600.0,53000.0
+General Counsel,1,175000.0,175000.0,175000.0,175000.0
+First Deputy General Counsel,1,145000.0,145000.0,145000.0,145000.0
+Office Manager,8,47500.0,87870.27,61879.21,59598.6
+Student Adjudication Specialis,1,41700.0,41700.0,41700.0,41700.0
+Senior Policy Advisor,1,103530.0,103530.0,103530.0,103530.0
+Senior Manager-Labor Relations,1,95000.0,95000.0,95000.0,95000.0
+Labor Relations Officer,1,150000.0,150000.0,150000.0,150000.0
+Employee Relations Scheduler,1,33500.0,33500.0,33500.0,33500.0
+Administrative IV,7,45500.0,61000.0,53674.6,55000.0
+Investigator IV,3,77868.0,100776.03,87158.34,82831.0
+Chief Investigator,2,95000.0,95000.0,95000.0,95000.0
+Inspector General,1,147000.0,147000.0,147000.0,147000.0
+Assistant Inspector General,2,97000.0,97000.0,97000.0,97000.0
+Audit Team Leader,1,74160.0,74160.0,74160.0,74160.0
+Manager Of Auditing,2,78700.0,102000.0,90350.0,90350.0
+Staff Auditor,2,70000.0,70000.0,70000.0,70000.0
+Senior Auditor,1,82000.0,82000.0,82000.0,82000.0
+Senior Data Strategist,2,94000.0,111000.0,102500.0,102500.0
+Business Effectiveness Manager,1,114600.0,114600.0,114600.0,114600.0
+Sr Business Effect Analyst,1,94100.0,94100.0,94100.0,94100.0
+Business Effectiveness Analyst,2,76500.0,76500.0,76500.0,76500.0
+Audit Coordinator,1,62000.0,62000.0,62000.0,62000.0
+Grant Analyst,2,53000.0,55671.99,54336.0,54336.0
+Fund Business Manager,1,73243.83,73243.83,73243.83,73243.83
+Grant Developer,2,55000.0,67000.0,61000.0,61000.0
+Director - External Affairs,1,102527.0,102527.0,102527.0,102527.0
+Manager - Esp,7,82500.0,110000.0,93885.71,90000.0
+Compliance Analyst,4,60000.0,83094.06,67098.52,62650.0
+Exec Dir-Comp Grants Prtnshp,1,115000.0,115000.0,115000.0,115000.0
+Mgr-State Legislative Affairs,1,90500.0,90500.0,90500.0,90500.0
+Chief of Public Affairs,1,140000.0,140000.0,140000.0,140000.0
+Deputy - Esp,8,96000.0,140000.0,113935.25,115000.0
+Manager Commty Pub Affairs,2,82500.0,82500.0,82500.0,82500.0
+Chief Policy Officer,1,170000.0,170000.0,170000.0,170000.0
+Television Production Asst,1,52808.0,52808.0,52808.0,52808.0
+Deputy Press Secretary,2,60000.0,63800.0,61900.0,61900.0
+Web Content Coordinator,1,48000.0,48000.0,48000.0,48000.0
+Director of Digital Media,1,78700.0,78700.0,78700.0,78700.0
+Exec Dir Digital Commn Brndg,1,115000.0,115000.0,115000.0,115000.0
+Mgr of Integrated Communctns,1,68250.0,68250.0,68250.0,68250.0
+Press Assistant,1,40000.0,40000.0,40000.0,40000.0
+Chief of Media Relations,1,150000.0,150000.0,150000.0,150000.0
+Communications Strategist,3,70000.0,78000.0,72666.67,70000.0
+Graphic Designer,1,47500.0,47500.0,47500.0,47500.0
+Freedom of Info Act Officer,1,72000.0,72000.0,72000.0,72000.0
+Director of Media Affairs,1,130000.0,130000.0,130000.0,130000.0
+Emergency Control Operator,6,46766.93,54187.81,50404.83,50368.57
+HR Customer Service Rep,9,33500.0,45402.4,37209.06,36969.15
+Chief Safety Security OFF,1,150000.0,150000.0,150000.0,150000.0
+Hr Customer Service Professnl,7,41700.0,44994.99,42869.28,41700.0
+Employment Specialist,4,53045.0,61480.37,55926.34,54590.0
+Safety Sec Community Liaison,1,100000.0,100000.0,100000.0,100000.0
+Dep Chief-Network Safety,1,108000.0,108000.0,108000.0,108000.0
+Dep Chief-Strat Safety Init,1,136598.4,136598.4,136598.4,136598.4
+Dep-Safety Response Int Res,1,107260.0,107260.0,107260.0,107260.0
+Student Safety Center Lead,2,63800.0,63800.0,63800.0,63800.0
+Student Safety Ctr Coordinator,2,41700.0,50000.0,45850.0,45850.0
+Employee Intake Coordinator,1,34340.0,34340.0,34340.0,34340.0
+Associate Network Safety Mgr,5,53000.0,60736.0,56831.0,58000.0
+Project Director,1,83605.0,83605.0,83605.0,83605.0
+Network Safety Manager,5,60000.0,80000.0,72080.0,78700.0
+Project Manager - Pro IV,11,61800.0,85000.0,71888.18,74570.0
+Regional Security Facilitator,2,70424.0,72100.0,71262.0,71262.0
+Manager of Field Services,1,84460.0,84460.0,84460.0,84460.0
+Operations Manager,1,63800.0,63800.0,63800.0,63800.0
+Safety Tchnlgy Regional Managr,3,63800.0,80000.0,71266.67,70000.0
+Project Mgr-Connect Redir to R,1,53000.0,53000.0,53000.0,53000.0
+Intelligence Analyst-Cnct Redi,3,47000.0,53000.0,50000.0,50000.0
+Project Manager 1,1,55000.0,55000.0,55000.0,55000.0
+Senior School Security Officer,253,33489.96,57266.02,40313.76,38839.99
+Mg-Safety Sec Trnsprtn Staff,1,85000.0,85000.0,85000.0,85000.0
+Transportation Security Spclst,1,58557.14,58557.14,58557.14,58557.14
+Security Equipment Technician,1,45532.12,45532.12,45532.12,45532.12
+Climate Team Officer,22,33793.02,41406.3,36205.47,37184.91
+Security Team Leader,2,53000.0,53000.0,53000.0,53000.0
+Senior Climate Team Officer,5,35122.02,44711.55,40475.81,40763.4
+Team Leader,6,63800.0,85608.46,71822.91,69851.5
+Flex Team Security Officer,33,27859.63,37070.51,31284.94,30793.78
+Crisis Specialist,1,48000.0,48000.0,48000.0,48000.0
+Crisis Coordinator,3,53000.0,64000.0,59000.0,60000.0
+Event Safety Manager,1,60000.0,60000.0,60000.0,60000.0
+Network Safety Liaison,1,50000.0,50000.0,50000.0,50000.0
+Cntrl Office Security Officer,28,38931.36,38931.36,38931.36,38931.36
+Chief Executive Officer,1,250000.0,250000.0,250000.0,250000.0
+Spec Asst to the Chf Exec Off,1,90000.0,90000.0,90000.0,90000.0
+Dir Strategy and Planning,1,105000.0,105000.0,105000.0,105000.0
+Deputy Chief of Staff,1,130000.0,130000.0,130000.0,130000.0
+Chf of Staff to Chief Exec Off,1,175000.0,175000.0,175000.0,175000.0
+Senior Adviser to the Chief Ex,1,185000.0,185000.0,185000.0,185000.0
+Director of Special Projects,3,110000.0,128309.0,121103.0,125000.0
+Chief Internal Auditor,1,191000.0,191000.0,191000.0,191000.0
+Foreign Language Translator,1,53045.0,53045.0,53045.0,53045.0
+Translation Coordinator,1,86562.16,86562.16,86562.16,86562.16
+Knowledge Mgmt Spec,1,67417.92,67417.92,67417.92,67417.92
+Policy Procedure Specialist,1,65000.0,65000.0,65000.0,65000.0
+Exec Dir Educ Sports Policy,1,130000.0,130000.0,130000.0,130000.0
+Professional IV,70,63000.0,110000.0,83948.04,85000.0
+Chief Teaching Learning Off,1,175000.0,175000.0,175000.0,175000.0
+Instructional Materials Coord,1,56985.48,56985.48,56985.48,56985.48
+Chief of Staff,3,115000.0,145000.0,128333.33,125000.0
+Project Manager -Teacher,3,86984.54,108220.13,94834.89,89300.0
+Deputy Chief Teaching Lrng,1,150000.0,150000.0,150000.0,150000.0
+Chief Education Officer,1,195000.0,195000.0,195000.0,195000.0
+Chief of School Strg and Plng,1,175000.0,175000.0,175000.0,175000.0
+Professional III,30,53000.0,76857.17,61771.9,61132.0
+Chief of School Operations,1,150000.0,150000.0,150000.0,150000.0
+Educational Tech Specialist,2,89300.0,102051.12,95675.56,95675.56
+PD Eval Effectiveness Spec,1,82000.0,82000.0,82000.0,82000.0
+Mgr-External PD Partnerships,1,86520.0,86520.0,86520.0,86520.0
+PD Design Specialists,1,86837.24,86837.24,86837.24,86837.24
+Network PD Specialist,1,69000.0,69000.0,69000.0,69000.0
+Director of New Initiatives,1,100000.0,100000.0,100000.0,100000.0
+Professional V,22,71900.0,119416.5,93034.42,94500.0
+Program Director,3,78700.0,110000.0,94566.67,95000.0
+Senior Manager,14,95100.0,140000.0,112453.62,110500.0
+Gifted Coordinator,1,87588.0,87588.0,87588.0,87588.0
+Executive Director MagnetGifted IB Programs,1,126786.0,126786.0,126786.0,126786.0
+IB Coordinator,1,89300.0,89300.0,89300.0,89300.0
+Sec Magnet Schools Coord,1,92280.52,92280.52,92280.52,92280.52
+Elem Magnet Schools Coord,1,91979.0,91979.0,91979.0,91979.0
+Advanced Placement Coord,1,89300.0,89300.0,89300.0,89300.0
+Sr Mgr Strategy and Planning,1,95227.0,95227.0,95227.0,95227.0
+Ex Dir School Cnslng PS Advs,1,113016.0,113016.0,113016.0,113016.0
+HS Counseling Specialist,1,89000.0,89000.0,89000.0,89000.0
+K-8 Counseling Specialist,1,83000.0,83000.0,83000.0,83000.0
+Spec for Access for Specl Popl,1,65000.0,65000.0,65000.0,65000.0
+College and Career Specialist,7,63800.0,92867.7,76473.97,73800.0
+Mgr Postsecondary Initiatives,1,90000.0,90000.0,90000.0,90000.0
+Gear Up Coach,28,41700.0,67022.59,44736.7,41700.0
+Administrative III,3,39100.0,45000.0,42278.33,42735.0
+Senior Manager Gear Up Post Secondary Advising,1,107748.0,107748.0,107748.0,107748.0
+Data Strategist,2,70000.0,70000.0,70000.0,70000.0
+Chief-College Career Success,1,175000.0,175000.0,175000.0,175000.0
+Exec Asst Chief Officer,2,53000.0,55000.0,54000.0,54000.0
+Dir Strategic Partnerships,2,80000.0,100000.0,90000.0,90000.0
+Mgr STEM Initiatives,1,95000.0,95000.0,95000.0,95000.0
+Re-Engagement Facilitator,4,53000.0,53000.0,53000.0,53000.0
+Director of Arts,1,95100.0,95100.0,95100.0,95100.0
+Arts Educ Mgr of Spec Programs,1,81400.0,81400.0,81400.0,81400.0
+Program Coordinator,8,50000.0,75000.0,62534.54,64531.02
+Arts Education Specialist,1,64000.0,64000.0,64000.0,64000.0
+Positive Behavior Sppt Mgr K-8,1,90000.0,90000.0,90000.0,90000.0
+Positive Behavior Spt Spec K-8,2,78700.0,78700.0,78700.0,78700.0
+Positive Behavior Spt Spec HS,2,80507.55,80850.0,80678.77,80678.77
+Ex Dir Scial Emotional Lrng,1,115500.0,115500.0,115500.0,115500.0
+Mgr-Teen Pregnancy Prevention,1,97644.0,97644.0,97644.0,97644.0
+Teen Pregnancy Prev Specialist,2,63800.0,65714.0,64757.0,64757.0
+Mgr-Student Adjudication,1,103768.87,103768.87,103768.87,103768.87
+Project Assistant,3,45000.0,51213.0,47404.33,46000.0
+Positive Behavior Sppt Mgr-HS,1,95000.0,95000.0,95000.0,95000.0
+Social Emotional Lrng Spcls,9,78700.0,93500.0,87022.22,88000.0
+School Counselor,740,50652.96,107432.95,77651.33,80964.19
+Social Emotional Lrng Spec,6,78700.0,95000.0,87783.33,89000.0
+Senior Compliance Analyst - Tc,1,66950.0,66950.0,66950.0,66950.0
+Senior Compliance Facilitators,7,63800.0,71070.0,66339.23,65714.0
+Manager-Title 1-Part A,1,84260.0,84260.0,84260.0,84260.0
+Director of LSC Relations,1,115000.0,115000.0,115000.0,115000.0
+Assistant Project Coordinator,1,34505.0,34505.0,34505.0,34505.0
+Senior Compliance Analyst - Es,2,63500.0,63800.0,63650.0,63650.0
+Mediation Liaison,1,65000.0,65000.0,65000.0,65000.0
+Employee Records Processor,2,33500.0,43261.83,38380.92,38380.92
+Senior Benefits Analyst,2,70000.0,88901.11,79450.55,79450.55
+Compensation Manager,1,92000.0,92000.0,92000.0,92000.0
+Human Resources Specialist,5,53000.0,65714.0,56142.8,54000.0
+Workforce Planning Manager,1,101585.0,101585.0,101585.0,101585.0
+Employee Services Manager,1,90210.43,90210.43,90210.43,90210.43
+Employee Records Manager,1,98612.58,98612.58,98612.58,98612.58
+Sr HR Customer Service Prof,8,53000.0,62442.04,57540.43,58062.43
+Benefits Manager,1,83206.0,83206.0,83206.0,83206.0
+Director of Staffing Services,1,99000.0,99000.0,99000.0,99000.0
+Recruitment Team Leader,1,91984.46,91984.46,91984.46,91984.46
+Benefits Service Professional,5,41700.0,57000.0,46840.74,44290.0
+Director Employee Services,1,99000.0,99000.0,99000.0,99000.0
+Sr Employee Records Processor,1,53588.3,53588.3,53588.3,53588.3
+Dir - Compensation Benefits,1,125000.0,125000.0,125000.0,125000.0
+Manager -Talent Acquisition,4,78700.0,90000.0,85075.0,85800.0
+Chief Talent Officer,1,165000.0,165000.0,165000.0,165000.0
+HR Program Manager,1,85000.0,85000.0,85000.0,85000.0
+Recruitment Coordinator,1,50000.0,50000.0,50000.0,50000.0
+Human Resources Generalist,4,78700.0,89391.64,86013.41,87981.0
+Workforce Planning Coordinator,1,70525.77,70525.77,70525.77,70525.77
+Senior Recruiter,2,70000.0,77000.0,73500.0,73500.0
+Director-Talent Generalist,1,112504.4,112504.4,112504.4,112504.4
+Broad Resident,2,95000.0,95000.0,95000.0,95000.0
+Benefits Analyst,1,53000.0,53000.0,53000.0,53000.0
+Compensation Analyst,1,60000.0,60000.0,60000.0,60000.0
+Director-Talent Acquisition,2,105000.0,109140.0,107070.0,107070.0
+Educ Pioneer Analyst Fellow,2,57636.8,60000.0,58818.4,58818.4
+Exec Dir of Prof Org Effectv,1,160000.0,160000.0,160000.0,160000.0
+Director of Early Learning,1,130000.0,130000.0,130000.0,130000.0
+Program Manager CLC,1,90000.0,90000.0,90000.0,90000.0
+Specl Projects Coordinator,1,60000.0,60000.0,60000.0,60000.0
+Parent Support Administrator,5,78700.0,130593.49,107003.41,110366.54
+Director-Parent Sppt Centers,1,135000.0,135000.0,135000.0,135000.0
+New Principal Specialist,1,68917.09,68917.09,68917.09,68917.09
+Chief Officer of Networks,1,175000.0,175000.0,175000.0,175000.0
+Exec Director Network Support,7,95100.0,136000.0,106870.0,108000.0
+Leadership Development Spclst,1,80000.0,80000.0,80000.0,80000.0
+Deputy - Tch,2,125000.0,158000.0,141500.0,141500.0
+Executive Director,4,101970.0,140000.0,117507.85,114030.69
+Resident Principal,58,80000.0,80000.0,80000.0,80000.0
+Assistant Principal,650,97668.58,132064.56,110278.15,109286.83
+Executive Director AUSL,1,140956.57,140956.57,140956.57,140956.57
+Dir-Student Achievement-AUSL,1,136000.0,136000.0,136000.0,136000.0
+Teacher Assistant II,496,27963.84,39461.44,31752.87,30597.31
+Part-Time Teacher,143,25326.48,112472.38,68552.3,69365.72
+Bilingual Teacher,2507,25326.48,96758.59,77174.97,82717.55
+Data Systems Manager,1,81061.0,81061.0,81061.0,81061.0
+Application Specialist,1,55000.0,55000.0,55000.0,55000.0
+Outreach Coordinator,1,88541.0,88541.0,88541.0,88541.0
+Testing Manager,1,97291.74,97291.74,97291.74,97291.74
+Testing Coordinator,1,70000.0,70000.0,70000.0,70000.0
+Director of Student Assignment,1,87516.0,87516.0,87516.0,87516.0
+Sr Application Specialist,1,67022.59,67022.59,67022.59,67022.59
+Exec Dir - Enrollment Access,1,125000.0,125000.0,125000.0,125000.0
+Student Assignment Team Leader,1,65000.0,65000.0,65000.0,65000.0
+Application Data Specialist,1,55000.0,55000.0,55000.0,55000.0
+Director of Assessment,1,110090.13,110090.13,110090.13,110090.13
+Program Manager - Esp,12,75000.0,116843.0,92943.07,93201.18
+Assessment Specialist,4,54590.0,92332.71,76730.68,80000.0
+Assessment Materials Manager,1,92263.78,92263.78,92263.78,92263.78
+Fellow,1,31200.0,31200.0,31200.0,31200.0
+Program Administrator,1,78700.0,78700.0,78700.0,78700.0
+Payroll Coordinator,1,59291.93,59291.93,59291.93,59291.93
+Production And Editing Coord,1,81000.33,81000.33,81000.33,81000.33
+Early Childhood Educ Officer,1,160000.0,160000.0,160000.0,160000.0
+Senior Professional,1,95100.0,95100.0,95100.0,95100.0
+Dir of Early Chlidhood Assmnt,1,99000.0,99000.0,99000.0,99000.0
+STLS Coordinator,4,57000.0,70000.0,65170.51,66841.02
+Sr Mgr Student Re-engagement,1,102595.0,102595.0,102595.0,102595.0
+Academic Competition Coord,1,71174.74,71174.74,71174.74,71174.74
+Check Connect Proj Manager,1,81061.0,81061.0,81061.0,81061.0
+Dir-Acad Learning Supports,1,120000.0,120000.0,120000.0,120000.0
+STLS Manager,1,78700.0,78700.0,78700.0,78700.0
+Mgr-Academic Competition,1,108217.44,108217.44,108217.44,108217.44
+Community Schools Initve Coord,1,63800.0,63800.0,63800.0,63800.0
+STLS Specialist,1,45000.0,45000.0,45000.0,45000.0
+Program Coordinator II,1,67000.0,67000.0,67000.0,67000.0
+School Social Worker,324,0.0,112587.36,82713.66,86984.55
+Teacher-Citywide,100,50652.96,103852.58,83962.96,87067.02
+School Nurse,163,47475.93,104641.1,82003.36,84658.31
+Head Start Ed Resource Asst,5,41210.76,41210.76,41210.76,41210.76
+Professional I,5,35973.35,39728.5,37540.4,36770.79
+Head Start Health Res Asst,15,39189.53,50598.31,43579.45,43231.23
+Head Start Social Svc Res Asst,16,39189.53,50598.31,43324.99,42221.0
+Head Start Parent Res Assist,6,41210.76,45358.85,43266.95,43231.23
+Grants And Data Manager,1,100854.94,100854.94,100854.94,100854.94
+Senior Program Coordinator,8,70000.0,91890.37,77258.86,76383.27
+Director of Head Start Program,1,103296.49,103296.49,103296.49,103296.49
+Parent Worker - Other,114,11610.79,24769.68,15806.97,12384.84
+World Language Manager,1,99500.0,99500.0,99500.0,99500.0
+Chief of English Learner Prgrm,1,152000.0,152000.0,152000.0,152000.0
+Dep Chief Lang Cultural Educ,1,130000.0,130000.0,130000.0,130000.0
+EL Compliance Manager,1,108000.0,108000.0,108000.0,108000.0
+Community Relations Rep II,6,47698.71,61640.23,54303.14,53947.05
+Community Relations Rep I,24,36996.91,58706.73,41718.84,40756.45
+Data Anlyst Eval Spclst,2,65000.0,65714.0,65357.0,65357.0
+Chinese World Language Coord,1,79970.26,79970.26,79970.26,79970.26
+Grant Project Coordinator,2,40040.0,53000.0,46520.0,46520.0
+EL Instructional Manager,1,94800.0,94800.0,94800.0,94800.0
+EL Network Specialist,10,78000.0,114000.0,89106.63,84348.0
+EL Compliance Specialist,2,90000.0,94800.0,92400.0,92400.0
+EL Dual Language Specialist,1,90000.0,90000.0,90000.0,90000.0
+EL Instructional Specialist,3,78700.0,100000.0,91233.33,95000.0
+Mgr-Summer Intercession,1,98230.0,98230.0,98230.0,98230.0
+Manager of Virtual Learning,1,84975.0,84975.0,84975.0,84975.0
+Exec Dir Instructional Support,1,120000.0,120000.0,120000.0,120000.0
+K-8 HS Summer Intercsn Crd,1,76500.0,76500.0,76500.0,76500.0
+Due Process Mediation Mgr,1,94800.0,94800.0,94800.0,94800.0
+Due Process Senior Specialist,1,75000.0,75000.0,75000.0,75000.0
+Specialized Services Director,2,106000.0,124743.85,115371.93,115371.93
+Spec Serv Management Analyst,1,57626.21,57626.21,57626.21,57626.21
+HS Program Manager,1,90000.0,90000.0,90000.0,90000.0
+Officer-Lrng Sppt-Special Educ,1,170000.0,170000.0,170000.0,170000.0
+Administrative Manager,1,78700.0,78700.0,78700.0,78700.0
+Lre Manager,1,100000.0,100000.0,100000.0,100000.0
+Senior Executive Assistant,4,57000.0,74778.71,65734.83,65580.31
+Due Process Coordinator,1,74250.14,74250.14,74250.14,74250.14
+Coordinator,1,92404.25,92404.25,92404.25,92404.25
+Early Childhood Manager,1,100000.0,100000.0,100000.0,100000.0
+Family Resources Coordinator,1,53350.0,53350.0,53350.0,53350.0
+Deputy Chief of ODLSS,1,150000.0,150000.0,150000.0,150000.0
+Director of Clinical Services,2,95100.0,117000.0,106050.0,106050.0
+Teacher-Speech Pathologist,367,50652.96,94951.85,72340.01,72873.84
+Transition Specialist,7,65000.0,74843.48,66834.78,65000.0
+Travel Trainer,7,45000.0,45000.0,45000.0,45000.0
+Occupational Therapist,108,50652.96,92402.63,75083.8,81677.27
+Audio And Vision Screen Tech,46,38246.75,54936.21,50467.97,49173.64
+School Psychologist,234,50652.96,96758.59,80412.51,85206.61
+School Enrollment Coordinator,1,53000.0,53000.0,53000.0,53000.0
+School Entry Suppt Specialist,3,63800.0,86375.0,71325.0,63800.0
+Site Coordinator-CW Eval Team,2,80000.0,99592.5,89796.25,89796.25
+Hospital Licensed Prac Nurse,84,36473.22,52296.41,41817.19,42601.42
+Health Service Nurse,54,44690.24,64811.12,51006.54,49308.56
+Physical Therapist,32,55096.0,92403.0,79695.18,83688.07
+Sr Vice President of Finance,1,225000.0,225000.0,225000.0,225000.0
+Managing Engineer,1,112875.0,112875.0,112875.0,112875.0
+Primavera Enterprise Manager,1,111000.0,111000.0,111000.0,111000.0
+Senior Field Service Rep,1,89249.79,89249.79,89249.79,89249.79
+Chief Engineer,1,98365.0,98365.0,98365.0,98365.0
+Energy Manager,1,82243.0,82243.0,82243.0,82243.0
+Chief Facilities Officer,1,165000.0,165000.0,165000.0,165000.0
+Senior Business Syst Anlyst,2,106996.16,107000.0,106998.08,106998.08
+Billing Coordinator,2,41700.0,58400.0,50050.0,50050.0
+Senior Environmental Engineer,1,104395.85,104395.85,104395.85,104395.85
+Exec Director Asst Management,1,136000.0,136000.0,136000.0,136000.0
+Coordinator Of Specl Projects,1,72100.0,72100.0,72100.0,72100.0
+Senior Budget Analyst,10,64000.0,78000.0,69860.0,69300.0
+Senior Budget Manager,1,126220.7,126220.7,126220.7,126220.7
+Deputy Facilities Officer,1,136000.0,136000.0,136000.0,136000.0
+ADA Program Manager,1,103428.0,103428.0,103428.0,103428.0
+Facilities Logistics Coord,1,56000.0,56000.0,56000.0,56000.0
+Sr Mgr Optmz Vendor Mgmt,1,95100.0,95100.0,95100.0,95100.0
+Building Operations Manager,1,94000.0,94000.0,94000.0,94000.0
+Manager Strategy Perf and Bi,1,90750.0,90750.0,90750.0,90750.0
+Transportation Routing Splst,6,47000.0,56000.0,49500.0,48500.0
+Database Analyst,1,61800.0,61800.0,61800.0,61800.0
+Transportation CS Rep,3,36000.0,37000.0,36333.33,36000.0
+Safety Specialist,1,53000.0,53000.0,53000.0,53000.0
+Transportation CS Coordinator,1,76426.0,76426.0,76426.0,76426.0
+Exec Director - Transportation,1,130000.0,130000.0,130000.0,130000.0
+Payroll Administrator,6,46000.0,69894.94,58781.0,61512.55
+Transportation Supervisor,7,63800.0,75000.0,67028.57,63800.0
+Workforce Planner,2,62380.0,63600.0,62990.0,62990.0
+Field Manager,1,90000.0,90000.0,90000.0,90000.0
+Fleet Supervisor,1,85000.0,85000.0,85000.0,85000.0
+Assistant Workforce Planner,1,42000.0,42000.0,42000.0,42000.0
+GSP Superuser,1,75000.0,75000.0,75000.0,75000.0
+Business Analyst,4,55000.0,74000.0,67625.0,70750.0
+Special Programs Coordinator,1,70000.0,70000.0,70000.0,70000.0
+Manager Vendor Operations,1,92400.0,92400.0,92400.0,92400.0
+DIRTransport Diverse Learners,1,113000.0,113000.0,113000.0,113000.0
+Vendor Manager City Region,4,54075.0,57750.0,55750.0,55587.5
+Transportation Rtng Team Ldr,1,66000.0,66000.0,66000.0,66000.0
+Transportation Manager,1,81400.0,81400.0,81400.0,81400.0
+Sr Transportation Rtg Spclst,3,64000.0,66000.0,64746.67,64240.0
+Engineer Class 3,318,68978.52,90954.27,83044.19,84245.77
+Custodial Worker,637,27768.0,44730.54,33989.96,34840.0
+Engineer Class 2,149,90954.27,97532.92,93179.15,90954.27
+Engineer Class 1,35,101017.01,104457.83,102688.27,101017.01
+Lead Custodial Worker,128,38738.34,47545.51,40500.97,38738.34
+Factor Custodial Worker,52,46618.44,63504.38,60372.12,60965.98
+Custodial Worker Assistant,1,37913.84,37913.84,37913.84,37913.84
+Stadium Attendant,5,39887.61,47510.9,41412.27,39887.61
+Lead Facility Manager,5,85000.0,90600.0,88360.0,90600.0
+Facility Manager,35,69870.0,74200.0,71991.78,72000.0
+Facilities Tech Support Rep,1,60000.0,60000.0,60000.0,60000.0
+Landscape Maintenance Tech,1,41200.0,41200.0,41200.0,41200.0
+Head Stadium Attendant,1,56588.69,56588.69,56588.69,56588.69
+Environmental Sustainablty Mgr,1,85000.0,85000.0,85000.0,85000.0
+Field Staff Admin Coordinator,1,67980.0,67980.0,67980.0,67980.0
+Guest Relations Specialist,3,50000.0,58000.0,55000.0,57000.0
+Motor Truck Driver,23,72918.98,72918.98,72918.98,72918.98
+Foreman Of Motor Truck Drivers,1,76929.63,76929.63,76929.63,76929.63
+Administrative II,1,38800.0,38800.0,38800.0,38800.0
+Warehouse Supervisor,1,56062.25,56062.25,56062.25,56062.25
+Coordinator Transportation,1,53000.0,53000.0,53000.0,53000.0
+Warehousing Distr Vend Mgr,1,93589.6,93589.6,93589.6,93589.6
+Director of Real Estate,1,102608.0,102608.0,102608.0,102608.0
+Real Estate Advisor,1,65000.0,65000.0,65000.0,65000.0
+Property Coordinator,1,41700.0,41700.0,41700.0,41700.0
+Real Estate Analyst,1,68000.0,68000.0,68000.0,68000.0
+Property Manager,1,65000.0,65000.0,65000.0,65000.0
+School Bus Aide,842,15450.3,15450.3,15450.3,15450.3
+Parent Worker - Bus Monitor,215,9616.58,15450.3,9742.71,9616.58
+Claims Manager,2,93625.0,103363.62,98494.31,98494.31
+Equipment Repair Technician,1,52000.0,52000.0,52000.0,52000.0
+Equipment Construction Coord,1,71594.55,71594.55,71594.55,71594.55
+Compliance Specialist,1,59500.0,59500.0,59500.0,59500.0
+Food Serv Spec Progams Mgr,1,81061.0,81061.0,81061.0,81061.0
+Exec Dir-Nutrition Sppt Srvcs,1,150000.0,150000.0,150000.0,150000.0
+Senior Systems Analyst,1,83000.0,83000.0,83000.0,83000.0
+Claims Analyst,1,53000.0,53000.0,53000.0,53000.0
+Staffing Analyst,1,53000.0,53000.0,53000.0,53000.0
+Staffing Representative,2,41700.0,46350.0,44025.0,44025.0
+Staffing Specialist,2,45000.0,49000.0,47000.0,47000.0
+Training Specialist,4,55000.0,75190.0,63297.5,61500.0
+Compliance Manager,1,90000.0,90000.0,90000.0,90000.0
+Lunchroom Manager,105,38974.24,51025.91,43366.02,42996.72
+Elementary Lunchroom Manager,281,29814.76,40146.72,34625.38,34644.61
+Lunchroom Attendant,1140,10012.06,20999.27,15753.47,15749.45
+Cook II,178,18737.52,28682.75,24172.32,24368.15
+Porter,568,11172.15,22344.3,20256.9,19551.26
+Associate Lunchroom Mgr III,184,14269.92,22865.5,20737.28,20007.31
+Associate Lunchroom Mgr II,56,22743.6,25992.69,24934.26,25992.69
+Construction Manager,1,93000.0,93000.0,93000.0,93000.0
+Sr Manager Planning Design,1,120000.0,120000.0,120000.0,120000.0
+Director of New Construction,1,124200.0,124200.0,124200.0,124200.0
+Architectural Design Manager,2,80000.0,105000.0,92500.0,92500.0
+Environmental Compliance Spec,1,89300.0,89300.0,89300.0,89300.0
+Environmental Field Srvc Spec,1,70000.0,70000.0,70000.0,70000.0
+ADA Design Specialist,1,76500.0,76500.0,76500.0,76500.0
+Sr MEP Design Manager,1,114600.0,114600.0,114600.0,114600.0
+CivilLandscape Design Manager,1,70000.0,70000.0,70000.0,70000.0
+Sr Manager Construction,1,118250.0,118250.0,118250.0,118250.0
+Sr Commissioning Manager,1,114600.0,114600.0,114600.0,114600.0
+Exec Dir Cap Programs and ADA,1,125000.0,125000.0,125000.0,125000.0
+Category Manager,4,80000.0,102743.0,96435.75,101500.0
+Category Buyer,4,53000.0,62000.0,57000.0,56500.0
+Procurement Technology Analyst,2,63800.0,75000.0,69400.0,69400.0
+Sr Category Buyer,2,72058.0,85054.17,78556.08,78556.08
+Procurement Analyst,2,47000.0,52000.0,49500.0,49500.0
+Business Process Imprvmt Anyls,1,70000.0,70000.0,70000.0,70000.0
+Chief Procurement Officer,1,170000.0,170000.0,170000.0,170000.0
+Dir-School Vendor Relations,1,95000.0,95000.0,95000.0,95000.0
+Purchasing Director,1,130000.0,130000.0,130000.0,130000.0
+Procurement Business Analyst,1,53000.0,53000.0,53000.0,53000.0
+Eeo Compliance Specialist,2,57652.0,59683.24,58667.62,58667.62
+Construction Team Leader,1,71542.97,71542.97,71542.97,71542.97
+Director of Business Diversity,1,128520.0,128520.0,128520.0,128520.0
+Chief Financial Officer,1,180000.0,180000.0,180000.0,180000.0
+Accounting Technician,2,42534.0,57052.89,49793.45,49793.45
+Accountant,7,57368.9,65712.06,61244.07,61383.6
+Senior Analyst - Esp,5,65000.0,70000.0,67285.6,65714.0
+Grants Specialist,2,57368.9,66144.18,61756.54,61756.54
+Senior Accountant,2,68584.8,76059.01,72321.91,72321.91
+Manager Of Business Services,1,89579.1,89579.1,89579.1,89579.1
+Controller,1,150000.0,150000.0,150000.0,150000.0
+Accounting Team Leader,2,78000.0,82400.0,80200.0,80200.0
+Financial Reporting Manager,1,100973.46,100973.46,100973.46,100973.46
+Senior Billing Analyst,2,56876.59,61453.57,59165.08,59165.08
+Attendance Coordinator,16,41380.0,63600.0,50673.72,52000.0
+Billing Manager,1,78700.0,78700.0,78700.0,78700.0
+Senior Records Specialist,1,54590.0,54590.0,54590.0,54590.0
+Financial Transaction Analyst,4,41700.0,58557.14,51493.88,52859.19
+Accounts Payable Tech,3,45700.05,53152.87,50138.93,51563.88
+Customer Service Rep II,1,61777.67,61777.67,61777.67,61777.67
+Billing Analyst,2,63983.07,64272.4,64127.74,64127.74
+Supervisor Accounts Payable,1,60515.04,60515.04,60515.04,60515.04
+Debt Manager,1,90000.0,90000.0,90000.0,90000.0
+Senior Treasury Analyst,1,78700.0,78700.0,78700.0,78700.0
+Treasury Analyst,1,78000.0,78000.0,78000.0,78000.0
+Investment Portfolio Manager,1,85000.0,85000.0,85000.0,85000.0
+Treasurer,1,167000.0,167000.0,167000.0,167000.0
+Director Of Payroll Services,1,125000.0,125000.0,125000.0,125000.0
+Payroll Clerk,8,41132.42,65025.12,51293.41,50667.36
+Payroll Team Lead,2,72286.0,72286.0,72286.0,72286.0
+Senior Payroll Analyst,3,58300.0,89486.34,71166.78,65714.0
+Payroll Manager,1,94265.0,94265.0,94265.0,94265.0
+Payroll Analyst,2,53000.0,54590.0,53795.0,53795.0
+Payroll Supervisor,1,63773.2,63773.2,63773.2,63773.2
+Time Attendance Manager,1,81061.0,81061.0,81061.0,81061.0
+Time Attendance Specialist,1,53000.0,53000.0,53000.0,53000.0
+Time Attendance Analyst,3,40800.0,43810.02,42103.34,41700.0
+Sr Financial Policy Analyst,1,113653.28,113653.28,113653.28,113653.28
+Risk Manager,1,82000.0,82000.0,82000.0,82000.0
+Senior Risk Analyst,1,65714.0,65714.0,65714.0,65714.0
+Senior Project Anlyst,1,63800.0,63800.0,63800.0,63800.0
+Network Administrator,1,62855.0,62855.0,62855.0,62855.0
+Senior Service Desk Specialist,1,82091.89,82091.89,82091.89,82091.89
+Senior Web Developer,4,71500.0,92000.0,77610.0,73470.0
+PMO Analyst,1,63000.0,63000.0,63000.0,63000.0
+Director of Network Services,1,140000.0,140000.0,140000.0,140000.0
+Enterprise Architect Engineer,1,53000.0,53000.0,53000.0,53000.0
+Tech Xl Liaison,2,58320.46,58320.46,58320.46,58320.46
+Manager of Client Systems,1,105000.0,105000.0,105000.0,105000.0
+E-Rate Analyst,2,69000.0,78800.0,73900.0,73900.0
+Manager Web Production,1,79000.0,79000.0,79000.0,79000.0
+Senior Web Designer,1,63800.0,63800.0,63800.0,63800.0
+Telecom Ops Specialist,2,59280.18,67256.05,63268.12,63268.12
+Senior Network Engineer,3,94000.0,111068.61,101533.89,99533.05
+Telecom Wireless Specialist,1,65786.69,65786.69,65786.69,65786.69
+WAN Administrator,1,59242.83,59242.83,59242.83,59242.83
+Enterprise Tchnlgy Spprt Lead,1,80000.0,80000.0,80000.0,80000.0
+Telecom Operations Manager,1,100271.21,100271.21,100271.21,100271.21
+Telecom Customer Svc Spclst,1,78298.16,78298.16,78298.16,78298.16
+Order Management Analyst,2,48020.82,49000.0,48510.41,48510.41
+AD Architect,1,110000.0,110000.0,110000.0,110000.0
+Senior Wan Administrator,2,71902.27,90809.83,81356.05,81356.05
+Telecom Infrastructure Engr,1,78800.0,78800.0,78800.0,78800.0
+Accounts Payable Analyst,1,78151.53,78151.53,78151.53,78151.53
+Chief Info Technology Officer,1,170000.0,170000.0,170000.0,170000.0
+Telecom Infrastructure Manager,1,98254.44,98254.44,98254.44,98254.44
+End User Support Specialist I,5,42951.0,53000.0,45580.4,43000.0
+Voice Data Support Engineer,1,50000.0,50000.0,50000.0,50000.0
+Senior Storage Engineer,1,98000.0,98000.0,98000.0,98000.0
+Director of Web Services,1,126000.0,126000.0,126000.0,126000.0
+ITS Divisional Director,1,150000.0,150000.0,150000.0,150000.0
+Impact Manager - Esp,3,99988.87,102245.0,101195.29,101352.0
+Erp Analyst,3,53000.0,72900.0,59633.33,53000.0
+Senior Telecom Busn Adm Anlyst,1,72031.24,72031.24,72031.24,72031.24
+Telecommunications Manager,1,114000.0,114000.0,114000.0,114000.0
+Senior Erp Analyst,1,98000.0,98000.0,98000.0,98000.0
+Web Producer Business Analyst,1,56000.0,56000.0,56000.0,56000.0
+Systems Engineer,1,78100.0,78100.0,78100.0,78100.0
+Data Administration Sr Analyst,1,88725.96,88725.96,88725.96,88725.96
+Application Mgmt Manager,2,81075.72,101000.0,91037.86,91037.86
+Senior Web Administrator,1,63800.0,63800.0,63800.0,63800.0
+Director-HCIT,1,132500.0,132500.0,132500.0,132500.0
+Technology Director,2,125000.0,132000.0,128500.0,128500.0
+ESS Manager,1,120000.0,120000.0,120000.0,120000.0
+Change Communications Spclst,1,73000.0,73000.0,73000.0,73000.0
+Application Develop Analyst,1,68218.9,68218.9,68218.9,68218.9
+Senior Project Manager,2,94000.0,95000.0,94500.0,94500.0
+Impact Analyst,1,78650.0,78650.0,78650.0,78650.0
+Sr Entprise Tech Spprt Analyst,3,70000.0,89300.0,80395.0,81885.0
+Senior Impact Analyst,2,94473.31,97251.94,95862.63,95862.63
+End User Support Specialist II,3,53000.0,65714.0,57768.0,54590.0
+Director of Data Solutions,1,125000.0,125000.0,125000.0,125000.0
+Customer Sppt Srv Team Leader,1,63800.0,63800.0,63800.0,63800.0
+Impact Business Analyst,2,53000.0,57000.0,55000.0,55000.0
+Senior Communication Spclt,1,68500.0,68500.0,68500.0,68500.0
+Application Systems Specialist,1,70000.0,70000.0,70000.0,70000.0
+Output Device Specialist,1,65000.0,65000.0,65000.0,65000.0
+Senior SCCM Engineer,1,93215.0,93215.0,93215.0,93215.0
+Technical Support Team Leader,1,67000.0,67000.0,67000.0,67000.0
+Database Administrator,1,108120.0,108120.0,108120.0,108120.0
+Dir-Enterprise Appl Services,1,150000.0,150000.0,150000.0,150000.0
+IT Help Desk Manager,1,95000.0,95000.0,95000.0,95000.0
+Senior Data Admin Analyst,2,87550.0,97555.0,92552.5,92552.5
+CIM Business Analyst,1,53200.0,53200.0,53200.0,53200.0
+Systems Security Analyst,1,63800.0,63800.0,63800.0,63800.0
+Training Team Leader - Esp,1,110000.0,110000.0,110000.0,110000.0
+Information Security Engineer,2,90000.0,94800.0,92400.0,92400.0
+Student Info Systems Director,1,132500.0,132500.0,132500.0,132500.0
+Team Ldr Access Idnty Mgmt,1,92000.0,92000.0,92000.0,92000.0
+Jr IT Analyst,7,40000.0,40000.0,40000.0,40000.0
+Windows Server Engineer,1,84000.0,84000.0,84000.0,84000.0
+Data Warehouse ETL Developer,1,85000.0,85000.0,85000.0,85000.0
+Mgr Enterprise Architecture,1,80000.0,80000.0,80000.0,80000.0
+Oracle Applications Developer,3,80000.0,101000.0,90392.0,90176.0
+PMO Director,1,125000.0,125000.0,125000.0,125000.0
+iOS Device Mgmt Administrator,3,72000.0,89200.0,78733.33,75000.0
+Communications Content Spclst,1,70000.0,70000.0,70000.0,70000.0
+Manager Web Development,1,104000.0,104000.0,104000.0,104000.0
+Server Operations Engineer,1,53000.0,53000.0,53000.0,53000.0
+Sr Server Operations Engineer,1,71500.0,71500.0,71500.0,71500.0
+Financial Systems Analyst,3,92821.01,95058.93,93997.83,94113.54
+Budget Analyst I,2,53000.0,53000.0,53000.0,53000.0
+Board of Education Liaison,1,68000.0,68000.0,68000.0,68000.0
+Budget Analyst II,4,58300.0,65000.0,60525.0,59400.0
+Budget Manager,3,88000.0,107027.59,97625.86,97850.0
+Special Projects Manager,1,90000.0,90000.0,90000.0,90000.0
+Analyst I,7,53000.0,62727.0,55818.14,53000.0
+Analyst II,1,55445.66,55445.66,55445.66,55445.66
+Exec Dir Grant Funded Programs,1,136000.0,136000.0,136000.0,136000.0
+Interim Principal,87,120102.81,156752.25,130067.98,129525.04
+Acting Assistant Principal,7,101390.47,114555.48,106069.74,104291.03
+Manager Authorization,2,80300.0,85000.0,82650.0,82650.0
+Manager School Incubation,2,63800.0,78000.0,70900.0,70900.0
+Manager Compliance,1,78700.0,78700.0,78700.0,78700.0
+Financial Compliance Analyst,1,55000.0,55000.0,55000.0,55000.0
+Dir Strategy Implementation,1,81000.0,81000.0,81000.0,81000.0
+School Incubation Sppt Coord,1,53000.0,53000.0,53000.0,53000.0
+Dir- School Culture Climate,2,98000.0,134511.31,116255.66,116255.66
+Director of Operations,1,104071.0,104071.0,104071.0,104071.0
+Literacy Specialist HS,2,88580.0,89000.0,88790.0,88790.0
+Social Science Specialist,2,85000.0,111204.74,98102.37,98102.37
+Literacy Specialist K-2,1,76500.0,76500.0,76500.0,76500.0
+Literacy Specialist 6-8,1,89300.0,89300.0,89300.0,89300.0
+Literacy Specialist 3-5,1,89300.0,89300.0,89300.0,89300.0
+Director of Literacy,1,112000.0,112000.0,112000.0,112000.0
+Teacher - Librarian,21,57492.86,98443.46,80806.41,86940.26
+Manager of Library Services,1,111000.0,111000.0,111000.0,111000.0
+Service Learning Manager,1,85000.0,85000.0,85000.0,85000.0
+Science Specialist 6-8,1,89300.0,89300.0,89300.0,89300.0
+Science Specialist HS,1,86000.0,86000.0,86000.0,86000.0
+Science Specialist K-5,1,96698.46,96698.46,96698.46,96698.46
+Science Director,1,122400.0,122400.0,122400.0,122400.0
+Math Science Director,1,95100.0,95100.0,95100.0,95100.0
+Math Specialist K-5,2,86837.82,90000.0,88418.91,88418.91
+Math Specialist 6-8,2,89300.0,90065.02,89682.51,89682.51
+Math Specialist HS,1,85000.0,85000.0,85000.0,85000.0
+CTE Manager,1,93150.39,93150.39,93150.39,93150.39
+Executive Director Early College Career,1,129524.0,129524.0,129524.0,129524.0
+CTE Sr Operations Specialist,2,70000.0,79474.19,74737.1,74737.1
+Senior Professional - Tch,1,102187.95,102187.95,102187.95,102187.95
+CTE Mrktng Strat Init Coord,1,66990.0,66990.0,66990.0,66990.0
+Mgr-CTE Curriculum Instructn,1,100000.0,100000.0,100000.0,100000.0
+Manager-CTE Operations,1,95100.0,95100.0,95100.0,95100.0
+Department Data Analyst,1,80000.0,80000.0,80000.0,80000.0
+CTE Partnership Dev Liaison,4,63800.0,77411.0,70302.75,70000.0
+Mgr-CTE Partnerships,1,95000.0,95000.0,95000.0,95000.0
+CTE Curriculum Specialist,1,86600.0,86600.0,86600.0,86600.0
+Early CollegeCareer Prog Coor,1,65000.0,65000.0,65000.0,65000.0
+Mgr-Early College Initiative,1,86570.0,86570.0,86570.0,86570.0
+CTE Instructional Sppt Fac,5,70000.0,85000.0,79900.0,81500.0
+Director Of Sports Admin,1,95100.0,95100.0,95100.0,95100.0
+Exec Director-Sports Admin,1,125000.0,125000.0,125000.0,125000.0
+Title IX Sports Compi Coord,1,65000.0,65000.0,65000.0,65000.0
+Regional Athletic Director,5,70000.0,86237.14,79987.89,82000.0
+Director Sports Operations,1,95100.0,95100.0,95100.0,95100.0
+Chief of Strategic School Supp,1,151300.0,151300.0,151300.0,151300.0
+Math Specialist - Elementary,1,78700.0,78700.0,78700.0,78700.0
+Chief Administrative Officer,1,195000.0,195000.0,195000.0,195000.0
+Special Assistant CEO COS,1,215000.0,215000.0,215000.0,215000.0
+Exec Dir-External Partnerships,1,140000.0,140000.0,140000.0,140000.0
+Partnerships Developer,1,64611.0,64611.0,64611.0,64611.0
+Operations Spec Projects Mgr,1,63800.0,63800.0,63800.0,63800.0
+Health Education Specialist,3,53000.0,66000.0,59333.33,59000.0
+Chief Health Officer,1,157000.0,157000.0,157000.0,157000.0
+Dietitian,1,53000.0,53000.0,53000.0,53000.0
+Physical Educ Specialist,2,68000.0,70000.0,69000.0,69000.0
+School Wellness Specialist,6,53000.0,63500.0,57206.67,57000.0
+Dir-Faith-Based Initiatives,1,105000.0,105000.0,105000.0,105000.0
+Family Comm Eng Team Leader,3,63800.0,83549.69,73783.23,74000.0
+Faith-Based Community Coord,1,40000.0,40000.0,40000.0,40000.0
+Community Coordinator,2,62000.0,65508.0,63754.0,63754.0
+Chf Comm Fam Engagement Off,1,150000.0,150000.0,150000.0,150000.0
+Family Community Egmnt Mgr,13,60000.0,82093.93,68014.92,68000.0
+Sr Family Comm Engmnt Mgr,1,97953.0,97953.0,97953.0,97953.0
+Youth Outreach Manager,1,91694.97,91694.97,91694.97,91694.97
+Senior Financial Specialist,14,58455.0,80922.33,71360.73,72174.64
+Financial Specialist,10,53000.0,69000.0,58410.36,54500.0
+School Support Representative,3,40000.0,43000.0,42000.0,43000.0
+Quality Assurance Team Leader,1,77000.0,77000.0,77000.0,77000.0
+Premium Financial Services Mgr,1,85114.05,85114.05,85114.05,85114.05
+Exec Director-School Sppt Ctr,1,110000.0,110000.0,110000.0,110000.0
+Dir of Training Quality,1,100000.0,100000.0,100000.0,100000.0
+Mgr-Finance Support Services,1,93065.0,93065.0,93065.0,93065.0
+Director - Schl Demogr Plng,1,104109.81,104109.81,104109.81,104109.81
+Regional Portfolio Planner,1,95000.0,95000.0,95000.0,95000.0
+Sr Mgr - Business Optimization,1,122000.0,122000.0,122000.0,122000.0
+Exec Director Strategy Mgmt,1,170000.0,170000.0,170000.0,170000.0
+Demographic Analyst,1,57000.0,57000.0,57000.0,57000.0
+Chief Part Org Chnge Officer,1,170000.0,170000.0,170000.0,170000.0
+Director Workforce Analytics,1,106836.0,106836.0,106836.0,106836.0
+Workforce Analyst,2,66000.0,68000.0,67000.0,67000.0
+Senior Research Analyst,4,63800.0,83893.66,76760.29,79673.76
+Human Capital Project Manager,1,85000.0,85000.0,85000.0,85000.0
+Employee Relations Manager,1,102553.2,102553.2,102553.2,102553.2
+Chief Accountability Officer,1,175000.0,175000.0,175000.0,175000.0
+Performance Data Analyst,5,53000.0,81061.0,69812.2,75000.0
+Applied Researcher,1,72500.0,72500.0,72500.0,72500.0
+Senior Data Analyst,1,70180.0,70180.0,70180.0,70180.0
+Dir of Educator Effectiveness,1,130000.0,130000.0,130000.0,130000.0
+Instr Effectiveness Specialist,11,78700.0,110000.0,91007.18,90000.0
+Teacher Compliance Analyst,1,56350.0,56350.0,56350.0,56350.0
+Teacher Compliance Specialist,1,76104.0,76104.0,76104.0,76104.0
+Dir-Performance Data Policy,1,105000.0,105000.0,105000.0,105000.0
+Dir of Research Evaluation,1,114534.29,114534.29,114534.29,114534.29
+Strategic Consultant,1,72500.0,72500.0,72500.0,72500.0
+School Clerk I,685,42740.42,73205.71,53087.69,52529.67
+Cook I,49,22865.5,28682.75,27851.16,28682.75
+Special Ed Classroom Assist II,1451,32370.68,42896.08,36091.02,35731.72
+Special Ed Classroom Assist,1685,31098.27,49785.05,35844.14,36168.04
+School Clerk Assistant,153,31499.79,45182.7,35715.62,34701.23
+School Assistant-Bilingual,13,31166.76,38246.03,34473.51,32651.99
+Bil Spec Ed Classroom Asst II,79,32370.68,42896.08,36608.04,35731.72
+Network Admin - Sb,1,72050.75,72050.75,72050.75,72050.75
+Teacher Assistant Bilingual I,51,28144.93,38379.42,32650.86,31292.16
+Instructor Assistant II,205,29667.64,48210.78,37295.71,36153.53
+School Assistant,34,29683.86,38246.03,34959.07,35182.14
+Program Option Teacher,534,50652.96,96758.59,78772.13,83401.89
+Instructor Assistant,74,28585.63,40928.42,36156.52,35923.32
+School Culture Coordinator,32,47678.71,89300.0,67649.3,65000.0
+School Clerk I Bilin Spanish,155,42740.42,70583.89,53580.33,52529.67
+Bilingual Sp Educ Classrm Asst,77,31098.27,41623.56,35755.24,34459.22
+Technology Coordinator I,81,47298.42,74561.3,53325.21,52202.5
+Teacher Asst Bil Spanish I,46,28144.93,38379.42,32910.83,32777.9
+Head Teacher,25,55095.99,94951.85,84622.22,88715.13
+School Community Representive,61,28585.63,40928.42,32585.88,31772.41
+International Bacl Teacher,198,17388.05,95496.61,75452.6,80665.04
+Technology Coordinator II,34,52202.5,71016.22,59191.87,58010.14
+Youth Intervention Specialist,31,44341.52,53933.2,47347.92,46567.04
+Computer Technician,23,47298.42,70599.12,57037.27,57529.69
+Curriculum And Instruct Coach,35,61161.97,93689.85,82886.15,86984.54
+Teacher Assistant Bilingual II,43,29226.95,38343.59,32211.18,30891.27
+Ed Sign Lang Interpreter II,22,42132.73,54420.74,48208.1,48099.83
+Cook III,104,17149.12,22865.5,20445.31,20007.31
+Guidance Counselor Assistant,115,34701.23,50229.37,39799.74,38590.04
+Technology Coordinator III,25,57529.69,86318.27,69817.36,66546.46
+School Operations Manager,31,82540.78,109168.15,95584.35,91070.21
+School Assistant-Bilingual II,3,33734.0,39328.05,36148.92,35384.71
+Literacy Intervention Teacher,8,57492.95,94951.85,79252.9,85208.65
+Literacy Coach,14,62916.21,93689.86,83303.59,86168.08
+Parent Advocate,23,33568.3,46715.07,37294.33,36996.91
+School Assist Bilingual-Spnish,13,31166.76,38246.03,35210.5,36061.58
+School Business Manager,29,58699.59,82540.78,71705.23,71298.48
+Parent Worker - School Sec Off,12,11288.28,19754.49,12934.49,11288.28
+Parent Advocate-Bilingual,14,33568.3,48116.52,37349.06,36996.91
+Associate Lunchroom Mgr I,16,25097.4,28682.75,28319.44,28682.75
+School Library Assistant,23,34701.23,50229.37,37385.62,36473.22
+Teacher Asst Bil Spanish II,32,29226.95,38343.59,32746.32,32374.18
+Parent Worker - School Sec Aid,9,11288.28,24769.68,17142.69,14218.07
+Security Supervisor II,26,37888.25,51361.27,41342.8,40818.98
+Teacher Asst-Montessori Prm II,31,31096.83,37857.16,32295.06,31096.83
+Teacher Asst-Montessori Prm,13,30014.81,39736.33,33336.33,33366.6
+Acting Principal,8,120102.81,134511.31,125716.05,125929.29
+Lead Coach,3,62916.2,93689.87,82401.01,90596.96
+School Social Svc Assistant,22,26641.22,38246.03,30341.72,29683.86
+Student Special Needs Prm Asst,5,35282.47,43231.23,40024.95,41210.76
+School Assistant II,3,33734.0,35384.71,34284.24,33734.0
+School Library Assistant II,6,37555.24,43683.43,40303.57,39672.05
+Lead Teacher,4,61161.97,93146.18,83287.92,89421.76
+After Schools Program Coord,6,46567.04,53933.2,49113.1,48125.11
+Acting Head Teacher,4,67163.32,89533.78,75437.19,72525.83
+Ed Sign Language Interpreter,2,30014.81,35071.51,32543.16,32543.16
+Ed Sign Lang Interpreter III,10,50092.28,69122.63,57567.36,55249.69
+Interim Assistant Principal,3,97668.58,122280.07,108747.89,106295.01
+School Asst Bilingual-Spnsh II,1,30466.0,30466.0,30466.0,30466.0
+Social Worker Assistant,1,32799.24,32799.24,32799.24,32799.24
+CollegeCareer Coach,28,39077.5,69000.0,49859.28,50000.0
+Effective Schools Teacher,1,51587.54,51587.54,51587.54,51587.54
+School Matron,1,33830.05,33830.05,33830.05,33830.05
+Lunchroom Cashier,15,15018.09,22865.5,20817.97,20007.31
+Post Secondary Liaison,11,53000.0,65000.0,56181.82,53000.0
+Magnet Program Specialist,1,88903.15,88903.15,88903.15,88903.15
+Lifeguard,4,23339.29,25706.52,23931.1,23339.29
+Special Education Support Clrk,4,42740.42,59178.37,51929.97,52900.55
+Student Intake Coordinator,1,45500.0,45500.0,45500.0,45500.0
+Conflict Resolution Specialist,3,53000.0,60049.0,57016.33,58000.0
+Military Instructor,126,59832.1,124520.45,81951.31,83227.69
+Commandant,12,83227.69,117370.0,100843.46,101736.19
+Senior Military Instructor,1,90000.0,90000.0,90000.0,90000.0
+Military Property Custodian,6,47246.69,52175.1,49286.84,49684.19
+At-Risk Student Coordinator,8,53000.0,74200.0,64348.75,66000.0
+Salad Maker,4,16531.25,19286.46,18253.25,18597.66
+Small Lrn Communities Coach,1,81677.32,81677.32,81677.32,81677.32
+Project Analyst,1,59604.0,59604.0,59604.0,59604.0
+Human Relations Officer II,1,48939.01,48939.01,48939.01,48939.01
+HS Programmer,1,40500.0,40500.0,40500.0,40500.0
+Freshman On-Track Lab Facilitr,1,53000.0,53000.0,53000.0,53000.0
+CTE College Career Coordnatr,8,53000.0,70000.0,56971.25,54590.0
+High School Support Teacher,10,51587.54,93689.87,72735.95,77068.73
+Cook-Pastry,1,21316.61,21316.61,21316.61,21316.61
+Radio-Tv Engineer,1,70432.74,70432.74,70432.74,70432.74
+Turnaround Resource Alloc Mgr,1,83430.0,83430.0,83430.0,83430.0
+Dir-Ctr for Arabic Lang Cult,1,65362.46,65362.46,65362.46,65362.46
+CEO Admnstrtor Sch Transformtn,1,120102.79,120102.79,120102.79,120102.79
+Safety And Security Off,3,40188.61,47246.69,44155.68,45031.75
+Director,1,74200.0,74200.0,74200.0,74200.0
+Interpreter Clerk,2,59659.12,61448.89,60554.01,60554.01
+Engineering Specialist,1,75190.0,75190.0,75190.0,75190.0
+Program Schedule Clerk,2,32799.24,45031.75,38915.49,38915.49
+Human Relations Officer III,3,59419.67,72223.64,66802.39,68763.86
+Teacher - Program Facilitator,3,69365.72,92402.63,80508.45,79757.01
+School Health Aide,1,35990.74,35990.74,35990.74,35990.74
+Head Braille Transcriber,1,51361.27,51361.27,51361.27,51361.27
+Supervisor Of Radio-Tv Engin,1,81508.05,81508.05,81508.05,81508.05

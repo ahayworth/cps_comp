@@ -1,0 +1,199 @@
+title,job_code,position_number,unit_number,unit_name,time_equivalent,salary,fte_salary,benefit_cost
+International Bacl Teacher,000029,135650,22131,Alice L Barnard Computer Math & Science Center,1.0,90052.22,90052.22,30209.0
+International Bacl Teacher,000029,142811,22131,Alice L Barnard Computer Math & Science Center,1.0,83371.08,83371.08,28721.0
+International Bacl Teacher,000029,143750,22131,Alice L Barnard Computer Math & Science Center,1.0,89533.78,89533.78,30093.0
+International Bacl Teacher,000029,450492,22371,Bouchet Academy,1.0,90596.96,90596.96,30330.0
+International Bacl Teacher,000029,450493,22371,Bouchet Academy,1.0,86961.45,86961.45,29521.0
+International Bacl Teacher,000029,450494,22371,Bouchet Academy,1.0,63655.92,63655.92,24333.0
+International Bacl Teacher,000029,450495,22371,Bouchet Academy,1.0,57653.6,57653.6,22997.0
+International Bacl Teacher,000029,450496,22371,Bouchet Academy,1.0,81886.76,81886.76,28391.0
+International Bacl Teacher,000029,141634,22551,Andrew Carnegie School,1.0,54161.41,54161.41,22219.0
+International Bacl Teacher,000029,141967,22551,Andrew Carnegie School,1.0,53984.24,53984.24,22180.0
+International Bacl Teacher,000029,454206,22551,Andrew Carnegie School,1.0,50652.96,50652.96,21438.0
+International Bacl Teacher,000029,522546,22551,Andrew Carnegie School,0.5,87149.45,43574.73,14781.0
+International Bacl Teacher,000029,112838,22761,Henry R Clissold School,1.0,88271.78,88271.78,29812.0
+International Bacl Teacher,000029,112956,22761,Henry R Clissold School,1.0,90596.96,90596.96,30330.0
+International Bacl Teacher,000029,146957,22761,Henry R Clissold School,1.0,74380.37,74380.37,26720.0
+International Bacl Teacher,000029,485407,22761,Henry R Clissold School,1.0,71894.9,71894.9,26167.0
+International Bacl Teacher,000029,514343,22761,Henry R Clissold School,1.0,85104.8,85104.8,29107.0
+International Bacl Teacher,000029,522551,22761,Henry R Clissold School,0.5,85019.31,42509.66,14544.0
+International Bacl Teacher,000029,141865,23081,Richard Edwards School,1.0,88271.78,88271.78,29812.0
+International Bacl Teacher,000029,257967,23081,Richard Edwards School,1.0,72625.42,72625.42,26329.0
+International Bacl Teacher,000029,522549,23081,Richard Edwards School,0.5,93664.63,46832.32,15507.0
+International Bacl Teacher,000029,142365,23131,Esmond School,1.0,93690.0,93690.0,31018.0
+International Bacl Teacher,000029,522548,23131,Esmond School,0.5,85019.8,42509.9,14544.0
+International Bacl Teacher,000029,142081,23971,Kate S Kellogg School,0.5,86984.55,43492.28,14763.0
+International Bacl Teacher,000029,333407,23971,Kate S Kellogg School,0.5,94727.21,47363.61,15625.0
+International Bacl Teacher,000029,130665,23991,Joshua D Kershaw Elementary School,0.5,75403.6,37701.8,13474.0
+International Bacl Teacher,000029,141965,23991,Joshua D Kershaw Elementary School,1.0,56236.21,56236.21,22681.0
+International Bacl Teacher,000029,145319,24231,Josephine C Locke School,1.0,52727.75,52727.75,21900.0
+International Bacl Teacher,000029,464641,24341,Marquette Elementary,1.0,59151.87,59151.87,23330.0
+International Bacl Teacher,000029,464643,24341,Marquette Elementary,1.0,52727.75,52727.75,21900.0
+International Bacl Teacher,000029,522598,24341,Marquette Elementary,0.5,57653.51,28826.76,11499.0
+International Bacl Teacher,000029,113543,24361,John L Marsh School,1.0,92402.63,92402.63,30732.0
+International Bacl Teacher,000029,113587,24361,John L Marsh School,1.0,87149.49,87149.49,29562.0
+International Bacl Teacher,000029,114535,24361,John L Marsh School,1.0,69365.72,69365.72,25604.0
+International Bacl Teacher,000029,119972,24361,John L Marsh School,1.0,93689.86,93689.86,31018.0
+International Bacl Teacher,000029,129111,24361,John L Marsh School,1.0,51587.54,51587.54,21646.0
+International Bacl Teacher,000029,230698,24361,John L Marsh School,1.0,88903.15,88903.15,29953.0
+International Bacl Teacher,000029,275497,24361,John L Marsh School,1.0,83371.08,83371.08,28721.0
+International Bacl Teacher,000029,328485,24361,John L Marsh School,1.0,65857.1,65857.1,24823.0
+International Bacl Teacher,000029,522597,24361,John L Marsh School,0.5,85920.0,42960.0,14645.0
+International Bacl Teacher,000029,523696,24361,John L Marsh School,1.0,79209.36,79209.36,27795.0
+International Bacl Teacher,000029,522593,24401,Oscar F Mayer Elementary School,0.5,87149.49,43574.75,14781.0
+International Bacl Teacher,000029,137315,24471,James B Mcpherson Elementary School,1.0,86985.0,86985.0,29526.0
+International Bacl Teacher,000029,144557,24471,James B Mcpherson Elementary School,1.0,81677.58,81677.58,28344.0
+International Bacl Teacher,000029,144683,24471,James B Mcpherson Elementary School,1.0,93146.18,93146.18,30897.0
+International Bacl Teacher,000029,522592,24471,James B Mcpherson Elementary School,0.5,91884.19,45942.1,15308.0
+International Bacl Teacher,000029,376034,24731,William B Ogden School,1.0,94209.37,94209.37,31134.0
+International Bacl Teacher,000029,450852,24731,William B Ogden School,1.0,81677.32,81677.32,28344.0
+International Bacl Teacher,000029,423168,24891,Helen C Peirce School Of International Studies,1.0,75246.55,75246.55,26913.0
+International Bacl Teacher,000029,114505,25561,Elizabeth H Sutherland School,1.0,54161.41,54161.41,22219.0
+International Bacl Teacher,000029,137522,25561,Elizabeth H Sutherland School,1.0,56236.2,56236.2,22681.0
+International Bacl Teacher,000029,142410,25561,Elizabeth H Sutherland School,1.0,93689.86,93689.86,31018.0
+International Bacl Teacher,000029,142459,25561,Elizabeth H Sutherland School,1.0,90077.46,90077.46,30214.0
+International Bacl Teacher,000029,262032,25561,Elizabeth H Sutherland School,1.0,65857.1,65857.1,24823.0
+International Bacl Teacher,000029,522596,25561,Elizabeth H Sutherland School,0.5,56236.18,28118.09,11341.0
+International Bacl Teacher,000029,523505,25561,Elizabeth H Sutherland School,1.0,69116.14,69116.14,25548.0
+International Bacl Teacher,000029,523518,25561,Elizabeth H Sutherland School,1.0,54161.41,54161.41,22219.0
+International Bacl Teacher,000029,523625,25561,Elizabeth H Sutherland School,1.0,57669.87,57669.87,23000.0
+International Bacl Teacher,000029,523669,25561,Elizabeth H Sutherland School,1.0,65857.1,65857.1,24823.0
+International Bacl Teacher,000029,523691,25561,Elizabeth H Sutherland School,1.0,61179.4,61179.4,23782.0
+International Bacl Teacher,000029,523704,25561,Elizabeth H Sutherland School,1.0,56236.21,56236.21,22681.0
+International Bacl Teacher,000029,523730,25561,Elizabeth H Sutherland School,1.0,79757.01,79757.01,27917.0
+International Bacl Teacher,000029,524929,25561,Elizabeth H Sutherland School,0.5,56236.18,28118.09,11341.0
+International Bacl Teacher,000029,119798,25881,Wildwood School,1.0,65338.61,65338.61,24707.0
+International Bacl Teacher,000029,143160,25881,Wildwood School,1.0,88715.63,88715.63,29911.0
+International Bacl Teacher,000029,141236,41041,Francisco I Madero Middle School,1.0,66445.57,66445.57,24954.0
+International Bacl Teacher,000029,141681,41041,Francisco I Madero Middle School,1.0,86984.54,86984.54,29526.0
+International Bacl Teacher,000029,145097,41041,Francisco I Madero Middle School,1.0,86984.54,86984.54,29526.0
+International Bacl Teacher,000029,145362,41041,Francisco I Madero Middle School,1.0,80665.01,80665.01,28119.0
+International Bacl Teacher,000029,145567,41041,Francisco I Madero Middle School,1.0,86984.55,86984.55,29526.0
+International Bacl Teacher,000029,484671,41041,Francisco I Madero Middle School,1.0,51587.54,51587.54,21646.0
+International Bacl Teacher,000029,511174,41041,Francisco I Madero Middle School,1.0,80665.47,80665.47,28119.0
+International Bacl Teacher,000029,522594,41041,Francisco I Madero Middle School,0.5,37701.93,18850.97,9278.0
+International Bacl Teacher,000029,129344,41051,Michelle Clark Academic Prep Magnet High School,1.0,69366.17,69366.17,25604.0
+International Bacl Teacher,000029,129526,41051,Michelle Clark Academic Prep Magnet High School,1.0,81677.32,81677.32,28344.0
+International Bacl Teacher,000029,114102,46031,Roald Amundsen High School,1.0,83371.08,83371.08,28721.0
+International Bacl Teacher,000029,115525,46031,Roald Amundsen High School,1.0,83371.26,83371.26,28721.0
+International Bacl Teacher,000029,116153,46031,Roald Amundsen High School,1.0,52727.75,52727.75,21900.0
+International Bacl Teacher,000029,117142,46031,Roald Amundsen High School,1.0,78169.46,78169.46,27564.0
+International Bacl Teacher,000029,122689,46031,Roald Amundsen High School,1.0,92402.63,92402.63,30732.0
+International Bacl Teacher,000029,123234,46031,Roald Amundsen High School,1.0,90596.94,90596.94,30330.0
+International Bacl Teacher,000029,123440,46031,Roald Amundsen High School,1.0,83371.08,83371.08,28721.0
+International Bacl Teacher,000029,123993,46031,Roald Amundsen High School,1.0,84658.32,84658.32,29008.0
+International Bacl Teacher,000029,124648,46031,Roald Amundsen High School,1.0,93146.18,93146.18,30897.0
+International Bacl Teacher,000029,129276,46031,Roald Amundsen High School,1.0,86961.76,86961.76,29521.0
+International Bacl Teacher,000029,131520,46031,Roald Amundsen High School,1.0,87895.21,87895.21,29728.0
+International Bacl Teacher,000029,137610,46031,Roald Amundsen High School,1.0,74380.36,74380.36,26720.0
+International Bacl Teacher,000029,137729,46031,Roald Amundsen High School,1.0,85394.53,85394.53,29172.0
+International Bacl Teacher,000029,140570,46031,Roald Amundsen High School,1.0,81886.43,81886.43,28391.0
+International Bacl Teacher,000029,215559,46031,Roald Amundsen High School,1.0,65857.1,65857.1,24823.0
+International Bacl Teacher,000029,250420,46031,Roald Amundsen High School,1.0,91884.19,91884.19,30616.0
+International Bacl Teacher,000029,430345,46031,Roald Amundsen High School,1.0,94951.85,94951.85,31299.0
+International Bacl Teacher,000029,487579,46031,Roald Amundsen High School,1.0,61830.76,61830.76,23927.0
+International Bacl Teacher,000029,488281,46031,Roald Amundsen High School,1.0,84472.05,84472.05,27835.0
+International Bacl Teacher,000029,524894,46031,Roald Amundsen High School,1.0,86984.54,86984.54,29526.0
+International Bacl Teacher,000029,122332,46041,William J Bogan Computer Technical High School,1.0,65857.1,65857.1,29172.0
+International Bacl Teacher,000029,143043,46041,William J Bogan Computer Technical High School,1.0,77454.07,77454.07,27404.0
+International Bacl Teacher,000029,146336,46041,William J Bogan Computer Technical High School,1.0,85394.14,85394.14,29172.0
+International Bacl Teacher,000029,524892,46041,William J Bogan Computer Technical High School,0.2,17388.05,3477.61,774.0
+International Bacl Teacher,000029,112167,46171,Hyde Park Career Academy,1.0,90469.57,90469.57,30302.0
+International Bacl Teacher,000029,139903,46171,Hyde Park Career Academy,1.0,89533.78,89533.78,30093.0
+International Bacl Teacher,000029,146177,46171,Hyde Park Career Academy,1.0,51587.54,51587.54,21646.0
+International Bacl Teacher,000029,146971,46171,Hyde Park Career Academy,1.0,50652.96,50652.96,21438.0
+International Bacl Teacher,000029,483747,46171,Hyde Park Career Academy,1.0,80665.07,80665.07,28119.0
+International Bacl Teacher,000029,115971,46181,Thomas Kelly High School,1.0,83452.23,83452.23,28739.0
+International Bacl Teacher,000029,121901,46181,Thomas Kelly High School,1.0,82632.41,82632.41,28557.0
+International Bacl Teacher,000029,129954,46181,Thomas Kelly High School,1.0,92411.52,92411.52,30734.0
+International Bacl Teacher,000029,131457,46181,Thomas Kelly High School,1.0,92403.0,92403.0,30732.0
+International Bacl Teacher,000029,135415,46181,Thomas Kelly High School,1.0,86141.29,86141.29,29338.0
+International Bacl Teacher,000029,136139,46181,Thomas Kelly High School,1.0,90658.1,90658.1,30343.0
+International Bacl Teacher,000029,219830,46181,Thomas Kelly High School,1.0,79209.35,79209.35,27795.0
+International Bacl Teacher,000029,426061,46181,Thomas Kelly High School,1.0,90596.96,90596.96,30330.0
+International Bacl Teacher,000029,494062,46181,Thomas Kelly High School,1.0,69116.14,69116.14,25548.0
+International Bacl Teacher,000029,522601,46181,Thomas Kelly High School,0.5,95496.61,47748.31,15711.0
+International Bacl Teacher,000029,120835,46291,Charles P Steinmetz Academic Centre,1.0,90596.96,90596.96,30330.0
+International Bacl Teacher,000029,124750,46291,Charles P Steinmetz Academic Centre,1.0,85186.7,85186.7,29126.0
+International Bacl Teacher,000029,125024,46291,Charles P Steinmetz Academic Centre,1.0,91339.45,91339.45,30495.0
+International Bacl Teacher,000029,466309,46291,Charles P Steinmetz Academic Centre,1.0,74115.52,74115.52,26661.0
+International Bacl Teacher,000029,114486,46311,William Howard Taft High School,1.0,90077.46,90077.46,30214.0
+International Bacl Teacher,000029,115320,46311,William Howard Taft High School,1.0,92402.63,92402.63,30732.0
+International Bacl Teacher,000029,115784,46311,William Howard Taft High School,1.0,91858.96,91858.96,30611.0
+International Bacl Teacher,000029,116608,46311,William Howard Taft High School,1.0,82632.41,82632.41,28557.0
+International Bacl Teacher,000029,119111,46311,William Howard Taft High School,1.0,61001.08,61001.08,23742.0
+International Bacl Teacher,000029,119160,46311,William Howard Taft High School,1.0,90658.1,90658.1,30343.0
+International Bacl Teacher,000029,120574,46311,William Howard Taft High School,1.0,88246.55,88246.55,29807.0
+International Bacl Teacher,000029,127363,46311,William Howard Taft High School,1.0,55096.0,55096.0,22427.0
+International Bacl Teacher,000029,136443,46311,William Howard Taft High School,1.0,81677.32,81677.32,28344.0
+International Bacl Teacher,000029,136772,46311,William Howard Taft High School,1.0,79757.01,79757.01,27917.0
+International Bacl Teacher,000029,137574,46311,William Howard Taft High School,1.0,79757.01,79757.01,27917.0
+International Bacl Teacher,000029,138501,46311,William Howard Taft High School,1.0,74380.36,74380.36,26720.0
+International Bacl Teacher,000029,140805,46311,William Howard Taft High School,1.0,85394.53,85394.53,29172.0
+International Bacl Teacher,000029,140914,46311,William Howard Taft High School,1.0,94209.64,94209.64,31134.0
+International Bacl Teacher,000029,141145,46311,William Howard Taft High School,1.0,52727.74,52727.74,21900.0
+International Bacl Teacher,000029,146043,46311,William Howard Taft High School,1.0,54161.41,54161.41,22219.0
+International Bacl Teacher,000029,123990,46321,Lincoln Park High School,1.0,59424.1,59424.1,23391.0
+International Bacl Teacher,000029,129873,46321,Lincoln Park High School,1.0,93689.85,93689.85,31018.0
+International Bacl Teacher,000029,146909,46321,Lincoln Park High School,1.0,59424.1,59424.1,23391.0
+International Bacl Teacher,000029,117307,46331,George Washington High School,1.0,86141.29,86141.29,29338.0
+International Bacl Teacher,000029,128365,46331,George Washington High School,1.0,69365.72,69365.72,25604.0
+International Bacl Teacher,000029,133263,46331,George Washington High School,1.0,56236.21,56236.21,22681.0
+International Bacl Teacher,000029,138706,46331,George Washington High School,1.0,57653.6,57653.6,22997.0
+International Bacl Teacher,000029,140034,46331,George Washington High School,1.0,90077.45,90077.45,30214.0
+International Bacl Teacher,000029,145611,46331,George Washington High School,1.0,77454.48,77454.48,27404.0
+International Bacl Teacher,000029,145672,46331,George Washington High School,1.0,69365.72,69365.72,25604.0
+International Bacl Teacher,000029,426016,46331,George Washington High School,1.0,72625.06,72625.06,26329.0
+International Bacl Teacher,000029,484688,46331,George Washington High School,1.0,61830.76,61830.76,23927.0
+International Bacl Teacher,000029,524625,46331,George Washington High School,1.0,50652.96,50652.96,21438.0
+International Bacl Teacher,000029,524644,46331,George Washington High School,1.0,52727.73,52727.73,21900.0
+International Bacl Teacher,000029,522606,46341,Gurdon S Hubbard High School,0.5,94209.35,47104.68,15567.0
+International Bacl Teacher,000029,523524,46341,Gurdon S Hubbard High School,0.5,94209.35,47104.68,15567.0
+International Bacl Teacher,000029,485174,46551,Back of the Yards,1.0,57654.18,57654.18,22997.0
+International Bacl Teacher,000029,485235,46551,Back of the Yards,1.0,86141.42,86141.42,29338.0
+International Bacl Teacher,000029,485244,46551,Back of the Yards,1.0,57492.63,57492.63,22961.0
+International Bacl Teacher,000029,485248,46551,Back of the Yards,1.0,57990.41,57990.41,23072.0
+International Bacl Teacher,000029,485251,46551,Back of the Yards,1.0,72625.42,72625.42,26330.0
+International Bacl Teacher,000029,485295,46551,Back of the Yards,1.0,76248.71,76248.71,27136.0
+International Bacl Teacher,000029,485296,46551,Back of the Yards,1.0,65857.1,65857.1,24823.0
+International Bacl Teacher,000029,485591,46551,Back of the Yards,1.0,53984.05,53984.05,22180.0
+International Bacl Teacher,000029,485594,46551,Back of the Yards,1.0,75403.86,75403.86,26948.0
+International Bacl Teacher,000029,485736,46551,Back of the Yards,1.0,69116.6,69116.6,25548.0
+International Bacl Teacher,000029,485940,46551,Back of the Yards,1.0,53984.17,53984.17,22180.0
+International Bacl Teacher,000029,450497,46631,South Shore International College Prep High School,1.0,73946.38,73946.38,26623.0
+International Bacl Teacher,000029,450498,46631,South Shore International College Prep High School,1.0,61161.97,61161.97,23778.0
+International Bacl Teacher,000029,140741,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,61498.87,61498.87,23853.0
+International Bacl Teacher,000029,146036,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,82632.41,82632.41,28557.0
+International Bacl Teacher,000029,249021,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,64669.36,64669.36,24558.0
+International Bacl Teacher,000029,483746,51091,Roberto Clemente Community Academy High School,1.0,55096.0,55096.0,22427.0
+International Bacl Teacher,000029,114726,53041,Charles Allen Prosser Career Academy,1.0,79757.01,79757.01,27917.0
+International Bacl Teacher,000029,117120,53041,Charles Allen Prosser Career Academy,1.0,83371.08,83371.08,28721.0
+International Bacl Teacher,000029,117828,53041,Charles Allen Prosser Career Academy,1.0,88790.22,88790.22,29928.0
+International Bacl Teacher,000029,134306,53041,Charles Allen Prosser Career Academy,1.0,83265.12,83265.12,28698.0
+International Bacl Teacher,000029,141617,53041,Charles Allen Prosser Career Academy,1.0,91884.19,91884.19,30616.0
+International Bacl Teacher,000029,423083,53041,Charles Allen Prosser Career Academy,1.0,53984.24,53984.24,22180.0
+International Bacl Teacher,000029,522603,53041,Charles Allen Prosser Career Academy,0.5,85187.09,42593.55,14563.0
+International Bacl Teacher,000029,113802,53091,David G Farragut Career Academy High School,1.0,50652.96,50652.96,21438.0
+International Bacl Teacher,000029,115777,53091,David G Farragut Career Academy High School,1.0,57653.6,57653.6,22997.0
+International Bacl Teacher,000029,115999,53091,David G Farragut Career Academy High School,1.0,54161.41,54161.41,22219.0
+International Bacl Teacher,000029,116942,53091,David G Farragut Career Academy High School,1.0,83432.53,83432.53,28735.0
+International Bacl Teacher,000029,117972,53091,David G Farragut Career Academy High School,1.0,51587.54,51587.54,21646.0
+International Bacl Teacher,000029,121127,53091,David G Farragut Career Academy High School,1.0,75403.53,75403.53,26948.0
+International Bacl Teacher,000029,129902,53091,David G Farragut Career Academy High School,1.0,52727.75,52727.75,21900.0
+International Bacl Teacher,000029,145576,53091,David G Farragut Career Academy High School,1.0,83371.08,83371.08,28721.0
+International Bacl Teacher,000029,214136,53091,David G Farragut Career Academy High School,1.0,76248.89,76248.89,27136.0
+International Bacl Teacher,000029,486074,53091,David G Farragut Career Academy High School,1.0,56850.22,56850.22,22818.0
+International Bacl Teacher,000029,486180,53091,David G Farragut Career Academy High School,1.0,52727.73,52727.73,21900.0
+International Bacl Teacher,000029,486181,53091,David G Farragut Career Academy High School,1.0,64510.62,64510.62,24523.0
+International Bacl Teacher,000029,113600,53101,Marie Sklodowska Curie Metropolitan High School,1.0,75403.53,75403.53,26948.0
+International Bacl Teacher,000029,113641,53101,Marie Sklodowska Curie Metropolitan High School,1.0,77454.48,77454.48,27404.0
+International Bacl Teacher,000029,114713,53101,Marie Sklodowska Curie Metropolitan High School,1.0,88246.55,88246.55,29807.0
+International Bacl Teacher,000029,117750,53101,Marie Sklodowska Curie Metropolitan High School,1.0,93689.86,93689.86,31018.0
+International Bacl Teacher,000029,125332,53101,Marie Sklodowska Curie Metropolitan High School,1.0,83452.57,83452.57,28740.0
+International Bacl Teacher,000029,126693,53101,Marie Sklodowska Curie Metropolitan High School,1.0,75403.53,75403.53,26948.0
+International Bacl Teacher,000029,128199,53101,Marie Sklodowska Curie Metropolitan High School,1.0,85394.53,85394.53,29172.0
+International Bacl Teacher,000029,128743,53101,Marie Sklodowska Curie Metropolitan High School,1.0,54161.41,54161.41,22219.0
+International Bacl Teacher,000029,141381,53101,Marie Sklodowska Curie Metropolitan High School,1.0,88790.22,88790.22,29928.0
+International Bacl Teacher,000029,146056,53101,Marie Sklodowska Curie Metropolitan High School,1.0,91404.0,91404.0,30510.0
+International Bacl Teacher,000029,146071,53101,Marie Sklodowska Curie Metropolitan High School,1.0,84658.31,84658.31,29008.0
+International Bacl Teacher,000029,524200,53101,Marie Sklodowska Curie Metropolitan High School,0.5,91854.95,45927.48,15305.0

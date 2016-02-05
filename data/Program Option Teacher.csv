@@ -1,0 +1,535 @@
+title,job_code,position_number,unit_number,unit_name,time_equivalent,salary,fte_salary,benefit_cost
+Program Option Teacher,000054,117237,22031,Louis J Agassiz School,1.0,76248.89,76248.89,27136.0
+Program Option Teacher,000054,136204,22031,Louis J Agassiz School,1.0,93689.87,93689.87,31018.0
+Program Option Teacher,000054,141573,22031,Louis J Agassiz School,1.0,88715.63,88715.63,29911.0
+Program Option Teacher,000054,454246,22031,Louis J Agassiz School,0.5,80665.47,40332.74,14060.0
+Program Option Teacher,000054,454247,22031,Louis J Agassiz School,0.5,80665.47,40332.74,14060.0
+Program Option Teacher,000054,125855,22041,Louisa May Alcott School,0.5,77888.33,38944.17,13751.0
+Program Option Teacher,000054,267340,22131,Alice L Barnard Computer Math & Science Center,0.5,57959.8,28979.9,11533.0
+Program Option Teacher,000054,122211,22201,Jean Baptiste Beaubien School,1.0,83452.57,83452.57,28740.0
+Program Option Teacher,000054,140098,22201,Jean Baptiste Beaubien School,1.0,92921.54,92921.54,30847.0
+Program Option Teacher,000054,143328,22201,Jean Baptiste Beaubien School,1.0,76248.89,76248.89,27136.0
+Program Option Teacher,000054,143361,22201,Jean Baptiste Beaubien School,1.0,69710.38,69710.38,25681.0
+Program Option Teacher,000054,143382,22201,Jean Baptiste Beaubien School,1.0,57653.52,57653.52,22997.0
+Program Option Teacher,000054,465042,22201,Jean Baptiste Beaubien School,1.0,93689.86,93689.86,31019.0
+Program Option Teacher,000054,465043,22201,Jean Baptiste Beaubien School,1.0,82717.83,82717.83,28576.0
+Program Option Teacher,000054,465049,22201,Jean Baptiste Beaubien School,1.0,90596.96,90596.96,30330.0
+Program Option Teacher,000054,126272,22231,Alexander Graham Bell School,1.0,91114.8,91114.8,30445.0
+Program Option Teacher,000054,126289,22231,Alexander Graham Bell School,1.0,86961.45,86961.45,29521.0
+Program Option Teacher,000054,132633,22231,Alexander Graham Bell School,1.0,94727.21,94727.21,31249.0
+Program Option Teacher,000054,112080,22311,Brentano Math & Science Academy,1.0,51587.54,51587.54,21646.0
+Program Option Teacher,000054,131921,22411,Edmund Burke Elementary School,1.0,86961.55,86961.55,29521.0
+Program Option Teacher,000054,116498,22511,Caldwell Academy Of Mathematics Science & Technology,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,432704,22651,George F Cassell School,1.0,90596.95,90596.95,30330.0
+Program Option Teacher,000054,423748,22661,Horace Greeley School,1.0,92402.62,92402.62,30732.0
+Program Option Teacher,000054,450491,22711,STEM Magnet Academy,1.0,85187.11,85187.11,29126.0
+Program Option Teacher,000054,126575,22751,Dewitt Clinton School,1.0,83452.57,83452.57,28740.0
+Program Option Teacher,000054,116519,22761,Henry R Clissold School,1.0,93689.87,93689.87,31018.0
+Program Option Teacher,000054,498063,22951,Dewey Academy Of Multicultural Studies,1.0,50652.96,50652.96,20760.0
+Program Option Teacher,000054,116297,22971,Arthur Dixon School,1.0,84658.32,84658.32,29008.0
+Program Option Teacher,000054,116376,22971,Arthur Dixon School,1.0,75403.86,75403.86,26948.0
+Program Option Teacher,000054,116718,22971,Arthur Dixon School,1.0,83452.57,83452.57,28740.0
+Program Option Teacher,000054,116932,22971,Arthur Dixon School,1.0,79641.97,79641.97,27891.0
+Program Option Teacher,000054,340647,23351,Jesse Owens Elementary Community Academy,1.0,79944.45,79944.45,27959.0
+Program Option Teacher,000054,133369,23431,Nathanael Greene School,1.0,88271.79,88271.79,29812.0
+Program Option Teacher,000054,135254,23501,Alexander Hamilton School,1.0,68847.0,68847.0,25488.0
+Program Option Teacher,000054,118163,23561,Bret Harte Elementary School,1.0,88903.15,88903.15,29953.0
+Program Option Teacher,000054,139220,23621,Stephen K Hayt School,1.0,88715.13,88715.13,29911.0
+Program Option Teacher,000054,126108,23651,Robert Healy School,0.5,86984.55,43492.28,14763.0
+Program Option Teacher,000054,126921,23651,Robert Healy School,1.0,92402.63,92402.63,30732.0
+Program Option Teacher,000054,132966,23651,Robert Healy School,1.0,79757.01,79757.01,27917.0
+Program Option Teacher,000054,137204,23651,Robert Healy School,0.5,81677.32,40838.66,14172.0
+Program Option Teacher,000054,123117,23751,South Loop School,1.0,85394.17,85394.17,29172.0
+Program Option Teacher,000054,123162,23751,South Loop School,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,137008,23751,South Loop School,1.0,83432.53,83432.53,28735.0
+Program Option Teacher,000054,432477,23951,Edward Jenner Academy Of The Arts,1.0,54161.41,54161.41,22219.0
+Program Option Teacher,000054,115769,24021,Joyce Kilmer School,1.0,57451.14,57451.14,22952.0
+Program Option Teacher,000054,115794,24021,Joyce Kilmer School,1.0,79757.11,79757.11,27917.0
+Program Option Teacher,000054,113521,24191,Abraham Lincoln Elementary School,1.0,88271.78,88271.78,29812.0
+Program Option Teacher,000054,131565,24191,Abraham Lincoln Elementary School,1.0,92402.63,92402.63,30732.0
+Program Option Teacher,000054,131604,24191,Abraham Lincoln Elementary School,1.0,91403.33,91403.33,30509.0
+Program Option Teacher,000054,134240,24191,Abraham Lincoln Elementary School,1.0,81677.32,81677.32,28344.0
+Program Option Teacher,000054,134331,24191,Abraham Lincoln Elementary School,1.0,90052.22,90052.22,30209.0
+Program Option Teacher,000054,139444,24191,Abraham Lincoln Elementary School,1.0,88790.22,88790.22,29928.0
+Program Option Teacher,000054,145857,24191,Abraham Lincoln Elementary School,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,135669,24331,Horace Mann School,1.0,91858.95,91858.95,30611.0
+Program Option Teacher,000054,146726,24331,Horace Mann School,1.0,90077.46,90077.46,30214.0
+Program Option Teacher,000054,125887,24591,Mount Greenwood Elementary School,1.0,80964.13,80964.13,28186.0
+Program Option Teacher,000054,122090,24731,William B Ogden School,1.0,91339.45,91339.45,30495.0
+Program Option Teacher,000054,134148,24731,William B Ogden School,1.0,84658.32,84658.32,29008.0
+Program Option Teacher,000054,144840,24731,William B Ogden School,1.0,61161.97,61161.97,23778.0
+Program Option Teacher,000054,138314,24761,William J Onahan School,1.0,65338.61,65338.61,24707.0
+Program Option Teacher,000054,115920,25301,William H Seward Communication Arts Academy,0.5,90596.96,45298.48,14558.0
+Program Option Teacher,000054,484219,25301,William H Seward Communication Arts Academy,1.0,56236.21,56236.21,22682.0
+Program Option Teacher,000054,136188,25471,Adlai E Stevenson School,1.0,91858.96,91858.96,30611.0
+Program Option Teacher,000054,136282,25471,Adlai E Stevenson School,1.0,73946.38,73946.38,26623.0
+Program Option Teacher,000054,116501,25541,William K Sullivan Specialty School,1.0,76248.89,76248.89,27136.0
+Program Option Teacher,000054,142147,25541,William K Sullivan Specialty School,1.0,88271.78,88271.78,29812.0
+Program Option Teacher,000054,143248,25541,William K Sullivan Specialty School,1.0,72625.06,72625.06,26329.0
+Program Option Teacher,000054,141730,25561,Elizabeth H Sutherland School,1.0,61161.98,61161.98,23778.0
+Program Option Teacher,000054,139900,25771,George Washington School,1.0,86141.29,86141.29,29338.0
+Program Option Teacher,000054,119009,25871,A N Pritzker School,1.0,90596.96,90596.96,30330.0
+Program Option Teacher,000054,134824,25871,A N Pritzker School,1.0,72625.01,72625.01,26329.0
+Program Option Teacher,000054,126581,25911,Richard Yates Elementary School,1.0,59151.87,59151.87,23330.0
+Program Option Teacher,000054,137178,25931,Ludwig Von Beethoven School,1.0,93689.86,93689.86,31018.0
+Program Option Teacher,000054,146108,26351,Genevieve Melody School,1.0,82718.0,82718.0,28576.0
+Program Option Teacher,000054,146112,26351,Genevieve Melody School,1.0,83452.75,83452.75,28740.0
+Program Option Teacher,000054,116443,26421,Mary E Mcdowell Elementary School,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,432506,26591,Medgar Evers School,1.0,54161.41,54161.41,22219.0
+Program Option Teacher,000054,140607,29011,Thomas A Edison Regional Gifted Center,1.0,83371.08,83371.08,28721.0
+Program Option Teacher,000054,385823,29011,Thomas A Edison Regional Gifted Center,1.0,52715.84,52715.84,21898.0
+Program Option Teacher,000054,123323,29021,Burnside Scholastic Academy,1.0,79757.09,79757.09,27917.0
+Program Option Teacher,000054,124692,29021,Burnside Scholastic Academy,1.0,94209.35,94209.35,31134.0
+Program Option Teacher,000054,125448,29021,Burnside Scholastic Academy,1.0,88246.55,88246.55,29807.0
+Program Option Teacher,000054,125490,29021,Burnside Scholastic Academy,1.0,82632.41,82632.41,28557.0
+Program Option Teacher,000054,125492,29021,Burnside Scholastic Academy,1.0,62916.2,62916.2,24168.0
+Program Option Teacher,000054,125731,29021,Burnside Scholastic Academy,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,125997,29021,Burnside Scholastic Academy,1.0,93689.86,93689.86,31018.0
+Program Option Teacher,000054,126098,29021,Burnside Scholastic Academy,1.0,86984.54,86984.54,29526.0
+Program Option Teacher,000054,128050,29021,Burnside Scholastic Academy,1.0,93689.86,93689.86,31018.0
+Program Option Teacher,000054,130091,29021,Burnside Scholastic Academy,1.0,85394.15,85394.15,29172.0
+Program Option Teacher,000054,140592,29021,Burnside Scholastic Academy,1.0,86961.76,86961.76,29521.0
+Program Option Teacher,000054,373646,29021,Burnside Scholastic Academy,1.0,88267.09,88267.09,29811.0
+Program Option Teacher,000054,121521,29031,Stephen Decatur Classical School,1.0,72625.06,72625.06,26329.0
+Program Option Teacher,000054,123868,29031,Stephen Decatur Classical School,1.0,77156.7,77156.7,27338.0
+Program Option Teacher,000054,134947,29031,Stephen Decatur Classical School,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,135018,29031,Stephen Decatur Classical School,1.0,79757.01,79757.01,27917.0
+Program Option Teacher,000054,143490,29031,Stephen Decatur Classical School,1.0,86141.29,86141.29,29338.0
+Program Option Teacher,000054,145285,29031,Stephen Decatur Classical School,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,145383,29031,Stephen Decatur Classical School,1.0,79944.45,79944.45,27959.0
+Program Option Teacher,000054,112380,29041,Turner-Drew Language Academy,1.0,77454.48,77454.48,27404.0
+Program Option Teacher,000054,120622,29041,Turner-Drew Language Academy,1.0,90077.45,90077.45,30214.0
+Program Option Teacher,000054,129009,29041,Turner-Drew Language Academy,1.0,91858.96,91858.96,30611.0
+Program Option Teacher,000054,142149,29041,Turner-Drew Language Academy,1.0,83371.08,83371.08,28721.0
+Program Option Teacher,000054,142220,29041,Turner-Drew Language Academy,1.0,83371.08,83371.08,28721.0
+Program Option Teacher,000054,331548,29041,Turner-Drew Language Academy,0.5,83371.26,41685.63,14361.0
+Program Option Teacher,000054,432148,29041,Turner-Drew Language Academy,0.5,83371.26,41685.63,14361.0
+Program Option Teacher,000054,432150,29041,Turner-Drew Language Academy,1.0,86961.45,86961.45,29521.0
+Program Option Teacher,000054,135430,29051,Leif Ericson Scholastic Academy,1.0,82717.46,82717.46,28576.0
+Program Option Teacher,000054,135542,29051,Leif Ericson Scholastic Academy,1.0,65856.63,65856.63,24823.0
+Program Option Teacher,000054,136074,29051,Leif Ericson Scholastic Academy,1.0,85394.53,85394.53,29172.0
+Program Option Teacher,000054,124676,29071,Gerald Delgado Kanoon Magnet School,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,125755,29071,Gerald Delgado Kanoon Magnet School,1.0,91884.19,91884.19,30616.0
+Program Option Teacher,000054,127185,29071,Gerald Delgado Kanoon Magnet School,1.0,54161.41,54161.41,22219.0
+Program Option Teacher,000054,133050,29081,Franklin Fine Arts Center,1.0,88271.79,88271.79,29812.0
+Program Option Teacher,000054,133228,29081,Franklin Fine Arts Center,1.0,88903.15,88903.15,29953.0
+Program Option Teacher,000054,432697,29081,Franklin Fine Arts Center,1.0,85394.53,85394.53,29172.0
+Program Option Teacher,000054,120372,29091,Matthew Gallistel Language Academy,1.0,93664.63,93664.63,31013.0
+Program Option Teacher,000054,129501,29091,Matthew Gallistel Language Academy,1.0,56236.19,56236.19,22681.0
+Program Option Teacher,000054,142899,29091,Matthew Gallistel Language Academy,1.0,92402.63,92402.63,30732.0
+Program Option Teacher,000054,143136,29091,Matthew Gallistel Language Academy,1.0,52727.75,52727.75,21900.0
+Program Option Teacher,000054,432105,29091,Matthew Gallistel Language Academy,1.0,88271.78,88271.78,29812.0
+Program Option Teacher,000054,432175,29091,Matthew Gallistel Language Academy,1.0,79757.01,79757.01,27917.0
+Program Option Teacher,000054,504238,29091,Matthew Gallistel Language Academy,1.0,65856.63,65856.63,23940.0
+Program Option Teacher,000054,120355,29121,Frank W Gunsaulus Scholastic Academy School,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,130778,29121,Frank W Gunsaulus Scholastic Academy School,1.0,61830.76,61830.76,23927.0
+Program Option Teacher,000054,502980,29121,Frank W Gunsaulus Scholastic Academy School,1.0,72625.06,72625.06,26329.0
+Program Option Teacher,000054,120421,29131,Hawthorne Scholastic Academy,1.0,91884.2,91884.2,30616.0
+Program Option Teacher,000054,120590,29131,Hawthorne Scholastic Academy,0.5,61161.47,30580.74,11889.0
+Program Option Teacher,000054,126905,29131,Hawthorne Scholastic Academy,0.5,86984.54,43492.27,14763.0
+Program Option Teacher,000054,128115,29131,Hawthorne Scholastic Academy,1.0,61161.97,61161.97,23778.0
+Program Option Teacher,000054,131115,29131,Hawthorne Scholastic Academy,1.0,93146.18,93146.18,30897.0
+Program Option Teacher,000054,133585,29131,Hawthorne Scholastic Academy,1.0,91884.2,91884.2,30616.0
+Program Option Teacher,000054,133907,29131,Hawthorne Scholastic Academy,1.0,86984.54,86984.54,29526.0
+Program Option Teacher,000054,139687,29131,Hawthorne Scholastic Academy,1.0,75403.53,75403.53,26948.0
+Program Option Teacher,000054,142568,29131,Hawthorne Scholastic Academy,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,142958,29131,Hawthorne Scholastic Academy,1.0,79757.01,79757.01,27917.0
+Program Option Teacher,000054,421851,29131,Hawthorne Scholastic Academy,1.0,90077.45,90077.45,30214.0
+Program Option Teacher,000054,116594,29141,Galileo Scholastic Academy Of Math & Science,0.5,92402.63,46201.32,15366.0
+Program Option Teacher,000054,125476,29141,Galileo Scholastic Academy Of Math & Science,1.0,88271.79,88271.79,29812.0
+Program Option Teacher,000054,125913,29141,Galileo Scholastic Academy Of Math & Science,1.0,61161.98,61161.98,23778.0
+Program Option Teacher,000054,136134,29141,Galileo Scholastic Academy Of Math & Science,0.5,92402.63,46201.32,15366.0
+Program Option Teacher,000054,138775,29141,Galileo Scholastic Academy Of Math & Science,1.0,52727.73,52727.73,21900.0
+Program Option Teacher,000054,141861,29141,Galileo Scholastic Academy Of Math & Science,1.0,85019.31,85019.31,29088.0
+Program Option Teacher,000054,146106,29141,Galileo Scholastic Academy Of Math & Science,1.0,61831.14,61831.14,23927.0
+Program Option Teacher,000054,432190,29141,Galileo Scholastic Academy Of Math & Science,0.5,93665.0,46832.5,15507.0
+Program Option Teacher,000054,118927,29151,Maria Saucedo Scholastic Academy,1.0,79798.08,79798.08,27926.0
+Program Option Teacher,000054,119002,29151,Maria Saucedo Scholastic Academy,1.0,57492.64,57492.64,22961.0
+Program Option Teacher,000054,124276,29151,Maria Saucedo Scholastic Academy,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,127332,29151,Maria Saucedo Scholastic Academy,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,127829,29151,Maria Saucedo Scholastic Academy,1.0,52727.75,52727.75,21900.0
+Program Option Teacher,000054,127929,29151,Maria Saucedo Scholastic Academy,1.0,85920.3,85920.3,29289.0
+Program Option Teacher,000054,128016,29151,Maria Saucedo Scholastic Academy,1.0,90596.96,90596.96,30330.0
+Program Option Teacher,000054,128151,29151,Maria Saucedo Scholastic Academy,1.0,92402.63,92402.63,30732.0
+Program Option Teacher,000054,128492,29151,Maria Saucedo Scholastic Academy,1.0,58038.28,58038.28,23082.0
+Program Option Teacher,000054,128927,29151,Maria Saucedo Scholastic Academy,1.0,51587.54,51587.54,21646.0
+Program Option Teacher,000054,129013,29151,Maria Saucedo Scholastic Academy,1.0,77454.48,77454.48,27404.0
+Program Option Teacher,000054,146103,29151,Maria Saucedo Scholastic Academy,1.0,54161.41,54161.41,22219.0
+Program Option Teacher,000054,146155,29151,Maria Saucedo Scholastic Academy,1.0,61830.76,61830.76,23927.0
+Program Option Teacher,000054,146170,29151,Maria Saucedo Scholastic Academy,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,432213,29151,Maria Saucedo Scholastic Academy,1.0,91114.8,91114.8,30445.0
+Program Option Teacher,000054,432214,29151,Maria Saucedo Scholastic Academy,1.0,90596.96,90596.96,30330.0
+Program Option Teacher,000054,126965,29161,Lasalle Language Academy School,1.0,83265.12,83265.12,28698.0
+Program Option Teacher,000054,432861,29161,Lasalle Language Academy School,1.0,86985.0,86985.0,29526.0
+Program Option Teacher,000054,432873,29161,Lasalle Language Academy School,1.0,51587.54,51587.54,21646.0
+Program Option Teacher,000054,432875,29161,Lasalle Language Academy School,0.5,72873.55,36436.78,13193.0
+Program Option Teacher,000054,474401,29161,Lasalle Language Academy School,0.5,59502.44,29751.22,11704.0
+Program Option Teacher,000054,474510,29161,Lasalle Language Academy School,0.5,59502.44,29751.22,11704.0
+Program Option Teacher,000054,147109,29171,Andrew Jackson Language Academy,1.0,77888.81,77888.81,27501.0
+Program Option Teacher,000054,147175,29171,Andrew Jackson Language Academy,1.0,62916.2,62916.2,24168.0
+Program Option Teacher,000054,147413,29171,Andrew Jackson Language Academy,1.0,91884.2,91884.2,30616.0
+Program Option Teacher,000054,147417,29171,Andrew Jackson Language Academy,1.0,91339.45,91339.45,30495.0
+Program Option Teacher,000054,147438,29171,Andrew Jackson Language Academy,1.0,93689.87,93689.87,31018.0
+Program Option Teacher,000054,147444,29171,Andrew Jackson Language Academy,1.0,53984.17,53984.17,22180.0
+Program Option Teacher,000054,147447,29171,Andrew Jackson Language Academy,1.0,92402.62,92402.62,30732.0
+Program Option Teacher,000054,147451,29171,Andrew Jackson Language Academy,1.0,86141.29,86141.29,29338.0
+Program Option Teacher,000054,147465,29171,Andrew Jackson Language Academy,1.0,56236.19,56236.19,22681.0
+Program Option Teacher,000054,147469,29171,Andrew Jackson Language Academy,1.0,62916.2,62916.2,24168.0
+Program Option Teacher,000054,432862,29171,Andrew Jackson Language Academy,1.0,93689.86,93689.86,31018.0
+Program Option Teacher,000054,432886,29171,Andrew Jackson Language Academy,1.0,78169.46,78169.46,27564.0
+Program Option Teacher,000054,432887,29171,Andrew Jackson Language Academy,1.0,86984.54,86984.54,29526.0
+Program Option Teacher,000054,126036,29181,James E Mcdade Classical School,0.5,84658.31,42329.16,14504.0
+Program Option Teacher,000054,126069,29181,James E Mcdade Classical School,0.5,84658.31,42329.16,14504.0
+Program Option Teacher,000054,136015,29181,James E Mcdade Classical School,1.0,81510.94,81510.94,28307.0
+Program Option Teacher,000054,140066,29181,James E Mcdade Classical School,0.5,86984.55,43492.28,14763.0
+Program Option Teacher,000054,422202,29181,James E Mcdade Classical School,1.0,55096.0,55096.0,22427.0
+Program Option Teacher,000054,134730,29191,Inter-American Magnet,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,136916,29191,Inter-American Magnet,1.0,88790.22,88790.22,29928.0
+Program Option Teacher,000054,136974,29191,Inter-American Magnet,1.0,65857.1,65857.1,24823.0
+Program Option Teacher,000054,433678,29191,Inter-American Magnet,1.0,71894.9,71894.9,26167.0
+Program Option Teacher,000054,137426,29201,Mark Sheridan Mathematics & Science Academy,1.0,86984.55,86984.55,29526.0
+Program Option Teacher,000054,137440,29201,Mark Sheridan Mathematics & Science Academy,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,139380,29201,Mark Sheridan Mathematics & Science Academy,1.0,52727.73,52727.73,21900.0
+Program Option Teacher,000054,432226,29201,Mark Sheridan Mathematics & Science Academy,1.0,93689.86,93689.86,31018.0
+Program Option Teacher,000054,129458,29211,Annie Keller Regional Gifted Magnet School,1.0,90141.06,90141.06,30228.0
+Program Option Teacher,000054,111721,29221,Philip Murray Language Academy,1.0,94727.21,94727.21,31249.0
+Program Option Teacher,000054,111949,29221,Philip Murray Language Academy,1.0,83371.26,83371.26,28721.0
+Program Option Teacher,000054,125955,29221,Philip Murray Language Academy,0.5,83265.55,41632.78,14349.0
+Program Option Teacher,000054,132814,29221,Philip Murray Language Academy,1.0,85394.53,85394.53,29172.0
+Program Option Teacher,000054,140490,29221,Philip Murray Language Academy,1.0,83452.57,83452.57,28740.0
+Program Option Teacher,000054,432888,29221,Philip Murray Language Academy,0.5,83265.55,41632.78,14349.0
+Program Option Teacher,000054,432889,29221,Philip Murray Language Academy,1.0,88903.15,88903.15,29953.0
+Program Option Teacher,000054,432894,29221,Philip Murray Language Academy,1.0,82717.83,82717.83,28576.0
+Program Option Teacher,000054,122837,29231,Walter L Newberry Mathematics & Science Academy,1.0,87895.0,87895.0,29728.0
+Program Option Teacher,000054,122938,29231,Walter L Newberry Mathematics & Science Academy,1.0,77454.48,77454.48,27404.0
+Program Option Teacher,000054,123198,29231,Walter L Newberry Mathematics & Science Academy,1.0,88246.55,88246.55,29807.0
+Program Option Teacher,000054,128324,29231,Walter L Newberry Mathematics & Science Academy,1.0,89649.14,89649.14,30119.0
+Program Option Teacher,000054,142357,29231,Walter L Newberry Mathematics & Science Academy,1.0,83452.75,83452.75,28740.0
+Program Option Teacher,000054,310239,29231,Walter L Newberry Mathematics & Science Academy,0.5,72625.01,36312.51,13165.0
+Program Option Teacher,000054,432732,29231,Walter L Newberry Mathematics & Science Academy,1.0,75403.86,75403.86,26948.0
+Program Option Teacher,000054,119151,29241,William Bishop Owen Scholastic Academy School,1.0,86141.29,86141.29,29338.0
+Program Option Teacher,000054,120353,29241,William Bishop Owen Scholastic Academy School,0.5,76134.59,38067.3,13556.0
+Program Option Teacher,000054,123660,29241,William Bishop Owen Scholastic Academy School,0.5,76134.59,38067.3,13556.0
+Program Option Teacher,000054,123680,29241,William Bishop Owen Scholastic Academy School,0.5,94727.21,47363.61,15625.0
+Program Option Teacher,000054,138226,29241,William Bishop Owen Scholastic Academy School,1.0,87149.49,87149.49,29562.0
+Program Option Teacher,000054,138939,29241,William Bishop Owen Scholastic Academy School,1.0,71894.9,71894.9,26167.0
+Program Option Teacher,000054,138951,29241,William Bishop Owen Scholastic Academy School,1.0,75298.99,75298.99,26925.0
+Program Option Teacher,000054,122909,29251,John J. Pershing East Magnet School,0.5,57653.52,28826.76,11499.0
+Program Option Teacher,000054,122979,29251,John J. Pershing East Magnet School,0.5,57653.52,28826.76,11499.0
+Program Option Teacher,000054,131238,29261,Edgar Allan Poe Classical School,1.0,88929.71,88929.71,29959.0
+Program Option Teacher,000054,136791,29261,Edgar Allan Poe Classical School,1.0,76134.59,76134.59,27111.0
+Program Option Teacher,000054,137017,29261,Edgar Allan Poe Classical School,1.0,70601.17,70601.17,25879.0
+Program Option Teacher,000054,138139,29261,Edgar Allan Poe Classical School,1.0,74380.46,74380.46,26720.0
+Program Option Teacher,000054,138292,29261,Edgar Allan Poe Classical School,1.0,79944.45,79944.45,27959.0
+Program Option Teacher,000054,120926,29281,Mark Skinner School,1.0,88271.78,88271.78,29812.0
+Program Option Teacher,000054,122076,29281,Mark Skinner School,0.5,85920.3,42960.15,14645.0
+Program Option Teacher,000054,131552,29281,Mark Skinner School,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,136043,29281,Mark Skinner School,1.0,79757.01,79757.01,27917.0
+Program Option Teacher,000054,136091,29281,Mark Skinner School,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,136457,29281,Mark Skinner School,1.0,75298.99,75298.99,26925.0
+Program Option Teacher,000054,147269,29281,Mark Skinner School,1.0,86141.29,86141.29,29338.0
+Program Option Teacher,000054,489243,29281,Mark Skinner School,0.5,85920.3,42960.15,14645.0
+Program Option Teacher,000054,489247,29281,Mark Skinner School,1.0,87149.49,87149.49,29562.0
+Program Option Teacher,000054,489248,29281,Mark Skinner School,1.0,85394.53,85394.53,29172.0
+Program Option Teacher,000054,118408,29291,Stone Scholastic Academy,1.0,81443.92,81443.92,28292.0
+Program Option Teacher,000054,128253,29291,Stone Scholastic Academy,1.0,56236.21,56236.21,22681.0
+Program Option Teacher,000054,130059,29291,Stone Scholastic Academy,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,130920,29291,Stone Scholastic Academy,1.0,83452.57,83452.57,28740.0
+Program Option Teacher,000054,131213,29291,Stone Scholastic Academy,1.0,87149.14,87149.14,29562.0
+Program Option Teacher,000054,131332,29291,Stone Scholastic Academy,1.0,73946.38,73946.38,26623.0
+Program Option Teacher,000054,131875,29291,Stone Scholastic Academy,1.0,81886.43,81886.43,28391.0
+Program Option Teacher,000054,132006,29291,Stone Scholastic Academy,1.0,52727.75,52727.75,21900.0
+Program Option Teacher,000054,132276,29291,Stone Scholastic Academy,1.0,86141.29,86141.29,29338.0
+Program Option Teacher,000054,132362,29291,Stone Scholastic Academy,1.0,69116.14,69116.14,25548.0
+Program Option Teacher,000054,132425,29291,Stone Scholastic Academy,1.0,85394.53,85394.53,29172.0
+Program Option Teacher,000054,133836,29291,Stone Scholastic Academy,1.0,79757.01,79757.01,27917.0
+Program Option Teacher,000054,134070,29291,Stone Scholastic Academy,1.0,72625.01,72625.01,26329.0
+Program Option Teacher,000054,303557,29291,Stone Scholastic Academy,1.0,65857.1,65857.1,24823.0
+Program Option Teacher,000054,116483,29301,Ole A Thorp Scholastic Academy,1.0,61830.76,61830.76,23927.0
+Program Option Teacher,000054,121531,29301,Ole A Thorp Scholastic Academy,1.0,94727.21,94727.21,31249.0
+Program Option Teacher,000054,125227,29301,Ole A Thorp Scholastic Academy,1.0,79757.01,79757.01,27917.0
+Program Option Teacher,000054,125331,29301,Ole A Thorp Scholastic Academy,1.0,54161.41,54161.41,22219.0
+Program Option Teacher,000054,127157,29301,Ole A Thorp Scholastic Academy,1.0,57653.6,57653.6,22997.0
+Program Option Teacher,000054,127273,29301,Ole A Thorp Scholastic Academy,1.0,72625.06,72625.06,26329.0
+Program Option Teacher,000054,128483,29301,Ole A Thorp Scholastic Academy,1.0,76248.89,76248.89,27136.0
+Program Option Teacher,000054,131180,29301,Ole A Thorp Scholastic Academy,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,131480,29301,Ole A Thorp Scholastic Academy,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,134692,29301,Ole A Thorp Scholastic Academy,1.0,59744.64,59744.64,23462.0
+Program Option Teacher,000054,140047,29301,Ole A Thorp Scholastic Academy,1.0,73946.38,73946.38,26623.0
+Program Option Teacher,000054,140190,29301,Ole A Thorp Scholastic Academy,1.0,83371.08,83371.08,28721.0
+Program Option Teacher,000054,140319,29301,Ole A Thorp Scholastic Academy,1.0,92402.61,92402.61,30732.0
+Program Option Teacher,000054,140629,29301,Ole A Thorp Scholastic Academy,1.0,86984.55,86984.55,29526.0
+Program Option Teacher,000054,144186,29301,Ole A Thorp Scholastic Academy,1.0,73946.38,73946.38,26623.0
+Program Option Teacher,000054,331351,29301,Ole A Thorp Scholastic Academy,1.0,53984.24,53984.24,22180.0
+Program Option Teacher,000054,454233,29301,Ole A Thorp Scholastic Academy,1.0,88790.22,88790.22,29928.0
+Program Option Teacher,000054,123054,29311,John H Vanderpoel Magnet School,1.0,91858.96,91858.96,30611.0
+Program Option Teacher,000054,124203,29311,John H Vanderpoel Magnet School,1.0,91403.81,91403.81,30509.0
+Program Option Teacher,000054,124761,29311,John H Vanderpoel Magnet School,1.0,85019.55,85019.55,29088.0
+Program Option Teacher,000054,124874,29311,John H Vanderpoel Magnet School,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,331551,29311,John H Vanderpoel Magnet School,0.5,81391.49,40695.75,14141.0
+Program Option Teacher,000054,331570,29311,John H Vanderpoel Magnet School,0.5,94951.85,47475.93,15650.0
+Program Option Teacher,000054,331571,29311,John H Vanderpoel Magnet School,0.5,94951.85,47475.93,15650.0
+Program Option Teacher,000054,123499,29321,Beasley Academic Center Magnet,1.0,81886.43,81886.43,28391.0
+Program Option Teacher,000054,129528,29321,Beasley Academic Center Magnet,1.0,71987.66,71987.66,26187.0
+Program Option Teacher,000054,130754,29321,Beasley Academic Center Magnet,1.0,83371.08,83371.08,28721.0
+Program Option Teacher,000054,133151,29321,Beasley Academic Center Magnet,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,133618,29321,Beasley Academic Center Magnet,1.0,83452.57,83452.57,28740.0
+Program Option Teacher,000054,133645,29321,Beasley Academic Center Magnet,1.0,65338.91,65338.91,24707.0
+Program Option Teacher,000054,133705,29321,Beasley Academic Center Magnet,1.0,93223.31,93223.31,30915.0
+Program Option Teacher,000054,133979,29321,Beasley Academic Center Magnet,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,134280,29321,Beasley Academic Center Magnet,1.0,53965.12,53965.12,22176.0
+Program Option Teacher,000054,134308,29321,Beasley Academic Center Magnet,1.0,66424.01,66424.01,24949.0
+Program Option Teacher,000054,134492,29321,Beasley Academic Center Magnet,1.0,90596.96,90596.96,30330.0
+Program Option Teacher,000054,135144,29321,Beasley Academic Center Magnet,1.0,53984.2,53984.2,22180.0
+Program Option Teacher,000054,135408,29321,Beasley Academic Center Magnet,1.0,67997.27,67997.27,25299.0
+Program Option Teacher,000054,135554,29321,Beasley Academic Center Magnet,1.0,53984.18,53984.18,22180.0
+Program Option Teacher,000054,135616,29321,Beasley Academic Center Magnet,1.0,85920.3,85920.3,29289.0
+Program Option Teacher,000054,135629,29321,Beasley Academic Center Magnet,1.0,86984.55,86984.55,29526.0
+Program Option Teacher,000054,172498,29321,Beasley Academic Center Magnet,1.0,85019.55,85019.55,29088.0
+Program Option Teacher,000054,456036,29321,Beasley Academic Center Magnet,0.5,88271.78,44135.89,14906.0
+Program Option Teacher,000054,125266,29341,Jensen Scholastic Academy School,1.0,79757.5,79757.5,27917.0
+Program Option Teacher,000054,143722,29341,Jensen Scholastic Academy School,1.0,81677.22,81677.22,28344.0
+Program Option Teacher,000054,432208,29381,Robert A Black Magnet School,1.0,91403.33,91403.33,30509.0
+Program Option Teacher,000054,127045,29401,Walt Disney Magnet School,1.0,86141.29,86141.29,29338.0
+Program Option Teacher,000054,128699,29401,Walt Disney Magnet School,1.0,69366.09,69366.09,25604.0
+Program Option Teacher,000054,129107,29401,Walt Disney Magnet School,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,129412,29401,Walt Disney Magnet School,1.0,76134.15,76134.15,27110.0
+Program Option Teacher,000054,129618,29401,Walt Disney Magnet School,1.0,52727.73,52727.73,21900.0
+Program Option Teacher,000054,130209,29401,Walt Disney Magnet School,1.0,84658.31,84658.31,29008.0
+Program Option Teacher,000054,130229,29401,Walt Disney Magnet School,1.0,86940.38,86940.38,29516.0
+Program Option Teacher,000054,130455,29401,Walt Disney Magnet School,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,130471,29401,Walt Disney Magnet School,1.0,57492.64,57492.64,22961.0
+Program Option Teacher,000054,130495,29401,Walt Disney Magnet School,1.0,88246.55,88246.55,29807.0
+Program Option Teacher,000054,130699,29401,Walt Disney Magnet School,1.0,93689.86,93689.86,31018.0
+Program Option Teacher,000054,130756,29401,Walt Disney Magnet School,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,130852,29401,Walt Disney Magnet School,1.0,65338.55,65338.55,24707.0
+Program Option Teacher,000054,130986,29401,Walt Disney Magnet School,1.0,52727.73,52727.73,21900.0
+Program Option Teacher,000054,131312,29401,Walt Disney Magnet School,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,131455,29401,Walt Disney Magnet School,1.0,88246.55,88246.55,29807.0
+Program Option Teacher,000054,131490,29401,Walt Disney Magnet School,1.0,90052.22,90052.22,30209.0
+Program Option Teacher,000054,131597,29401,Walt Disney Magnet School,1.0,91339.45,91339.45,30495.0
+Program Option Teacher,000054,132060,29401,Walt Disney Magnet School,1.0,52727.73,52727.73,21900.0
+Program Option Teacher,000054,132185,29401,Walt Disney Magnet School,1.0,51587.54,51587.54,21646.0
+Program Option Teacher,000054,140650,29401,Walt Disney Magnet School,1.0,61830.76,61830.76,23927.0
+Program Option Teacher,000054,432272,29401,Walt Disney Magnet School,1.0,71894.9,71894.9,26167.0
+Program Option Teacher,000054,114691,31041,Crown Community Academy Fine Arts Center,1.0,79944.28,79944.28,27959.0
+Program Option Teacher,000054,122719,31081,Stephen F Gale Community Academy,1.0,69365.72,69365.72,25604.0
+Program Option Teacher,000054,142460,31081,Stephen F Gale Community Academy,1.0,89649.14,89649.14,30119.0
+Program Option Teacher,000054,143106,31081,Stephen F Gale Community Academy,1.0,86984.55,86984.55,29526.0
+Program Option Teacher,000054,314010,31081,Stephen F Gale Community Academy,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,121795,31101,Ninos Heroes Academic Center,1.0,90658.27,90658.27,30344.0
+Program Option Teacher,000054,136697,31101,Ninos Heroes Academic Center,1.0,85920.3,85920.3,29289.0
+Program Option Teacher,000054,128993,31111,John Hay Community Academy School,1.0,56236.19,56236.19,22681.0
+Program Option Teacher,000054,130129,31111,John Hay Community Academy School,1.0,93664.63,93664.63,29758.0
+Program Option Teacher,000054,133685,31181,Francis W Parker Community Academy,1.0,69366.17,69366.17,25604.0
+Program Option Teacher,000054,139629,31181,Francis W Parker Community Academy,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,432257,31201,Parkside Community Academy School,1.0,57653.51,57653.51,22997.0
+Program Option Teacher,000054,139637,31211,Pulaski International School of Chicago,1.0,72625.06,72625.06,26329.0
+Program Option Teacher,000054,140524,31211,Pulaski International School of Chicago,1.0,64669.83,64669.83,24559.0
+Program Option Teacher,000054,141639,31211,Pulaski International School of Chicago,1.0,53984.24,53984.24,22180.0
+Program Option Teacher,000054,144779,31211,Pulaski International School of Chicago,1.0,51587.54,51587.54,21646.0
+Program Option Teacher,000054,147397,31211,Pulaski International School of Chicago,1.0,90596.95,90596.95,30330.0
+Program Option Teacher,000054,432509,31211,Pulaski International School of Chicago,1.0,57492.86,57492.86,22961.0
+Program Option Teacher,000054,485507,31211,Pulaski International School of Chicago,0.5,56850.23,28425.12,11409.0
+Program Option Teacher,000054,136904,31251,Thomas J Higgins Community Academy,1.0,85695.66,85695.66,29239.0
+Program Option Teacher,000054,130142,31261,Jose De Diego Community Academy,1.0,80665.47,80665.47,28119.0
+Program Option Teacher,000054,130179,31261,Jose De Diego Community Academy,1.0,85920.3,85920.3,29289.0
+Program Option Teacher,000054,142371,31261,Jose De Diego Community Academy,1.0,61161.97,61161.97,23778.0
+Program Option Teacher,000054,124027,31281,Orozco Academy,1.0,85920.3,85920.3,29289.0
+Program Option Teacher,000054,432513,31281,Orozco Academy,1.0,91114.8,91114.8,30445.0
+Program Option Teacher,000054,134770,32011,Albany Park Multicultural Academy Elementary School,1.0,65409.69,65409.69,24723.0
+Program Option Teacher,000054,116446,46041,William J Bogan Computer Technical High School,1.0,75298.99,75298.99,26925.0
+Program Option Teacher,000054,116673,46041,William J Bogan Computer Technical High School,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,119102,46041,William J Bogan Computer Technical High School,1.0,76134.6,76134.6,27111.0
+Program Option Teacher,000054,126566,46041,William J Bogan Computer Technical High School,1.0,88715.98,88715.98,29911.0
+Program Option Teacher,000054,131569,46041,William J Bogan Computer Technical High School,1.0,91884.2,91884.2,30616.0
+Program Option Teacher,000054,133627,46041,William J Bogan Computer Technical High School,1.0,86984.55,86984.55,29526.0
+Program Option Teacher,000054,134793,46041,William J Bogan Computer Technical High School,1.0,81677.32,81677.32,28344.0
+Program Option Teacher,000054,121926,46171,Hyde Park Career Academy,1.0,93664.63,93664.63,31013.0
+Program Option Teacher,000054,123964,46171,Hyde Park Career Academy,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,124010,46171,Hyde Park Career Academy,1.0,83303.75,83303.75,28706.0
+Program Option Teacher,000054,134440,46171,Hyde Park Career Academy,1.0,55096.0,55096.0,21689.0
+Program Option Teacher,000054,136137,46171,Hyde Park Career Academy,1.0,83452.57,83452.57,28740.0
+Program Option Teacher,000054,136450,46171,Hyde Park Career Academy,1.0,72625.06,72625.06,26329.0
+Program Option Teacher,000054,131836,46181,Thomas Kelly High School,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,138238,46181,Thomas Kelly High School,1.0,91114.8,91114.8,30445.0
+Program Option Teacher,000054,138246,46181,Thomas Kelly High School,1.0,90597.0,90597.0,30330.0
+Program Option Teacher,000054,139625,46181,Thomas Kelly High School,1.0,92402.63,92402.63,30732.0
+Program Option Teacher,000054,134163,46201,John F Kennedy High School,1.0,79209.44,79209.44,27795.0
+Program Option Teacher,000054,120028,46211,Lake View High School,1.0,77454.48,77454.48,27404.0
+Program Option Teacher,000054,124423,46211,Lake View High School,1.0,85206.46,85206.46,29130.0
+Program Option Teacher,000054,128876,46211,Lake View High School,1.0,92402.63,92402.63,30732.0
+Program Option Teacher,000054,127199,46241,Stephen T Mather High School,1.0,83452.57,83452.57,28740.0
+Program Option Teacher,000054,129571,46241,Stephen T Mather High School,1.0,82717.81,82717.81,28576.0
+Program Option Teacher,000054,130618,46241,Stephen T Mather High School,1.0,86984.55,86984.55,29526.0
+Program Option Teacher,000054,131171,46241,Stephen T Mather High School,1.0,83265.12,83265.12,28698.0
+Program Option Teacher,000054,134012,46241,Stephen T Mather High School,1.0,88246.55,88246.55,29807.0
+Program Option Teacher,000054,138629,46241,Stephen T Mather High School,1.0,76135.0,76135.0,27111.0
+Program Option Teacher,000054,122406,46251,Morgan Park High School,1.0,86141.29,86141.29,29338.0
+Program Option Teacher,000054,124023,46251,Morgan Park High School,1.0,69116.63,69116.63,25548.0
+Program Option Teacher,000054,124353,46251,Morgan Park High School,1.0,77454.05,77454.05,27404.0
+Program Option Teacher,000054,128239,46251,Morgan Park High School,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,128336,46251,Morgan Park High School,1.0,51587.54,51587.54,21646.0
+Program Option Teacher,000054,128638,46251,Morgan Park High School,1.0,88903.05,88903.05,29953.0
+Program Option Teacher,000054,128771,46251,Morgan Park High School,1.0,92402.61,92402.61,30732.0
+Program Option Teacher,000054,251636,46251,Morgan Park High School,1.0,77454.75,77454.75,27404.0
+Program Option Teacher,000054,132137,46281,Carl Schurz High School,1.0,53984.24,53984.24,22180.0
+Program Option Teacher,000054,147263,46291,Charles P Steinmetz Academic Centre,1.0,77454.48,77454.48,27404.0
+Program Option Teacher,000054,224834,46291,Charles P Steinmetz Academic Centre,1.0,83371.08,83371.08,28721.0
+Program Option Teacher,000054,116675,46301,Roger C Sullivan High School,1.0,85920.3,85920.3,29289.0
+Program Option Teacher,000054,118684,46301,Roger C Sullivan High School,1.0,91403.33,91403.33,30509.0
+Program Option Teacher,000054,118793,46301,Roger C Sullivan High School,1.0,93689.86,93689.86,31018.0
+Program Option Teacher,000054,139320,46301,Roger C Sullivan High School,1.0,90077.45,90077.45,30214.0
+Program Option Teacher,000054,147493,46301,Roger C Sullivan High School,1.0,88271.78,88271.78,29812.0
+Program Option Teacher,000054,127550,46321,Lincoln Park High School,1.0,71894.9,71894.9,26167.0
+Program Option Teacher,000054,128738,46321,Lincoln Park High School,1.0,75403.53,75403.53,26948.0
+Program Option Teacher,000054,129025,46321,Lincoln Park High School,1.0,85019.31,85019.31,29088.0
+Program Option Teacher,000054,133641,46321,Lincoln Park High School,1.0,93664.63,93664.63,31013.0
+Program Option Teacher,000054,140932,46321,Lincoln Park High School,1.0,92402.63,92402.63,30732.0
+Program Option Teacher,000054,146928,46321,Lincoln Park High School,1.0,86984.54,86984.54,29526.0
+Program Option Teacher,000054,117896,46341,Gurdon S Hubbard High School,1.0,84658.32,84658.32,29008.0
+Program Option Teacher,000054,118051,46341,Gurdon S Hubbard High School,1.0,85394.53,85394.53,29172.0
+Program Option Teacher,000054,118107,46341,Gurdon S Hubbard High School,1.0,54161.41,54161.41,22219.0
+Program Option Teacher,000054,118293,46341,Gurdon S Hubbard High School,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,119534,46341,Gurdon S Hubbard High School,1.0,62916.2,62916.2,24168.0
+Program Option Teacher,000054,120788,46341,Gurdon S Hubbard High School,1.0,84658.32,84658.32,29008.0
+Program Option Teacher,000054,122479,46341,Gurdon S Hubbard High School,1.0,63591.88,63591.88,24319.0
+Program Option Teacher,000054,125536,46341,Gurdon S Hubbard High School,1.0,83265.55,83265.55,28698.0
+Program Option Teacher,000054,125609,46341,Gurdon S Hubbard High School,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,125686,46341,Gurdon S Hubbard High School,1.0,73946.38,73946.38,26623.0
+Program Option Teacher,000054,125805,46341,Gurdon S Hubbard High School,1.0,81677.16,81677.16,28344.0
+Program Option Teacher,000054,132807,46341,Gurdon S Hubbard High School,1.0,65857.1,65857.1,24823.0
+Program Option Teacher,000054,144772,46341,Gurdon S Hubbard High School,1.0,53984.24,53984.24,22180.0
+Program Option Teacher,000054,147482,46341,Gurdon S Hubbard High School,1.0,85920.3,85920.3,29289.0
+Program Option Teacher,000054,430309,46341,Gurdon S Hubbard High School,1.0,76134.15,76134.15,27110.0
+Program Option Teacher,000054,125531,46361,Kenwood Academy,1.0,89649.35,89649.35,30119.0
+Program Option Teacher,000054,127227,46361,Kenwood Academy,1.0,80665.0,80665.0,28119.0
+Program Option Teacher,000054,128895,46361,Kenwood Academy,1.0,92402.63,92402.63,30732.0
+Program Option Teacher,000054,129054,46361,Kenwood Academy,1.0,57653.6,57653.6,22997.0
+Program Option Teacher,000054,129311,46361,Kenwood Academy,1.0,78910.19,78910.19,27728.0
+Program Option Teacher,000054,129371,46361,Kenwood Academy,1.0,65857.1,65857.1,24823.0
+Program Option Teacher,000054,129625,46361,Kenwood Academy,1.0,59744.64,59744.64,23462.0
+Program Option Teacher,000054,130620,46361,Kenwood Academy,1.0,59247.29,59247.29,23351.0
+Program Option Teacher,000054,131860,46361,Kenwood Academy,1.0,88246.55,88246.55,29807.0
+Program Option Teacher,000054,132259,46361,Kenwood Academy,1.0,77454.48,77454.48,27404.0
+Program Option Teacher,000054,134202,46361,Kenwood Academy,1.0,86984.55,86984.55,29526.0
+Program Option Teacher,000054,123422,46381,Carver Military High School,1.0,91339.0,91339.0,30495.0
+Program Option Teacher,000054,520658,46381,Carver Military High School,1.0,88246.55,88246.55,28624.0
+Program Option Teacher,000054,125622,46421,Benito Juarez High School,1.0,69116.6,69116.6,25548.0
+Program Option Teacher,000054,116389,47021,William Jones College Prep High School,1.0,88715.63,88715.63,29911.0
+Program Option Teacher,000054,138625,47021,William Jones College Prep High School,1.0,56236.19,56236.19,22681.0
+Program Option Teacher,000054,138938,47021,William Jones College Prep High School,1.0,90077.45,90077.45,30214.0
+Program Option Teacher,000054,118754,47031,Emil G Hirsch Metropolitan High School,1.0,85920.3,85920.3,29289.0
+Program Option Teacher,000054,423082,47031,Emil G Hirsch Metropolitan High School,1.0,79944.28,79944.28,27702.0
+Program Option Teacher,000054,145686,47051,Gwendolyn Brooks,1.0,85187.1,85187.1,29126.0
+Program Option Teacher,000054,117845,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,86984.54,86984.54,29526.0
+Program Option Teacher,000054,117937,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,88790.22,88790.22,29928.0
+Program Option Teacher,000054,118003,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,50652.96,50652.96,20760.0
+Program Option Teacher,000054,118079,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,90596.95,90596.95,30330.0
+Program Option Teacher,000054,118181,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,51587.54,51587.54,21646.0
+Program Option Teacher,000054,118425,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,69365.72,69365.72,25604.0
+Program Option Teacher,000054,118453,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,55993.98,55993.98,22627.0
+Program Option Teacher,000054,118553,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,88790.0,88790.0,29928.0
+Program Option Teacher,000054,118810,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,86141.29,86141.29,29338.0
+Program Option Teacher,000054,118821,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,78169.46,78169.46,27564.0
+Program Option Teacher,000054,119839,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,72625.01,72625.01,26329.0
+Program Option Teacher,000054,426090,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,54161.41,54161.41,22219.0
+Program Option Teacher,000054,117220,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,80964.13,80964.13,28186.0
+Program Option Teacher,000054,123552,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,79757.01,79757.01,27917.0
+Program Option Teacher,000054,127336,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,88246.55,88246.55,29807.0
+Program Option Teacher,000054,130227,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,86961.45,86961.45,29521.0
+Program Option Teacher,000054,130446,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,84658.32,84658.32,29008.0
+Program Option Teacher,000054,134552,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,85206.75,85206.75,29130.0
+Program Option Teacher,000054,144669,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,91339.45,91339.45,30495.0
+Program Option Teacher,000054,112992,47091,Chicago High School For Agricultural Sciences,1.0,87149.45,87149.45,29562.0
+Program Option Teacher,000054,113265,47091,Chicago High School For Agricultural Sciences,1.0,93146.18,93146.18,30897.0
+Program Option Teacher,000054,140915,47091,Chicago High School For Agricultural Sciences,1.0,71118.5,71118.5,25994.0
+Program Option Teacher,000054,141192,47091,Chicago High School For Agricultural Sciences,1.0,84658.31,84658.31,29008.0
+Program Option Teacher,000054,141260,47091,Chicago High School For Agricultural Sciences,1.0,82632.96,82632.96,28557.0
+Program Option Teacher,000054,141320,47091,Chicago High School For Agricultural Sciences,1.0,91114.8,91114.8,30445.0
+Program Option Teacher,000054,141361,47091,Chicago High School For Agricultural Sciences,1.0,86984.54,86984.54,29526.0
+Program Option Teacher,000054,141403,47091,Chicago High School For Agricultural Sciences,1.0,76248.71,76248.71,27136.0
+Program Option Teacher,000054,143506,47091,Chicago High School For Agricultural Sciences,1.0,92403.0,92403.0,30732.0
+Program Option Teacher,000054,430276,47091,Chicago High School For Agricultural Sciences,1.0,96395.79,96395.79,31621.0
+Program Option Teacher,000054,430278,47091,Chicago High School For Agricultural Sciences,0.2,96395.79,19279.16,4292.0
+Program Option Teacher,000054,113668,47101,Whitney M Young Magnet High School,1.0,93664.63,93664.63,29758.0
+Program Option Teacher,000054,116929,47101,Whitney M Young Magnet High School,1.0,93689.86,93689.86,29763.0
+Program Option Teacher,000054,117073,47101,Whitney M Young Magnet High School,1.0,91884.19,91884.19,30616.0
+Program Option Teacher,000054,119271,47101,Whitney M Young Magnet High School,1.0,69365.72,69365.72,25604.0
+Program Option Teacher,000054,125487,47101,Whitney M Young Magnet High School,1.0,79757.01,79757.01,27917.0
+Program Option Teacher,000054,126078,47101,Whitney M Young Magnet High School,1.0,85695.66,85695.66,29239.0
+Program Option Teacher,000054,131456,47101,Whitney M Young Magnet High School,1.0,51587.54,51587.54,21646.0
+Program Option Teacher,000054,140559,47101,Whitney M Young Magnet High School,1.0,59744.64,59744.64,23462.0
+Program Option Teacher,000054,140822,47101,Whitney M Young Magnet High School,1.0,79052.01,79052.01,27760.0
+Program Option Teacher,000054,141516,47101,Whitney M Young Magnet High School,1.0,64510.61,64510.61,24523.0
+Program Option Teacher,000054,141519,47101,Whitney M Young Magnet High School,1.0,86984.55,86984.55,29526.0
+Program Option Teacher,000054,492224,47101,Whitney M Young Magnet High School,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,492225,47101,Whitney M Young Magnet High School,1.0,96758.59,96758.59,31701.0
+Program Option Teacher,000054,117036,51021,Harlan Community Academy High School,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,119451,51071,William H Wells Community Academy High School,1.0,85920.3,85920.3,19696.0
+Program Option Teacher,000054,136511,51071,William H Wells Community Academy High School,1.0,94209.64,94209.64,31134.0
+Program Option Teacher,000054,138906,51071,William H Wells Community Academy High School,1.0,91339.45,91339.45,30495.0
+Program Option Teacher,000054,120015,51091,Roberto Clemente Community Academy High School,1.0,53984.17,53984.17,22180.0
+Program Option Teacher,000054,140813,51091,Roberto Clemente Community Academy High School,1.0,84658.32,84658.32,29008.0
+Program Option Teacher,000054,426110,51091,Roberto Clemente Community Academy High School,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,112354,53041,Charles Allen Prosser Career Academy,1.2,85920.3,103104.36,33114.0
+Program Option Teacher,000054,113061,53041,Charles Allen Prosser Career Academy,1.0,82632.41,82632.41,28557.0
+Program Option Teacher,000054,113450,53041,Charles Allen Prosser Career Academy,1.0,93146.18,93146.18,30897.0
+Program Option Teacher,000054,114320,53041,Charles Allen Prosser Career Academy,1.0,75403.53,75403.53,25937.0
+Program Option Teacher,000054,114602,53041,Charles Allen Prosser Career Academy,1.0,91884.2,91884.2,30616.0
+Program Option Teacher,000054,116521,53041,Charles Allen Prosser Career Academy,1.0,61161.97,61161.97,23778.0
+Program Option Teacher,000054,124697,53041,Charles Allen Prosser Career Academy,1.0,84658.31,84658.31,29008.0
+Program Option Teacher,000054,147475,53041,Charles Allen Prosser Career Academy,1.0,61831.16,61831.16,23927.0
+Program Option Teacher,000054,121783,53061,Neal F Simeon Vocational High School,1.0,53984.24,53984.24,22180.0
+Program Option Teacher,000054,122027,53061,Neal F Simeon Vocational High School,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,424495,53061,Neal F Simeon Vocational High School,1.0,69116.14,69116.14,25548.0
+Program Option Teacher,000054,466412,53061,Neal F Simeon Vocational High School,1.0,51587.54,51587.54,21646.0
+Program Option Teacher,000054,469609,53061,Neal F Simeon Vocational High School,1.0,57653.52,57653.52,22997.0
+Program Option Teacher,000054,485678,53061,Neal F Simeon Vocational High School,1.0,53984.17,53984.17,21456.0
+Program Option Teacher,000054,504426,53061,Neal F Simeon Vocational High School,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,422063,53071,George Westinghouse High School,1.0,62755.15,62755.15,24132.0
+Program Option Teacher,000054,120007,53101,Marie Sklodowska Curie Metropolitan High School,1.0,72625.01,72625.01,26329.0
+Program Option Teacher,000054,123471,53101,Marie Sklodowska Curie Metropolitan High School,1.0,88715.63,88715.63,29911.0
+Program Option Teacher,000054,124556,53101,Marie Sklodowska Curie Metropolitan High School,1.0,83371.08,83371.08,28721.0
+Program Option Teacher,000054,126102,53101,Marie Sklodowska Curie Metropolitan High School,1.0,79757.1,79757.1,27917.0
+Program Option Teacher,000054,127023,53101,Marie Sklodowska Curie Metropolitan High School,1.0,85019.31,85019.31,29088.0
+Program Option Teacher,000054,127189,53101,Marie Sklodowska Curie Metropolitan High School,1.0,61161.47,61161.47,23778.0
+Program Option Teacher,000054,128007,53101,Marie Sklodowska Curie Metropolitan High School,1.0,50652.96,50652.96,21438.0
+Program Option Teacher,000054,128263,53101,Marie Sklodowska Curie Metropolitan High School,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,128367,53101,Marie Sklodowska Curie Metropolitan High School,1.0,78169.46,78169.46,27564.0
+Program Option Teacher,000054,128648,53101,Marie Sklodowska Curie Metropolitan High School,1.0,83265.55,83265.55,28698.0
+Program Option Teacher,000054,128651,53101,Marie Sklodowska Curie Metropolitan High School,1.0,79944.45,79944.45,27959.0
+Program Option Teacher,000054,130443,53101,Marie Sklodowska Curie Metropolitan High School,1.0,88715.63,88715.63,29911.0
+Program Option Teacher,000054,130512,53101,Marie Sklodowska Curie Metropolitan High School,1.0,52727.73,52727.73,21900.0
+Program Option Teacher,000054,130766,53101,Marie Sklodowska Curie Metropolitan High School,1.0,57492.63,57492.63,22961.0
+Program Option Teacher,000054,130784,53101,Marie Sklodowska Curie Metropolitan High School,1.0,83432.53,83432.53,28735.0
+Program Option Teacher,000054,130899,53101,Marie Sklodowska Curie Metropolitan High School,1.0,89649.14,89649.14,30119.0
+Program Option Teacher,000054,131174,53101,Marie Sklodowska Curie Metropolitan High School,1.0,94951.85,94951.85,31299.0
+Program Option Teacher,000054,131342,53101,Marie Sklodowska Curie Metropolitan High School,1.0,57653.6,57653.6,22997.0
+Program Option Teacher,000054,132239,53101,Marie Sklodowska Curie Metropolitan High School,1.0,69116.14,69116.14,25548.0
+Program Option Teacher,000054,132488,53101,Marie Sklodowska Curie Metropolitan High School,1.0,78910.09,78910.09,27728.0
+Program Option Teacher,000054,134522,53101,Marie Sklodowska Curie Metropolitan High School,1.0,90596.96,90596.96,30330.0
+Program Option Teacher,000054,135223,53101,Marie Sklodowska Curie Metropolitan High School,1.0,69366.18,69366.18,25604.0
+Program Option Teacher,000054,135656,53101,Marie Sklodowska Curie Metropolitan High School,1.0,83452.57,83452.57,28740.0
+Program Option Teacher,000054,136077,53101,Marie Sklodowska Curie Metropolitan High School,1.0,77454.06,77454.06,27404.0
+Program Option Teacher,000054,136195,53101,Marie Sklodowska Curie Metropolitan High School,1.0,94727.21,94727.21,31249.0
+Program Option Teacher,000054,136418,53101,Marie Sklodowska Curie Metropolitan High School,1.0,77453.91,77453.91,27404.0
+Program Option Teacher,000054,136686,53101,Marie Sklodowska Curie Metropolitan High School,1.0,78910.17,78910.17,27728.0
+Program Option Teacher,000054,137160,53101,Marie Sklodowska Curie Metropolitan High School,1.0,88271.78,88271.78,29812.0
+Program Option Teacher,000054,137190,53101,Marie Sklodowska Curie Metropolitan High School,1.0,92402.63,92402.63,30732.0
+Program Option Teacher,000054,137287,53101,Marie Sklodowska Curie Metropolitan High School,1.0,81677.32,81677.32,28344.0
+Program Option Teacher,000054,137724,53101,Marie Sklodowska Curie Metropolitan High School,1.0,85920.3,85920.3,29289.0
+Program Option Teacher,000054,137787,53101,Marie Sklodowska Curie Metropolitan High School,1.0,71118.25,71118.25,25994.0
+Program Option Teacher,000054,138388,53101,Marie Sklodowska Curie Metropolitan High School,1.0,85019.78,85019.78,29088.0
+Program Option Teacher,000054,138680,53101,Marie Sklodowska Curie Metropolitan High School,1.0,86984.55,86984.55,29526.0
+Program Option Teacher,000054,138816,53101,Marie Sklodowska Curie Metropolitan High School,1.0,89533.78,89533.78,30093.0
+Program Option Teacher,000054,145339,53101,Marie Sklodowska Curie Metropolitan High School,1.0,85187.11,85187.11,29126.0
+Program Option Teacher,000054,145881,53101,Marie Sklodowska Curie Metropolitan High School,1.0,77454.48,77454.48,27404.0
+Program Option Teacher,000054,432531,53101,Marie Sklodowska Curie Metropolitan High School,1.0,77454.48,77454.48,27404.0
+Program Option Teacher,000054,432532,53101,Marie Sklodowska Curie Metropolitan High School,1.0,96758.59,96758.59,31701.0
+Program Option Teacher,000054,432533,53101,Marie Sklodowska Curie Metropolitan High School,1.0,78169.46,78169.46,27564.0
+Program Option Teacher,000054,443620,53101,Marie Sklodowska Curie Metropolitan High School,1.0,87895.21,87895.21,29728.0
+Program Option Teacher,000054,443622,53101,Marie Sklodowska Curie Metropolitan High School,1.0,59247.29,59247.29,23351.0
+Program Option Teacher,000054,505277,53101,Marie Sklodowska Curie Metropolitan High School,1.0,52727.73,52727.73,21900.0
+Program Option Teacher,000054,510980,53101,Marie Sklodowska Curie Metropolitan High School,1.0,57451.14,57451.14,22952.0
+Program Option Teacher,000054,512940,53101,Marie Sklodowska Curie Metropolitan High School,1.0,85187.16,85187.16,29126.0

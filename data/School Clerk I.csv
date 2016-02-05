@@ -1,0 +1,686 @@
+title,job_code,position_number,unit_number,unit_name,time_equivalent,salary,fte_salary,benefit_cost
+School Clerk I,000468,148160,20071,Columbia Explorers Academy,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,493037,20071,Columbia Explorers Academy,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,164606,22021,Jane Addams School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,265380,22021,Jane Addams School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,163936,22031,Louis J Agassiz School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,163937,22041,Louisa May Alcott School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,355111,22041,Louisa May Alcott School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,157649,22071,New Field School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,220612,22081,George Armstrong Elementary School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,464897,22091,Audubon Elementary School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,153605,22101,Avalon Park School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,476925,22131,Alice L Barnard Computer Math & Science Center,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,164610,22151,Clara W Barton School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164611,22161,Perkins Bass School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,488110,22161,Perkins Bass School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164612,22181,Lillian R Nicholson Specialty School For Science & Mathem,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,149975,22191,George Rogers Clark Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,163949,22201,Jean Baptiste Beaubien School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,163950,22211,Jacob Beidler School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,163951,22221,Hiram H Belding School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,155890,22231,Alexander Graham Bell School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,464039,22231,Alexander Graham Bell School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164615,22241,Frank I Bennett School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,405938,22251,South Shore Fine Arts Academy,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,304242,22261,James G Blaine School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,238997,22271,Daniel Boone School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,266104,22271,Daniel Boone School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,152218,22281,Scott Joplin School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,489120,22291,Myra Bradwell School of Excellence,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164621,22301,Alex Haley School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,163957,22311,Brentano Math & Science Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,163958,22321,Norman Bridge School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,386051,22321,Norman Bridge School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,164622,22331,Orville T Bright Elementary School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,404587,22341,Federico Garcia Lorca Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,427625,22341,Federico Garcia Lorca Elementary School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,164306,22351,William H Brown Elementary School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164623,22361,Charles S Brownell School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164820,22371,Bouchet Academy,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,217483,22371,Bouchet Academy,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,502005,22371,Bouchet Academy,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,406601,22381,West Ridge Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,163959,22391,Lyman A Budlong School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,153979,22401,Luther Burbank School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,155293,22401,Luther Burbank School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164626,22411,Edmund Burke Elementary School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,483357,22411,Edmund Burke Elementary School,1.0,61448.89,61448.89,22689.0
+School Clerk I,000468,164627,22431,Burnham/Anthony Inclusive Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,360505,22451,Hughes/Davis,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,163963,22471,Jonathan Burr Elementary School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,163964,22491,Milton Brunson Specialty Elementary School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164314,22501,Michael M Byrne School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,168686,22511,Caldwell Academy Of Mathematics Science & Technology,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,162901,22531,Daniel R Cameron Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,163969,22541,Arthur E Canty,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164631,22551,Andrew Carnegie School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,485143,22551,Andrew Carnegie School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,148056,22571,Charles Carroll School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,151062,22571,Charles Carroll School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,370066,22581,Dr Jorge Prieto Math and Science Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,507028,22581,Dr Jorge Prieto Math and Science Academy,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,339234,22591,Skinner North,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,488874,22611,William W Carter School,1.0,62579.84,62579.84,23458.0
+School Clerk I,000468,159010,22621,George Washington Carver Elementary,1.0,61448.89,61448.89,22689.0
+School Clerk I,000468,161330,22621,George Washington Carver Elementary,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164636,22621,George Washington Carver Elementary,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,164637,22641,Ira F Aldridge Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,168578,22651,George F Cassell School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,152793,22661,Horace Greeley School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,155777,22661,Horace Greeley School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,484499,22671,Thomas Chalmers Specialty School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,163973,22681,Eliza Chappell Elementary School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,408113,22691,Marvin Camras Elementary School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,163974,22701,Salmon P Chase School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,446873,22711,STEM Magnet Academy,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,163976,22721,Frederic Chopin School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,163979,22741,Grover Cleveland School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,409148,22751,Dewitt Clinton School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,431146,22751,Dewitt Clinton School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,149271,22761,Henry R Clissold School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164642,22771,Edward Coles Model For Excellence School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,163980,22791,Christopher Columbus School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164645,22801,John W Cook Elementary School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,160174,22811,Jordan Community School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,163984,22821,John C Coonley School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,262643,22831,Peter Cooper Dual Language Academy,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,299336,22841,Anna R. Langford Community Academy,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,163986,22871,Everett Mckinley Dirksen School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,163987,22881,Charles R Darwin School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164324,22891,Nathan S Davis School & Annex,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,409788,22891,Nathan S Davis School & Annex,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164325,22901,Charles Gates Dawes School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,427424,22901,Charles Gates Dawes School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,411874,22921,Mariano Azuela Elementary School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,448274,22921,Mariano Azuela Elementary School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,480167,22921,Mariano Azuela Elementary School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,405116,22931,Charles S Deneen School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,464587,22931,Charles S Deneen School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,163992,22941,William E Dever School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,168718,22951,Dewey Academy Of Multicultural Studies,1.0,42740.42,42740.42,18876.0
+School Clerk I,000468,484613,22951,Dewey Academy Of Multicultural Studies,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164648,22971,Arthur Dixon School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,157598,22981,Dodge Renaissance Academy,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164333,22991,James R Doolittle Jr Intermediate & Upper Cycle East,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,152311,23001,John C Dore School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,149638,23011,John B Drake School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,157904,23021,Thomas Drummond Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164340,23031,Charles W Earle School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,150518,23041,John F Eberhart School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,150531,23041,John F Eberhart School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,162824,23041,John F Eberhart School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164344,23041,John F Eberhart School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,293370,23041,John F Eberhart School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,163993,23051,Christian Ebinger,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,410862,23061,George W Curtis Elementary School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,525370,23061,George W Curtis Elementary School,1.0,62579.84,62579.84,23458.0
+School Clerk I,000468,163995,23071,Edgebrook School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,163996,23101,Edward (Duke) K Ellington School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164650,23131,Esmond School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164001,23151,Laughlin Falconer School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,232912,23151,Laughlin Falconer School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,405765,23151,Laughlin Falconer School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,441011,23151,Laughlin Falconer School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,164002,23161,James B Farnsworth School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164656,23201,Fernwood School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,151873,23211,Eugene Field School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164659,23221,John Fiske School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,165995,23231,Telpochcalli,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,156266,23241,Fort Dearborn Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,147805,23251,Joseph Kellman Corporate Community School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,165273,23261,Foster Park School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,233368,23261,Foster Park School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,465611,23271,Melville W Fuller,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,483968,23281,Robert Fulton School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,165936,23291,Frederick Funston School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164006,23301,John W Garvy School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,525215,23301,John W Garvy School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,292038,23311,Joseph E Gary School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,158289,23321,Frank L Gillespie School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,514274,23321,Frank L Gillespie School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,164008,23341,J W Von Goethe School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,165176,23351,Jesse Owens Elementary Community Academy,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,173187,23351,Jesse Owens Elementary Community Academy,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164664,23361,Virgil Grissom School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,153411,23371,William C. Goudy Technology Academy,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,158119,23371,William C. Goudy Technology Academy,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164361,23391,Alexander Graham School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,444816,23401,William P Gray School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,484505,23401,William P Gray School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,504879,23401,William P Gray School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,166007,23421,Ariel Community Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164011,23431,Nathanael Greene School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164014,23441,John Gregory School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,504177,23451,Walter Q Gresham Elementary School of Excellence,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,148047,23461,Robert L Grimes School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,488781,23461,Robert L Grimes School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164367,23481,John C Haines School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,503958,23481,John C Haines School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,155157,23491,Nathan Hale School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164369,23491,Nathan Hale School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,165856,23511,John H Hamline Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164372,23531,Charles G Hammond School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,152838,23551,Sharon Christa Mcauliffe Elementary School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164667,23561,Bret Harte Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,272229,23581,John Harvard Elementary School of Excellence,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164018,23591,Helge A Haugan,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164022,23621,Stephen K Hayt School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,409810,23621,Stephen K Hayt School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,296191,23631,Woodlawn Community,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,469394,23641,Wendell Smith,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,491584,23641,Wendell Smith,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,155578,23651,Robert Healy School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164374,23651,Robert Healy School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,269081,23651,Robert Healy School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,151634,23671,Phoebe Apperson Hearst School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164025,23711,Helen M Hefferan School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,157712,23721,Charles R Henderson School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,149651,23751,South Loop School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,214849,23751,South Loop School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,502282,23751,South Loop School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,464237,23771,Theodore Herzl School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,472416,23771,Theodore Herzl School,1.0,47148.25,47148.25,19774.0
+School Clerk I,000468,159075,23791,Agustin Lara Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,427567,23791,Agustin Lara Academy,1.0,42740.42,42740.42,18876.0
+School Clerk I,000468,233962,23801,William G Hibbard School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,504221,23801,William G Hibbard School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164031,23811,Rufus M Hitch School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,238231,23821,Charles N Holden School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,407005,23821,Charles N Holden School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164390,23831,Oliver Wendell Holmes School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,519867,23831,Oliver Wendell Holmes School,1.0,50917.51,50917.51,20543.0
+School Clerk I,000468,298095,23851,Julia Ward Howe School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,166127,23871,Thomas Hoyne School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164677,23891,Countee Cullen School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164392,23901,Charles Evans Hughes School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,154151,23911,Edward N Hurley School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,491059,23911,Edward N Hurley School,1.0,47567.4,47567.4,20268.0
+School Clerk I,000468,155366,23921,Friedrich L Jahn School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,152908,23931,Minnie Mars Jamieson School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164034,23931,Minnie Mars Jamieson School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,167468,23951,Edward Jenner Academy Of The Arts,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,162232,23971,Kate S Kellogg School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164679,23991,Joshua D Kershaw Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,464553,24011,Pablo Casals,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,488955,24011,Pablo Casals,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,149219,24051,Lazaro Cardenas School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,158879,24051,Lazaro Cardenas School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,153889,24071,John H Kinzie Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,264886,24071,John H Kinzie Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164681,24081,Rudyard Kipling School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164827,24131,Wendell E Green,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,483674,24151,Leslie Lewis School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,263396,24171,Arthur A Libby School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164049,24191,Abraham Lincoln Elementary School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164050,24201,Carl Von Linne Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,149265,24221,Henry D Lloyd School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,424515,24221,Henry D Lloyd School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164052,24231,Josephine C Locke School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,231462,24231,Josephine C Locke School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,166396,24241,Joseph Lovett School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,246434,24241,Joseph Lovett School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,168372,24251,James Russell Lowell Elementary School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164690,24301,James Madison School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164058,24311,George Manierre School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,472460,24311,George Manierre School,1.0,47148.25,47148.25,19774.0
+School Clerk I,000468,164692,24331,Horace Mann School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,465792,24341,Marquette Elementary,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164693,24361,John L Marsh School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,231282,24361,John L Marsh School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,151887,24371,Michael Faraday Elementary School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,160943,24381,Roswell B Mason Elementary School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,164874,24401,Oscar F Mayer Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,525143,24401,Oscar F Mayer Elementary School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164415,24421,George B McClellan Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,162038,24441,Emmit Louis Till Math and Science Academy,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,163087,24451,Francis M Mckay School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,266725,24451,Francis M Mckay School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,160297,24461,Hanson Park School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,164067,24471,James B Mcpherson Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,444034,24471,James B Mcpherson Elementary School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,162071,24511,Ellen Mitchell School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,153213,24571,Donald L Morrill Mathematics & Science Specialty School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,161839,24591,Mount Greenwood Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,485179,24591,Mount Greenwood Elementary School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,164701,24601,Mount Vernon Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164074,24611,Wolfgang A Mozart School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164076,24621,John B Murphy School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164704,24631,Ronald H Brown Community Academy,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,164077,24641,Henry H Nash School,1.0,55205.65,55205.65,21892.0
+School Clerk I,000468,204674,24641,Henry H Nash School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164705,24651,Jane A Neil School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164081,24661,Louis Nettelhorst School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,167514,24671,Florence Nightingale School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,164083,24681,William P Nixon School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,173383,24681,William P Nixon School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164085,24691,Alfred Nobel Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164087,24711,Norwood Park Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,262376,24721,West Park Academy,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,274906,24731,William B Ogden School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,375361,24731,William B Ogden School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164707,24741,Richard J Oglesby School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,483955,24751,Isabell C O'Keeffe School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164089,24761,William J Onahan School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164090,24771,Oriole Park School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,466703,24781,Brian Piccolo Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,159047,24791,James Otis School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164432,24801,Luke O'Toole School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,148993,24811,Wells Preparatory School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,491936,24811,Wells Preparatory School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164093,24821,John M Palmer School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,164714,24841,Park Manor Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164055,24871,Ferdinand W Peck School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,164435,24871,Ferdinand W Peck School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,509992,24871,Ferdinand W Peck School,1.0,42740.42,42740.42,18876.0
+School Clerk I,000468,525034,24881,Washington Irving School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,167460,24891,Helen C Peirce School Of International Studies,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,236015,24891,Helen C Peirce School Of International Studies,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164437,24911,William Penn School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164717,24921,Harold Washington School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,163153,24941,Mary G Peterson School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164097,24941,Mary G Peterson School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,164868,24951,Marcus Moziah Garvey School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164439,24961,Josiah L Pickard School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164719,24971,John T Pirie Fine Arts & Academic Center,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,149596,24981,Ambrose Plamondon School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,152591,24991,Laura S Ward School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,163574,25011,Portage Park Elementary School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164098,25011,Portage Park Elementary School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,152789,25021,William H Prescott School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164100,25031,Ernst Prussing,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,495040,25041,George M Pullman School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,297534,25061,Ravenswood School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164722,25071,William H Ray School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,525098,25071,William H Ray School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164723,25091,William Claude Reavis School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,155348,25101,Frank W Reilly School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,152803,25111,Peter A Reinberg,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164725,25121,Paul Revere Accelerated School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,155985,25141,Philip Rogers School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164107,25141,Philip Rogers School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,163719,25151,Cesar E Chavez Multicultural Academic Center,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,404257,25151,Cesar E Chavez Multicultural Academic Center,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,484432,25151,Cesar E Chavez Multicultural Academic Center,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164727,25181,Martha M Ruggles Elementary School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,164730,25191,William H Ryder Math/Science Specialty School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164111,25211,Sauganash Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,152695,25231,Sidney Sawyer School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,164447,25231,Sidney Sawyer School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,504795,25231,Sidney Sawyer School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,496319,25241,Jonathan Y Scammon School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,525357,25241,Jonathan Y Scammon School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,167528,25291,Franz Peter Schubert School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,506557,25291,Franz Peter Schubert School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164450,25301,William H Seward Communication Arts Academy,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,204670,25301,William H Seward Communication Arts Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,246668,25341,William T. Sherman Elementary School of Excellence,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164458,25351,Jesse Sherwood School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164459,25361,James Shields Elementary School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,330859,25361,James Shields Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164736,25371,Beulah Shoesmith School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164851,25381,John D Shoop Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164921,25391,Theophilus Schmid School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,204673,25401,Washington D Smyser School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164462,25411,John M Smyth Elementary School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,148353,25431,Hannah G Solomon School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164122,25431,Hannah G Solomon School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,162155,25441,Herbert Spencer Math & Science Academy,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164123,25441,Herbert Spencer Math & Science Academy,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,305893,25441,Herbert Spencer Math & Science Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164738,25491,Edward F Dunne School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,513180,25491,Edward F Dunne School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,156288,25521,Harriet Beecher Stowe School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164131,25521,Harriet Beecher Stowe School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164856,25541,William K Sullivan Specialty School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164739,25561,Elizabeth H Sutherland School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164136,25581,Mancel Talcott School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164740,25601,James N Thorp Elementary School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164140,25621,George W Tilton School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,164471,25661,Mark Twain School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,154037,25671,Lavizzo Elementray,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,150472,25681,Alessandro Volta School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164145,25681,Alessandro Volta School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164746,25711,James Wadsworth School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,488564,25711,James Wadsworth School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164472,25731,John A Walsh Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164473,25751,James Ward Elementary School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,157499,25761,Joseph Warren Elementary School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164748,25771,George Washington School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,245071,25771,George Washington School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164149,25781,Thomas J Waters School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164151,25791,Daniel Webster School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,168582,25791,Daniel Webster School,1.0,61448.89,61448.89,22689.0
+School Clerk I,000468,164749,25811,Daniel S Wentworth School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164754,25831,John Whistler Elementary School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,150510,25841,Eli Whitney School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,164153,25871,A N Pritzker School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164154,25881,Wildwood School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,236147,25911,Richard Yates Elementary School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,463320,25911,Richard Yates Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,161038,25921,Ella Flagg Young School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164155,25921,Ella Flagg Young School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164758,25931,Ludwig Von Beethoven School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164759,25941,Carrie Jacobs Bond,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,160856,25951,Richard J Daley Academy,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164476,25991,Joseph Brennemann School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164166,26021,Willa Cather School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164482,26031,R Nathaniel Dett,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,505650,26051,Dvorak Technology Academy School of Excellence,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,505766,26051,Dvorak Technology Academy School of Excellence,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,153587,26061,Jackie R Robinson,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,296408,26091,Morton School of Excellence,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,336998,26141,John Foster Dulles Elementary School of Excellence,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,390368,26141,John Foster Dulles Elementary School of Excellence,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164859,26191,Arthur R Ashe Jr Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164168,26201,John T Mccutcheon School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,509950,26201,John T Mccutcheon School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,412264,26231,James Weldon Johnson Elementary School of Excellence,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164497,26251,Irvin C Mollison School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,164778,26281,Henry O Tanner School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,152626,26291,Adam Clayton Powell Jr Paideia Community Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,216001,26291,Adam Clayton Powell Jr Paideia Community Academy,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,504158,26301,Ronald E McNair Elementary School of Excellence,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,148238,26321,Benjamin E Mays Academy,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,152130,26321,Benjamin E Mays Academy,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,164171,26351,Genevieve Melody School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,489423,26351,Genevieve Melody School,1.0,47567.4,47567.4,19860.0
+School Clerk I,000468,161108,26371,Dr. Martin Luther King Jr. Academy of Social Justice,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164792,26381,Oliver S Westcott Elementary School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,165015,26381,Oliver S Westcott Elementary School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,149989,26391,George Leland Elementary School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164512,26421,Mary E Mcdowell Elementary School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,159043,26431,Edward H White,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,149848,26441,Amelia Earhart Options For Knowledge Specialty School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,149517,26451,Brighton Park Elementary School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,505253,26521,Amos A Stagg School,1.0,53543.16,53543.16,21538.0
+School Clerk I,000468,469948,26541,Carter G Woodson South,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,472574,26541,Carter G Woodson South,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164799,26591,Medgar Evers School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,161771,26601,William E B Dubois School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164803,26621,Charles H Wacker School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,159024,26631,Oscar Depriest School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164805,26651,Mahalia Jackson School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,336773,26701,Fairfield Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,167853,26721,Sandoval Elementary School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,286760,26721,Sandoval Elementary School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,442554,26721,Sandoval Elementary School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,151718,26731,Barbara Vick Early Childhood & Family Center,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,455103,26731,Barbara Vick Early Childhood & Family Center,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,157457,26751,Johnnie Colemon School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,148135,26781,Talman School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,202728,26791,Tarkington School of Excellence,1.0,56667.06,56667.06,22202.0
+School Clerk I,000468,507567,26791,Tarkington School of Excellence,1.0,50566.47,50566.47,20906.0
+School Clerk I,000468,165815,26821,Calmeca Academy of Fine Arts and Dual Language,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164282,26831,Durkin Park School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,165656,26841,North River Elementary School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,203101,26861,Uplift Community High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,257252,26861,Uplift Community High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,216989,26881,Suder Montessori Magnet School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,241512,26891,Velma Thomas Early Childhood Center,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,295452,26921,Disney II Magnet School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,471839,27091,James Shields Middle School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,478995,27091,James Shields Middle School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,303603,28151,Orr Academy,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,487915,28151,Orr Academy,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,163948,29011,Thomas A Edison Regional Gifted Center,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164628,29021,Burnside Scholastic Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,236246,29031,Stephen Decatur Classical School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,155818,29041,Turner-Drew Language Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164000,29051,Leif Ericson Scholastic Academy,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164003,29081,Franklin Fine Arts Center,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,486470,29091,Matthew Gallistel Language Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,293654,29101,LaSalle Language Magnet,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,168556,29111,A Philip Randolph Magnet School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,164366,29121,Frank W Gunsaulus Scholastic Academy School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,334507,29131,Hawthorne Scholastic Academy,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,152800,29151,Maria Saucedo Scholastic Academy,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,405177,29151,Maria Saucedo Scholastic Academy,1.0,42740.42,42740.42,19244.0
+School Clerk I,000468,485475,29161,Lasalle Language Academy School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,166271,29171,Andrew Jackson Language Academy,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,164696,29181,James E Mcdade Classical School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,159102,29201,Mark Sheridan Mathematics & Science Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,344366,29201,Mark Sheridan Mathematics & Science Academy,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,166693,29211,Annie Keller Regional Gifted Magnet School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164703,29221,Philip Murray Language Academy,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164082,29231,Walter L Newberry Mathematics & Science Academy,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,164433,29241,William Bishop Owen Scholastic Academy School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164438,29251,John J. Pershing East Magnet School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,168702,29261,Edgar Allan Poe Classical School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164113,29271,Harriet E Sayre Language Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,148828,29281,Mark Skinner School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,250335,29281,Mark Skinner School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,507025,29281,Mark Skinner School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164138,29301,Ole A Thorp Scholastic Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,494201,29301,Ole A Thorp Scholastic Academy,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164742,29311,John H Vanderpoel Magnet School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,153798,29321,Beasley Academic Center Magnet,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,160573,29321,Beasley Academic Center Magnet,1.0,61448.89,61448.89,22689.0
+School Clerk I,000468,259575,29321,Beasley Academic Center Magnet,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,151805,29341,Jensen Scholastic Academy School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,498543,29341,Jensen Scholastic Academy School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,158028,29361,Ted Lenart Regional Gifted Center,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,152240,29381,Robert A Black Magnet School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164865,29381,Robert A Black Magnet School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,293575,29391,Sir Miles Davis Magnet,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164187,29401,Walt Disney Magnet School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,263886,29401,Walt Disney Magnet School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,485848,29401,Walt Disney Magnet School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,496428,29401,Walt Disney Magnet School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,404092,29411,Frazier International Magnet Elementary School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,161163,30011,Nancy B Jefferson Alternative School,1.0,70583.89,70583.89,25159.0
+School Clerk I,000468,158909,30041,Moses Montefiore Special School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,168800,30051,Daniel Carter Beard School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,239668,30071,Blair Early Childhood Center,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,148360,30081,Frederick Stock School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164464,30121,Wilma G Rudolph Learning Center,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,148286,30141,Courtenay Language Arts Center,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,522953,30141,Courtenay Language Arts Center,1.0,47567.4,47567.4,19860.0
+School Clerk I,000468,164323,31041,Crown Community Academy Fine Arts Center,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,168576,31061,Ralph H Metcalfe Community Academy Elementary School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,160090,31081,Stephen F Gale Community Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,152214,31101,Ninos Heroes Academic Center,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164020,31111,John Hay Community Academy School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,148387,31121,Thomas A Hendricks Community Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164398,31141,Pilsen Community Academy,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164826,31151,Charles Kozminski Community Academy School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164405,31161,Lawndale Community Academy School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164711,31181,Francis W Parker Community Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,168723,31181,Francis W Parker Community Academy,1.0,50019.73,50019.73,20360.0
+School Clerk I,000468,409128,31181,Francis W Parker Community Academy,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164716,31201,Parkside Community Academy School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,207463,31211,Pulaski International School of Chicago,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,484962,31211,Pulaski International School of Chicago,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,251251,31221,Charles Sumner Mathematics & Science Community Academy,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164788,31251,Thomas J Higgins Community Academy,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,155336,31261,Jose De Diego Community Academy,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,416796,31261,Jose De Diego Community Academy,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164500,31281,Orozco Academy,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,506786,31301,Claremont Academy,1.0,65767.93,65767.93,24135.0
+School Clerk I,000468,157027,32021,Lionel Hampton Fine and Performing Arts School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,244964,32031,National Teachers' Academy (NTA),1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,494387,32031,National Teachers' Academy (NTA),1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,151789,32081,Ashburn Community Area School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,153922,41051,Michelle Clark Academic Prep Magnet High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164163,41051,Michelle Clark Academic Prep Magnet High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164877,41061,Frederick A Douglass Academy High School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,166097,41081,Thurgood Marshall Middle School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,157925,41111,Marine Leadership Academy at Ames,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,151810,41121,Northwest Middle,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,298105,41121,Northwest Middle,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,167841,45211,Chicago Academy Elementary School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,468192,45211,Chicago Academy Elementary School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,233928,45221,Hyman G. Rickover Naval Academy,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,295352,45221,Hyman G. Rickover Naval Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,525247,45221,Hyman G. Rickover Naval Academy,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,525345,45221,Hyman G. Rickover Naval Academy,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,336766,45231,Air Force Academy High School,1.0,56667.06,56667.06,22202.0
+School Clerk I,000468,149950,46021,Hancock High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,226243,46021,Hancock High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,257926,46021,Hancock High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,291331,46021,Hancock High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,492509,46021,Hancock High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,483544,46031,Roald Amundsen High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164225,46041,William J Bogan Computer Technical High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,148729,46061,Northside College Prep,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,156767,46061,Northside College Prep,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,494016,46061,Northside College Prep,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,414428,46101,Eric Solorio Academy High School,1.0,73205.71,73205.71,25716.0
+School Clerk I,000468,426602,46101,Eric Solorio Academy High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,525147,46101,Eric Solorio Academy High School,1.0,42740.42,42740.42,19244.0
+School Clerk I,000468,385200,46111,Christian Fenger Academy,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,505017,46121,Paul Robeson High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,158959,46131,Edwin G Foreman High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,163867,46131,Edwin G Foreman High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164237,46141,Gage Park High School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,525326,46141,Gage Park High School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,525432,46141,Gage Park High School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,304304,46151,Harper High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,511570,46151,Harper High School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,164580,46171,Hyde Park Career Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164252,46181,Thomas Kelly High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,458480,46191,Kelvyn Park High School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164258,46201,John F Kennedy High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164260,46201,John F Kennedy High School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,230598,46201,John F Kennedy High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,163871,46211,Lake View High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,487007,46211,Lake View High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,155775,46221,Albert G Lane Technical High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,163873,46221,Albert G Lane Technical High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,163874,46221,Albert G Lane Technical High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,163876,46221,Albert G Lane Technical High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,406196,46221,Albert G Lane Technical High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,500009,46221,Albert G Lane Technical High School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,163883,46241,Stephen T Mather High School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,486086,46241,Stephen T Mather High School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,148380,46251,Morgan Park High School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,148442,46251,Morgan Park High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,164587,46251,Morgan Park High School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,292678,46251,Morgan Park High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,405659,46251,Morgan Park High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,412572,46261,Wendell Phillips Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,163887,46271,Theodore Roosevelt High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,462136,46271,Theodore Roosevelt High School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,163892,46281,Carl Schurz High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,390893,46281,Carl Schurz High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,150375,46291,Charles P Steinmetz Academic Centre,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,150434,46291,Charles P Steinmetz Academic Centre,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,163901,46291,Charles P Steinmetz Academic Centre,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,290234,46291,Charles P Steinmetz Academic Centre,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,453440,46291,Charles P Steinmetz Academic Centre,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,163906,46301,Roger C Sullivan High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,155992,46311,William Howard Taft High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,163911,46311,William Howard Taft High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,163913,46311,William Howard Taft High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,173554,46311,William Howard Taft High School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,259175,46311,William Howard Taft High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,264118,46311,William Howard Taft High School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,486720,46311,William Howard Taft High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,487201,46311,William Howard Taft High School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,158992,46331,George Washington High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,486790,46331,George Washington High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,162783,46341,Gurdon S Hubbard High School,1.0,56168.79,56168.79,22096.0
+School Clerk I,000468,163389,46341,Gurdon S Hubbard High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164279,46341,Gurdon S Hubbard High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,476123,46341,Gurdon S Hubbard High School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,485049,46341,Gurdon S Hubbard High School,1.0,65767.93,65767.93,24135.0
+School Clerk I,000468,502896,46341,Gurdon S Hubbard High School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,162486,46361,Kenwood Academy,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164602,46361,Kenwood Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,444425,46361,Kenwood Academy,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,488708,46361,Kenwood Academy,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,149064,46371,KIng Selective Enrollment HS,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,165177,46381,Carver Military High School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,154324,46391,George Henry Corliss High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,155483,46391,George Henry Corliss High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,525235,46391,George Henry Corliss High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,162541,46401,Percy L Julian High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,153141,46421,Benito Juarez High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,337806,46421,Benito Juarez High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,148308,46431,North Grand High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,314949,46431,North Grand High School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,521335,46461,Spry Community Links High School,0.5,50019.73,25009.87,10135.0
+School Clerk I,000468,163441,46471,Al Raby High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,163557,46481,Chicago Academy High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,204786,46511,Lindblom Math and Science Academy High School,1.0,50566.47,50566.47,20906.0
+School Clerk I,000468,406119,46511,Lindblom Math and Science Academy High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,487406,46511,Lindblom Math and Science Academy High School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,490954,46551,Back of the Yards,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,471816,46611,Sarah Goode High School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,295749,46621,VOISE Academy High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,466348,46631,South Shore International College Prep High School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,484716,46631,South Shore International College Prep High School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,492644,46641,Richard T. Crane (RTC) Medical Preparatory High School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,163848,47021,William Jones College Prep High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,488772,47021,William Jones College Prep High School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,495878,47021,William Jones College Prep High School,1.0,53543.16,53543.16,21538.0
+School Clerk I,000468,512928,47021,William Jones College Prep High School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,158431,47031,Emil G Hirsch Metropolitan High School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,412234,47041,John Marshall Metropolitan High School,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,149160,47051,Gwendolyn Brooks,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,163896,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,256447,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,466261,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,71073.5,71073.5,25263.0
+School Clerk I,000468,517452,47061,Senn Metropolitan Academy Of Liberal Arts & Technology,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,159036,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,163922,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,237605,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,249087,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,458879,47081,Frederick W Von Steuben Metropolitan Science Center,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,155493,47101,Whitney M Young Magnet High School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,162036,47101,Whitney M Young Magnet High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,422716,47101,Whitney M Young Magnet High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,162446,49021,Northside Learning Center,1.0,65314.25,65314.25,24039.0
+School Clerk I,000468,164896,49021,Northside Learning Center,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,263983,49031,Southside Occupational Academy,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,149063,49041,Consuella B. York Alternative HS,1.0,62148.29,62148.29,23366.0
+School Clerk I,000468,152892,49041,Consuella B. York Alternative HS,1.0,62148.29,62148.29,23366.0
+School Clerk I,000468,507217,49041,Consuella B. York Alternative HS,1.0,50917.51,50917.51,20980.0
+School Clerk I,000468,161958,49051,Simpson Academy for Young Women,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,154317,49081,Jacqueline B Vaughn Occupational High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164395,49091,Hope College Prep HS,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,158374,49101,Ray Graham Training Center,1.0,62148.29,62148.29,23366.0
+School Clerk I,000468,469959,49131,Collins Academy High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,488008,49131,Collins Academy High School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,510488,49131,Collins Academy High School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,268877,49141,Austin Polytechnical Academy,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,268324,49161,TEAM Englewood Community Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,164577,51021,Harlan Community Academy High School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,386012,51021,Harlan Community Academy High School,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,165426,51091,Roberto Clemente Community Academy High School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,204970,51091,Roberto Clemente Community Academy High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,457772,51091,Roberto Clemente Community Academy High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,470010,53011,Chicago Vocational Career Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,485463,53011,Chicago Vocational Career Academy,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,164215,53021,Dunbar Vocational Career Academy,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,159016,53041,Charles Allen Prosser Career Academy,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,163850,53041,Charles Allen Prosser Career Academy,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,276924,53041,Charles Allen Prosser Career Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,486468,53041,Charles Allen Prosser Career Academy,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,519786,53041,Charles Allen Prosser Career Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,154956,53051,Ellen H Richards Career Academy,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,168460,53051,Ellen H Richards Career Academy,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,164808,53061,Neal F Simeon Vocational High School,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,164809,53061,Neal F Simeon Vocational High School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,387498,53061,Neal F Simeon Vocational High School,1.0,50019.73,50019.73,20790.0
+School Clerk I,000468,465271,53061,Neal F Simeon Vocational High School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,525113,53061,Neal F Simeon Vocational High School,1.0,69023.15,69023.15,24827.0
+School Clerk I,000468,363446,53071,George Westinghouse High School,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,466289,53071,George Westinghouse High School,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,164875,53101,Marie Sklodowska Curie Metropolitan High School,1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,164876,53101,Marie Sklodowska Curie Metropolitan High School,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,165067,53101,Marie Sklodowska Curie Metropolitan High School,1.0,55205.65,55205.65,21891.0
+School Clerk I,000468,155640,53111,Manley Career Community Academy High School,1.0,61448.89,61448.89,23218.0
+School Clerk I,000468,467419,53121,Edward Tilden Career Commmunity Academy,1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,467425,53121,Edward Tilden Career Commmunity Academy,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,154388,55011,Phoenix Military Academy,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,525040,55011,Phoenix Military Academy,1.0,50019.73,50019.73,20360.0
+School Clerk I,000468,154073,55151,"Infinity Math, Science, and Technology High School (at Little Village)",1.0,57938.2,57938.2,22472.0
+School Clerk I,000468,154277,55161,Daniel Hale Williams Prep School of Medicine,1.0,47148.25,47148.25,20180.0
+School Clerk I,000468,476467,55171,School of Social Justice (at Little Village),1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,154220,55181,Multicultural Arts High School (at Little Village),1.0,47567.4,47567.4,20269.0
+School Clerk I,000468,154116,55191,Bronzeville Scholastic Institute,1.0,42740.42,42740.42,19243.0
+School Clerk I,000468,451884,66411,Austin Business and Entrepreneurship Academy,1.0,44944.59,44944.59,19711.0
+School Clerk I,000468,468942,70020,Walter Payton College Preparatory  HS,1.0,59659.12,59659.12,22838.0
+School Clerk I,000468,507128,70020,Walter Payton College Preparatory  HS,1.0,52529.67,52529.67,21323.0
+School Clerk I,000468,165668,70070,Chicago Military Academy - Bronzeville,1.0,50019.73,50019.73,20790.0

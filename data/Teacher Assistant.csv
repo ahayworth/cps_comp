@@ -1,0 +1,577 @@
+title,job_code,position_number,unit_number,unit_name,time_equivalent,salary,fte_salary,benefit_cost
+Teacher Assistant,000463,519686,05281,Office of Education Options,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,156016,20071,Columbia Explorers Academy,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,264023,20071,Columbia Explorers Academy,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,487296,20071,Columbia Explorers Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,487297,20071,Columbia Explorers Academy,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,510879,20071,Columbia Explorers Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,522554,20071,Columbia Explorers Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,227901,22021,Jane Addams School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,475651,22021,Jane Addams School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,162464,22031,Louis J Agassiz School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,157028,22041,Louisa May Alcott School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,277555,22071,New Field School,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,413468,22071,New Field School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,388177,22081,George Armstrong Elementary School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,161059,22091,Audubon Elementary School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,165822,22131,Alice L Barnard Computer Math & Science Center,1.0,28144.93,28144.93,16143.0
+Teacher Assistant,000463,153608,22141,John Barry Elementary School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,155792,22141,John Barry Elementary School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,394919,22171,Newton Bateman Elementary School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,478561,22171,Newton Bateman Elementary School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,468482,22181,Lillian R Nicholson Specialty School For Science & Mathem,1.0,29515.3,29515.3,16180.0
+Teacher Assistant,000463,165989,22191,George Rogers Clark Elementary School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,165658,22211,Jacob Beidler School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,522539,22211,Jacob Beidler School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,157957,22221,Hiram H Belding School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,160296,22221,Hiram H Belding School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,150300,22231,Alexander Graham Bell School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,158678,22231,Alexander Graham Bell School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,162231,22241,Frank I Bennett School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,255639,22271,Daniel Boone School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,388131,22271,Daniel Boone School,1.0,36186.71,36186.71,17540.0
+Teacher Assistant,000463,303965,22281,Scott Joplin School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,522758,22281,Scott Joplin School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,522003,22301,Alex Haley School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,150093,22311,Brentano Math & Science Academy,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,256374,22311,Brentano Math & Science Academy,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,519814,22311,Brentano Math & Science Academy,0.5,28144.93,14072.47,8071.0
+Teacher Assistant,000463,519895,22311,Brentano Math & Science Academy,0.5,28144.93,14072.47,8071.0
+Teacher Assistant,000463,419249,22341,Federico Garcia Lorca Elementary School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,440944,22341,Federico Garcia Lorca Elementary School,1.0,29809.25,29809.25,16240.0
+Teacher Assistant,000463,152112,22371,Bouchet Academy,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,498164,22371,Bouchet Academy,1.0,36186.71,36186.71,17540.0
+Teacher Assistant,000463,498167,22371,Bouchet Academy,1.0,36186.71,36186.71,17540.0
+Teacher Assistant,000463,499634,22381,West Ridge Elementary School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,388034,22391,Lyman A Budlong School,1.0,28144.93,28144.93,16143.0
+Teacher Assistant,000463,149318,22401,Luther Burbank School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,150984,22401,Luther Burbank School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,161892,22401,Luther Burbank School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,161952,22401,Luther Burbank School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,387979,22401,Luther Burbank School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,388011,22401,Luther Burbank School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,498105,22411,Edmund Burke Elementary School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,498106,22411,Edmund Burke Elementary School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,483408,22431,Burnham/Anthony Inclusive Academy,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,497257,22431,Burnham/Anthony Inclusive Academy,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,361767,22451,Hughes/Davis,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,222099,22461,Castellanos,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,451246,22471,Jonathan Burr Elementary School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,451272,22471,Jonathan Burr Elementary School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,165272,22481,John C Burroughs School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,522782,22481,John C Burroughs School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,522572,22491,Milton Brunson Specialty Elementary School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,152960,22501,Michael M Byrne School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,205104,22501,Michael M Byrne School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,522595,22511,Caldwell Academy Of Mathematics Science & Technology,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,451260,22531,Daniel R Cameron Elementary School,1.0,29515.3,29515.3,16180.0
+Teacher Assistant,000463,505533,22541,Arthur E Canty,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,483019,22551,Andrew Carnegie School,1.0,38379.42,38379.42,18316.0
+Teacher Assistant,000463,385920,22581,Dr Jorge Prieto Math and Science Academy,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,464822,22601,Rachel Carson Elementary School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,520345,22611,William W Carter School,1.0,26881.82,26881.82,15874.0
+Teacher Assistant,000463,525023,22611,William W Carter School,1.0,28144.93,28144.93,16143.0
+Teacher Assistant,000463,525028,22611,William W Carter School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,488568,22621,George Washington Carver Elementary,0.5,29515.3,14757.65,8217.0
+Teacher Assistant,000463,519800,22621,George Washington Carver Elementary,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,519822,22621,George Washington Carver Elementary,0.5,29515.3,14757.65,8217.0
+Teacher Assistant,000463,275269,22661,Horace Greeley School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,388154,22681,Eliza Chappell Elementary School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,163065,22701,Salmon P Chase School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,329373,22701,Salmon P Chase School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,233282,22721,Frederic Chopin School,1.0,34428.35,34428.35,17181.0
+Teacher Assistant,000463,496260,22721,Frederic Chopin School,1.0,37261.57,37261.57,17759.0
+Teacher Assistant,000463,160845,22731,Henry Clay Elementary School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,159734,22741,Grover Cleveland School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,256838,22741,Grover Cleveland School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,385900,22751,Dewitt Clinton School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,501635,22761,Henry R Clissold School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,387895,22771,Edward Coles Model For Excellence School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,387615,22791,Christopher Columbus School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,522792,22801,John W Cook Elementary School,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,150274,22851,Daniel J Corkery School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,486287,22851,Daniel J Corkery School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,156856,22871,Everett Mckinley Dirksen School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,159627,22871,Everett Mckinley Dirksen School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,500226,22871,Everett Mckinley Dirksen School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,423961,22891,Nathan S Davis School & Annex,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,451287,22891,Nathan S Davis School & Annex,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,451290,22891,Nathan S Davis School & Annex,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,480528,22921,Mariano Azuela Elementary School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,484060,22921,Mariano Azuela Elementary School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,525057,22921,Mariano Azuela Elementary School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,525100,22921,Mariano Azuela Elementary School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,525383,22921,Mariano Azuela Elementary School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,525384,22921,Mariano Azuela Elementary School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,152947,22941,William E Dever School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,498066,22951,Dewey Academy Of Multicultural Studies,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,498069,22951,Dewey Academy Of Multicultural Studies,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,469441,22971,Arthur Dixon School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,421677,22981,Dodge Renaissance Academy,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,486368,22981,Dodge Renaissance Academy,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,515249,22991,James R Doolittle Jr Intermediate & Upper Cycle East,1.0,26881.82,26881.82,15874.0
+Teacher Assistant,000463,477175,23001,John C Dore School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,525226,23001,John C Dore School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,149286,23041,John F Eberhart School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,150149,23041,John F Eberhart School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,150189,23041,John F Eberhart School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,406069,23041,John F Eberhart School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,162102,23081,Richard Edwards School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,381424,23081,Richard Edwards School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,160237,23131,Esmond School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,150043,23151,Laughlin Falconer School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,156412,23151,Laughlin Falconer School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,156496,23151,Laughlin Falconer School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,387621,23151,Laughlin Falconer School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,484428,23151,Laughlin Falconer School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,147900,23161,James B Farnsworth School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,154648,23161,James B Farnsworth School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,159006,23161,James B Farnsworth School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,160379,23221,John Fiske School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,515163,23221,John Fiske School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,515577,23221,John Fiske School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,525170,23221,John Fiske School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,496218,23231,Telpochcalli,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,522809,23251,Joseph Kellman Corporate Community School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,157349,23261,Foster Park School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,494340,23261,Foster Park School,1.0,29515.3,29515.3,16433.0
+Teacher Assistant,000463,477127,23271,Melville W Fuller,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,451291,23281,Robert Fulton School,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,161172,23301,John W Garvy School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,161948,23301,John W Garvy School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,150205,23311,Joseph E Gary School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,153867,23311,Joseph E Gary School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,163366,23311,Joseph E Gary School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,163747,23311,Joseph E Gary School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,214120,23311,Joseph E Gary School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,223897,23321,Frank L Gillespie School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,387625,23341,J W Von Goethe School,1.0,26881.82,26881.82,15874.0
+Teacher Assistant,000463,394789,23341,J W Von Goethe School,1.0,37261.57,37261.57,18080.0
+Teacher Assistant,000463,522532,23351,Jesse Owens Elementary Community Academy,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,488180,23361,Virgil Grissom School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,498446,23361,Virgil Grissom School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,500175,23371,William C. Goudy Technology Academy,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,216992,23391,Alexander Graham School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,453550,23391,Alexander Graham School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,525032,23391,Alexander Graham School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,156598,23401,William P Gray School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,215213,23401,William P Gray School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,255562,23401,William P Gray School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,404672,23401,William P Gray School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,476873,23411,Josefa Ortiz De Dominguez Elementary School New Gary,1.0,29515.3,29515.3,16307.0
+Teacher Assistant,000463,157773,23431,Nathanael Greene School,1.0,26881.82,26881.82,15874.0
+Teacher Assistant,000463,488799,23431,Nathanael Greene School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,525096,23431,Nathanael Greene School,1.0,34428.35,34428.35,17181.0
+Teacher Assistant,000463,515271,23441,John Gregory School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,515272,23441,John Gregory School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,507244,23451,Walter Q Gresham Elementary School of Excellence,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,424566,23461,Robert L Grimes School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,229224,23481,John C Haines School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,148315,23491,Nathan Hale School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,149309,23491,Nathan Hale School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,157763,23491,Nathan Hale School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,454117,23491,Nathan Hale School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,525164,23491,Nathan Hale School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,149165,23501,Alexander Hamilton School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,159271,23501,Alexander Hamilton School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,406511,23501,Alexander Hamilton School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,392891,23511,John H Hamline Elementary School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,525292,23531,Charles G Hammond School,1.0,26881.82,26881.82,15874.0
+Teacher Assistant,000463,498195,23581,John Harvard Elementary School of Excellence,1.0,36186.71,36186.71,17540.0
+Teacher Assistant,000463,154690,23591,Helge A Haugan,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,294548,23591,Helge A Haugan,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,511186,23591,Helge A Haugan,1.0,37261.57,37261.57,17759.0
+Teacher Assistant,000463,525236,23591,Helge A Haugan,1.0,36186.71,36186.71,17540.0
+Teacher Assistant,000463,421632,23611,Emiliano Zapata Academy,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,500136,23641,Wendell Smith,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,397397,23671,Phoebe Apperson Hearst School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,493662,23751,South Loop School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,502280,23751,South Loop School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,472417,23771,Theodore Herzl School,1.0,37261.57,37261.57,17759.0
+Teacher Assistant,000463,483036,23771,Theodore Herzl School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,523038,23771,Theodore Herzl School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,387789,23791,Agustin Lara Academy,1.0,31292.16,31292.16,16677.0
+Teacher Assistant,000463,522492,23801,William G Hibbard School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,388140,23811,Rufus M Hitch School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,511750,23821,Charles N Holden School,1.0,33348.7,33348.7,17248.0
+Teacher Assistant,000463,525323,23821,Charles N Holden School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,522811,23831,Oliver Wendell Holmes School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,297040,23851,Julia Ward Howe School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,511446,23881,Paul Cuffe Elementary School,1.0,28144.93,28144.93,16021.0
+Teacher Assistant,000463,265322,23891,Countee Cullen School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,525233,23891,Countee Cullen School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,155694,23911,Edward N Hurley School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,525179,23921,Friedrich L Jahn School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,148091,23931,Minnie Mars Jamieson School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,155010,23931,Minnie Mars Jamieson School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,487843,23931,Minnie Mars Jamieson School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,505097,23951,Edward Jenner Academy Of The Arts,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,331368,23961,Joseph Jungman School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,522711,23961,Joseph Jungman School,1.0,28144.93,28144.93,16143.0
+Teacher Assistant,000463,525058,23961,Joseph Jungman School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,159622,24051,Lazaro Cardenas School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,290173,24051,Lazaro Cardenas School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,148297,24071,John H Kinzie Elementary School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,148458,24071,John H Kinzie Elementary School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,150520,24071,John H Kinzie Elementary School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,153654,24071,John H Kinzie Elementary School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,154549,24071,John H Kinzie Elementary School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,154701,24071,John H Kinzie Elementary School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,161273,24071,John H Kinzie Elementary School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,525184,24081,Rudyard Kipling School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,147921,24101,Rodolfo Lozano Bilingual & International Center,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,217543,24101,Rodolfo Lozano Bilingual & International Center,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,485357,24101,Rodolfo Lozano Bilingual & International Center,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,487838,24151,Leslie Lewis School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,512091,24151,Leslie Lewis School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,512092,24151,Leslie Lewis School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,150866,24191,Abraham Lincoln Elementary School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,385470,24201,Carl Von Linne Elementary School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,520416,24201,Carl Von Linne Elementary School,1.0,26881.82,26881.82,15874.0
+Teacher Assistant,000463,239844,24231,Josephine C Locke School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,250472,24231,Josephine C Locke School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,250473,24231,Josephine C Locke School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,467641,24231,Josephine C Locke School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,497067,24231,Josephine C Locke School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,397071,24281,Mary Lyon School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,494242,24311,George Manierre School,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,162309,24331,Horace Mann School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,465768,24341,Marquette Elementary,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,483045,24341,Marquette Elementary,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,513935,24371,Michael Faraday Elementary School,1.0,28144.93,28144.93,15973.0
+Teacher Assistant,000463,498089,24421,George B McClellan Elementary School,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,517221,24431,Cyrus H Mccormick School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,522788,24441,Emmit Louis Till Math and Science Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,431303,24451,Francis M Mckay School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,154962,24461,Hanson Park School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,157181,24461,Hanson Park School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,157768,24461,Hanson Park School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,173387,24461,Hanson Park School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,173388,24461,Hanson Park School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,218555,24461,Hanson Park School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,218557,24461,Hanson Park School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,429434,24461,Hanson Park School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,484689,24461,Hanson Park School,1.0,29515.3,29515.3,16180.0
+Teacher Assistant,000463,513378,24461,Hanson Park School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,513408,24461,Hanson Park School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,513409,24461,Hanson Park School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,513410,24461,Hanson Park School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,491170,24471,James B Mcpherson Elementary School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,496270,24471,James B Mcpherson Elementary School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,510291,24471,James B Mcpherson Elementary School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,497384,24551,Bernhard Moos School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,498085,24551,Bernhard Moos School,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,522803,24551,Bernhard Moos School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,525191,24551,Bernhard Moos School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,156753,24571,Donald L Morrill Mathematics & Science Specialty School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,159958,24571,Donald L Morrill Mathematics & Science Specialty School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,162725,24591,Mount Greenwood Elementary School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,156318,24601,Mount Vernon Elementary School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,525036,24601,Mount Vernon Elementary School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,525094,24601,Mount Vernon Elementary School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,482385,24611,Wolfgang A Mozart School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,275844,24621,John B Murphy School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,291670,24681,William P Nixon School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,393077,24681,William P Nixon School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,151760,24691,Alfred Nobel Elementary School,1.0,37261.57,37261.57,17759.0
+Teacher Assistant,000463,155603,24691,Alfred Nobel Elementary School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,155802,24691,Alfred Nobel Elementary School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,296690,24691,Alfred Nobel Elementary School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,453067,24691,Alfred Nobel Elementary School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,149293,24711,Norwood Park Elementary School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,403037,24721,West Park Academy,1.0,34428.35,34428.35,17181.0
+Teacher Assistant,000463,485798,24721,West Park Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,486103,24721,West Park Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,522794,24721,West Park Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,159658,24731,William B Ogden School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,248658,24731,William B Ogden School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,474785,24741,Richard J Oglesby School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,474786,24741,Richard J Oglesby School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,525222,24741,Richard J Oglesby School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,487836,24751,Isabell C O'Keeffe School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,496474,24751,Isabell C O'Keeffe School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,150680,24761,William J Onahan School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,156666,24761,William J Onahan School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,485673,24761,William J Onahan School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,520165,24781,Brian Piccolo Elementary School,1.0,32777.9,32777.9,17126.0
+Teacher Assistant,000463,250388,24791,James Otis School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,217260,24801,Luke O'Toole School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,501271,24801,Luke O'Toole School,1.0,29809.25,29809.25,16240.0
+Teacher Assistant,000463,498245,24811,Wells Preparatory School,1.0,37261.57,37261.57,17759.0
+Teacher Assistant,000463,501272,24811,Wells Preparatory School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,152181,24821,John M Palmer School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,388124,24841,Park Manor Elementary School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,410237,24851,Louis Pasteur School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,429036,24851,Louis Pasteur School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,213442,24871,Ferdinand W Peck School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,455634,24871,Ferdinand W Peck School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,480029,24871,Ferdinand W Peck School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,488837,24871,Ferdinand W Peck School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,488839,24871,Ferdinand W Peck School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,503475,24871,Ferdinand W Peck School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,520161,24871,Ferdinand W Peck School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,159083,24891,Helen C Peirce School Of International Studies,1.0,37261.57,37261.57,18080.0
+Teacher Assistant,000463,217085,24891,Helen C Peirce School Of International Studies,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,395012,24891,Helen C Peirce School Of International Studies,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,282533,24911,William Penn School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,522764,24911,William Penn School,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,522795,24911,William Penn School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,388013,24931,Irma C Ruiz School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,492694,24951,Marcus Moziah Garvey School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,240450,24971,John T Pirie Fine Arts & Academic Center,1.0,34428.35,34428.35,17478.0
+Teacher Assistant,000463,487785,24991,Laura S Ward School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,522799,24991,Laura S Ward School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,167023,25031,Ernst Prussing,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,525020,25041,George M Pullman School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,525230,25041,George M Pullman School,1.0,28144.93,28144.93,16143.0
+Teacher Assistant,000463,259753,25061,Ravenswood School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,452073,25071,William H Ray School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,149141,25111,Peter A Reinberg,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,149251,25111,Peter A Reinberg,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,163139,25111,Peter A Reinberg,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,525104,25151,Cesar E Chavez Multicultural Academic Center,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,522813,25181,Martha M Ruggles Elementary School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,154448,25191,William H Ryder Math/Science Specialty School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,149728,25231,Sidney Sawyer School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,153310,25231,Sidney Sawyer School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,161660,25231,Sidney Sawyer School,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,163967,25231,Sidney Sawyer School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,217288,25231,Sidney Sawyer School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,276656,25231,Sidney Sawyer School,1.0,37261.57,37261.57,17759.0
+Teacher Assistant,000463,405929,25231,Sidney Sawyer School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,493855,25231,Sidney Sawyer School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,520316,25241,Jonathan Y Scammon School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,453510,25291,Franz Peter Schubert School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,395013,25331,Arnold Mireles Academy,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,486322,25331,Arnold Mireles Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,525371,25341,William T. Sherman Elementary School of Excellence,1.0,31292.16,31292.16,16690.0
+Teacher Assistant,000463,511754,25351,Jesse Sherwood School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,381407,25361,James Shields Elementary School,1.0,37261.57,37261.57,17759.0
+Teacher Assistant,000463,475049,25361,James Shields Elementary School,1.0,37261.57,37261.57,17759.0
+Teacher Assistant,000463,486893,25361,James Shields Elementary School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,483060,25401,Washington D Smyser School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,514863,25411,John M Smyth Elementary School,1.0,26881.82,26881.82,15874.0
+Teacher Assistant,000463,515279,25411,John M Smyth Elementary School,1.0,29515.3,29515.3,16307.0
+Teacher Assistant,000463,515297,25411,John M Smyth Elementary School,1.0,29515.3,29515.3,16307.0
+Teacher Assistant,000463,522772,25411,John M Smyth Elementary School,1.0,34428.35,34428.35,17330.0
+Teacher Assistant,000463,154472,25431,Hannah G Solomon School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,167414,25431,Hannah G Solomon School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,161435,25441,Herbert Spencer Math & Science Academy,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,393026,25441,Herbert Spencer Math & Science Academy,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,522789,25451,John Spry Community School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,424410,25471,Adlai E Stevenson School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,483062,25491,Edward F Dunne School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,149499,25521,Harriet Beecher Stowe School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,150131,25561,Elizabeth H Sutherland School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,388112,25571,George B Swift Specialty School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,388028,25591,Douglas Taylor Elementary School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,498181,25621,George W Tilton School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,216649,25631,Enrico Tonti School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,483066,25631,Enrico Tonti School,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,522883,25631,Enrico Tonti School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,163830,25661,Mark Twain School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,385898,25661,Mark Twain School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,429466,25661,Mark Twain School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,464517,25661,Mark Twain School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,292106,25681,Alessandro Volta School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,510978,25681,Alessandro Volta School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,466839,25711,James Wadsworth School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,488809,25711,James Wadsworth School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,247592,25751,James Ward Elementary School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,435009,25761,Joseph Warren Elementary School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,250403,25771,George Washington School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,252077,25771,George Washington School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,387932,25771,George Washington School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,388122,25771,George Washington School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,464444,25771,George Washington School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,394787,25791,Daniel Webster School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,487855,25791,Daniel Webster School,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,488825,25791,Daniel Webster School,1.0,29515.3,29515.3,16180.0
+Teacher Assistant,000463,492414,25811,Daniel S Wentworth School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,514651,25811,Daniel S Wentworth School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,498184,25841,Eli Whitney School,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,498187,25841,Eli Whitney School,1.0,38379.42,38379.42,17986.0
+Teacher Assistant,000463,498189,25841,Eli Whitney School,1.0,29515.3,29515.3,16180.0
+Teacher Assistant,000463,161530,25861,John Greenleaf Whittier School,1.0,34428.35,34428.35,17181.0
+Teacher Assistant,000463,520547,25881,Wildwood School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,250593,25911,Richard Yates Elementary School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,263697,25911,Richard Yates Elementary School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,165882,25921,Ella Flagg Young School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,250951,25921,Ella Flagg Young School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,468523,25921,Ella Flagg Young School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,496292,25921,Ella Flagg Young School,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,512005,25921,Ella Flagg Young School,1.0,36186.71,36186.71,17540.0
+Teacher Assistant,000463,496293,25931,Ludwig Von Beethoven School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,522631,25941,Carrie Jacobs Bond,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,164909,25951,Richard J Daley Academy,1.0,34428.35,34428.35,17181.0
+Teacher Assistant,000463,445437,25951,Richard J Daley Academy,1.0,29809.25,29809.25,16240.0
+Teacher Assistant,000463,499358,25991,Joseph Brennemann School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,160999,26031,R Nathaniel Dett,1.0,36186.71,36186.71,17851.0
+Teacher Assistant,000463,492403,26031,R Nathaniel Dett,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,492404,26031,R Nathaniel Dett,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,492406,26031,R Nathaniel Dett,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,504388,26051,Dvorak Technology Academy School of Excellence,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,507240,26051,Dvorak Technology Academy School of Excellence,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,520405,26051,Dvorak Technology Academy School of Excellence,1.0,26881.82,26881.82,15874.0
+Teacher Assistant,000463,523036,26051,Dvorak Technology Academy School of Excellence,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,522796,26061,Jackie R Robinson,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,304316,26091,Morton School of Excellence,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,384126,26141,John Foster Dulles Elementary School of Excellence,1.0,29515.3,29515.3,16180.0
+Teacher Assistant,000463,499843,26141,John Foster Dulles Elementary School of Excellence,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,494313,26231,James Weldon Johnson Elementary School of Excellence,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,494336,26231,James Weldon Johnson Elementary School of Excellence,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,520292,26231,James Weldon Johnson Elementary School of Excellence,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,482147,26251,Irvin C Mollison School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,507214,26301,Ronald E McNair Elementary School of Excellence,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,496901,26321,Benjamin E Mays Academy,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,161851,26331,Richard Henry Lee School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,165977,26331,Richard Henry Lee School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,488832,26351,Genevieve Melody School,1.0,37261.57,37261.57,17759.0
+Teacher Assistant,000463,489274,26351,Genevieve Melody School,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,489416,26351,Genevieve Melody School,1.0,34428.35,34428.35,17181.0
+Teacher Assistant,000463,513421,26351,Genevieve Melody School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,525351,26351,Genevieve Melody School,1.0,29809.25,29809.25,16240.0
+Teacher Assistant,000463,327657,26381,Oliver S Westcott Elementary School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,522679,26431,Edward H White,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,264245,26461,Evergreen Academy School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,252692,26591,Medgar Evers School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,453064,26591,Medgar Evers School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,510437,26591,Medgar Evers School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,522564,26601,William E B Dubois School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,522561,26621,Charles H Wacker School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,499659,26631,Oscar Depriest School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,521206,26631,Oscar Depriest School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,483075,26651,Mahalia Jackson School,1.0,31292.16,31292.16,16677.0
+Teacher Assistant,000463,522801,26651,Mahalia Jackson School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,154967,26701,Fairfield Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,458549,26701,Fairfield Academy,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,460282,26721,Sandoval Elementary School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,207164,26751,Johnnie Colemon School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,152640,26771,Belmont-Cragin School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,153008,26771,Belmont-Cragin School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,251871,26781,Talman School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,215926,26791,Tarkington School of Excellence,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,239600,26791,Tarkington School of Excellence,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,485782,26791,Tarkington School of Excellence,1.0,37261.57,37261.57,17759.0
+Teacher Assistant,000463,485785,26791,Tarkington School of Excellence,1.0,34428.35,34428.35,17181.0
+Teacher Assistant,000463,248252,26821,Calmeca Academy of Fine Arts and Dual Language,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,429032,26821,Calmeca Academy of Fine Arts and Dual Language,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,468195,26821,Calmeca Academy of Fine Arts and Dual Language,1.0,29809.25,29809.25,16240.0
+Teacher Assistant,000463,295085,26831,Durkin Park School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,345227,26831,Durkin Park School,1.0,29809.25,29809.25,16240.0
+Teacher Assistant,000463,501239,26831,Durkin Park School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,525300,26831,Durkin Park School,1.0,26881.82,26881.82,15874.0
+Teacher Assistant,000463,498142,26891,Velma Thomas Early Childhood Center,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,498143,26891,Velma Thomas Early Childhood Center,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,525085,28081,Edison Park Elementary,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,156995,29021,Burnside Scholastic Academy,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,432573,29041,Turner-Drew Language Academy,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,487519,29051,Leif Ericson Scholastic Academy,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,511729,29051,Leif Ericson Scholastic Academy,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,221846,29071,Gerald Delgado Kanoon Magnet School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,149237,29091,Matthew Gallistel Language Academy,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,153337,29091,Matthew Gallistel Language Academy,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,504239,29091,Matthew Gallistel Language Academy,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,311394,29121,Frank W Gunsaulus Scholastic Academy School,1.0,38379.42,38379.42,18316.0
+Teacher Assistant,000463,317112,29121,Frank W Gunsaulus Scholastic Academy School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,482203,29121,Frank W Gunsaulus Scholastic Academy School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,149769,29151,Maria Saucedo Scholastic Academy,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,159059,29151,Maria Saucedo Scholastic Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,328105,29151,Maria Saucedo Scholastic Academy,1.0,29809.25,29809.25,16240.0
+Teacher Assistant,000463,525115,29151,Maria Saucedo Scholastic Academy,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,157389,29171,Andrew Jackson Language Academy,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,477297,29181,James E Mcdade Classical School,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,275721,29191,Inter-American Magnet,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,275840,29191,Inter-American Magnet,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,459340,29191,Inter-American Magnet,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,489488,29201,Mark Sheridan Mathematics & Science Academy,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,510370,29201,Mark Sheridan Mathematics & Science Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,525286,29201,Mark Sheridan Mathematics & Science Academy,1.0,26881.82,26881.82,15874.0
+Teacher Assistant,000463,147732,29221,Philip Murray Language Academy,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,382266,29221,Philip Murray Language Academy,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,386133,29231,Walter L Newberry Mathematics & Science Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,159879,29271,Harriet E Sayre Language Academy,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,250147,29271,Harriet E Sayre Language Academy,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,151019,29281,Mark Skinner School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,156195,29281,Mark Skinner School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,216870,29281,Mark Skinner School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,216877,29281,Mark Skinner School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,156614,29301,Ole A Thorp Scholastic Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,167063,29301,Ole A Thorp Scholastic Academy,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,525062,29301,Ole A Thorp Scholastic Academy,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,518453,29321,Beasley Academic Center Magnet,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,514645,29341,Jensen Scholastic Academy School,1.0,38379.42,38379.42,18151.0
+Teacher Assistant,000463,525352,29341,Jensen Scholastic Academy School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,451249,29401,Walt Disney Magnet School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,493995,30041,Moses Montefiore Special School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,493996,30041,Moses Montefiore Special School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,520507,30051,Daniel Carter Beard School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,149069,30071,Blair Early Childhood Center,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,153520,30071,Blair Early Childhood Center,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,147664,30081,Frederick Stock School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,151298,30081,Frederick Stock School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,153486,30081,Frederick Stock School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,158606,30081,Frederick Stock School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,167108,30081,Frederick Stock School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,483420,30141,Courtenay Language Arts Center,1.0,37261.57,37261.57,17759.0
+Teacher Assistant,000463,498769,30141,Courtenay Language Arts Center,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,165587,31041,Crown Community Academy Fine Arts Center,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,295270,31041,Crown Community Academy Fine Arts Center,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,513114,31041,Crown Community Academy Fine Arts Center,1.0,29809.25,29809.25,16240.0
+Teacher Assistant,000463,520465,31061,Ralph H Metcalfe Community Academy Elementary School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,151796,31081,Stephen F Gale Community Academy,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,473226,31101,Ninos Heroes Academic Center,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,497664,31101,Ninos Heroes Academic Center,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,154870,31111,John Hay Community Academy School,1.0,29809.25,29809.25,16240.0
+Teacher Assistant,000463,252233,31151,Charles Kozminski Community Academy School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,323884,31151,Charles Kozminski Community Academy School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,447634,31151,Charles Kozminski Community Academy School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,496299,31161,Lawndale Community Academy School,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,509880,31161,Lawndale Community Academy School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,522692,31161,Lawndale Community Academy School,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,394772,31181,Francis W Parker Community Academy,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,394779,31181,Francis W Parker Community Academy,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,455771,31181,Francis W Parker Community Academy,1.0,29515.3,29515.3,16180.0
+Teacher Assistant,000463,493087,31181,Francis W Parker Community Academy,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,501277,31201,Parkside Community Academy School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,251198,31211,Pulaski International School of Chicago,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,495008,31211,Pulaski International School of Chicago,1.0,29515.3,29515.3,16433.0
+Teacher Assistant,000463,453846,31221,Charles Sumner Mathematics & Science Community Academy,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,493098,31261,Jose De Diego Community Academy,1.0,32777.9,32777.9,16845.0
+Teacher Assistant,000463,494065,31261,Jose De Diego Community Academy,1.0,28144.93,28144.93,15900.0
+Teacher Assistant,000463,522950,31261,Jose De Diego Community Academy,1.0,31292.16,31292.16,16542.0
+Teacher Assistant,000463,333306,31281,Orozco Academy,1.0,38379.42,38379.42,17987.0
+Teacher Assistant,000463,525284,31281,Orozco Academy,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,157277,32021,Lionel Hampton Fine and Performing Arts School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,162908,32021,Lionel Hampton Fine and Performing Arts School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,155965,41051,Michelle Clark Academic Prep Magnet High School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,216862,41061,Frederick A Douglass Academy High School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,452079,41091,Logandale Middle School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,452167,41091,Logandale Middle School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,148228,46181,Thomas Kelly High School,1.0,29809.25,29809.25,16496.0
+Teacher Assistant,000463,152773,46181,Thomas Kelly High School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,153223,46181,Thomas Kelly High School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,217657,46181,Thomas Kelly High School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,149946,46201,John F Kennedy High School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,154833,46201,John F Kennedy High School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,164147,46201,John F Kennedy High School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,396988,46291,Charles P Steinmetz Academic Centre,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,161471,46311,William Howard Taft High School,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,166000,46311,William Howard Taft High School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,230142,46331,George Washington High School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,159446,46341,Gurdon S Hubbard High School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,162727,46341,Gurdon S Hubbard High School,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,520119,46341,Gurdon S Hubbard High School,1.0,28144.93,28144.93,16142.0
+Teacher Assistant,000463,149686,46361,Kenwood Academy,1.0,32777.9,32777.9,17127.0
+Teacher Assistant,000463,161793,47051,Gwendolyn Brooks,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,275702,47101,Whitney M Young Magnet High School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,149597,49021,Northside Learning Center,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,159079,49021,Northside Learning Center,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,159386,49021,Northside Learning Center,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,160680,49021,Northside Learning Center,1.0,34428.35,34428.35,17477.0
+Teacher Assistant,000463,157397,49081,Jacqueline B Vaughn Occupational High School,1.0,31292.16,31292.16,16811.0
+Teacher Assistant,000463,223504,49081,Jacqueline B Vaughn Occupational High School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,268010,49081,Jacqueline B Vaughn Occupational High School,1.0,37261.57,37261.57,18079.0
+Teacher Assistant,000463,459497,49101,Ray Graham Training Center,1.0,29515.3,29515.3,16434.0
+Teacher Assistant,000463,161866,53061,Neal F Simeon Vocational High School,1.0,38379.42,38379.42,18317.0
+Teacher Assistant,000463,206377,53101,Marie Sklodowska Curie Metropolitan High School,1.0,38379.42,38379.42,18317.0

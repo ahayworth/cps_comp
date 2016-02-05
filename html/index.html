@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>CPS Salary Explorer</title>
+    <meta name='description' content='Visualizing and exploring the salary data provided by the CPS'>
+    <link rel='stylesheet' type='text/css' href='https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.10/css/jquery.dataTables.min.css'>
+    <link rel='stylesheet' type='text/css' href='https://cdn.jsdelivr.net/jquery.datatables/1.10.10/plugins/responsive/css/responsive.dataTables.min.css'>
+    <link rel='stylesheet' type='text/css' href='https://cdnjs.cloudflare.com/ajax/libs/chosen/1.4.2/chosen.min.css'>
+    <style>
+      body {
+        font-family: Sans-serif, Serif, Monospace;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>CPS Salaries</h1>
+    <div id='choice_div'>
+      <select id='choice_select'></select>
+    </div>
+    <br /> <!-- fixme -->
+
+
+    <div id='summary_table_container' class='table_container' style='display:none'>
+      <canvas id='summary_chart' style='display:none'></canvas>
+      <table id='summary_table' class='display'>
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th># Salaries</th>
+            <th>Lowest Salary</th>
+            <th>Highest Salary</th>
+            <th>Average Salary</th>
+            <th>Median Salary</th>
+          </tr>
+        </thead>
+      </table>
+    </div>
+
+    <div id='position_table_container' class='table_container' style='display:none'>
+    </div>
+
+    <div id='position_table_template' style='display:none'>
+      <canvas id='position_chart' width='900' height='200' ></canvas>
+      <table class='display'>
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Job Code</th>
+            <th>Position #</th>
+            <th>Unit #</th>
+            <th>Unit Name</th>
+            <th>Full-time Equivalency</th>
+            <th>Salary</th>
+            <th>Full-time Equivalent Salary</th>
+            <th>Cost of Benefits</th>
+          </tr>
+        </thead>
+      </table>
+    </div>
+
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.10/js/jquery.dataTables.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/jquery.datatables/1.10.10/plugins/responsive/js/dataTables.responsive.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/chosen/1.4.2/chosen.jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js'></script>
+    <script src='/js/positions.js'></script>
+    <script>
+      $(document).ready(function() {
+        $.each(positions, function(idx, val) {
+          $('#choice_select').append('<option value=\'' + val + '\'>' + val + '</option>');
+        });
+        $('#choice_select').chosen();
+
+        $('#choice_select').on('change', function() {
+          $('.table_container').hide();
+          $('.chart_container').hide();
+
+          if ($('#choice_select').val() == 'Summary') {
+            if (! $.fn.dataTable.isDataTable('#summary_table')){
+              $('#summary_table').DataTable({
+                'responsive': true,
+                'ajax': {
+                  'url': '/data/summary.csv',
+                  'dataType': 'text',
+                  'dataSrc': function(data) {
+                    var results = Papa.parse(data, { 'skipEmptyLines': true });
+                    return results.data.slice(1);
+                  }
+                }
+              });
+            }
+            $('#summary_table_container').show();
+          } else {
+            $('#position_table_container').empty().append($('#position_table_template').html());
+            $('#position_table_container table').prop('id', 'position_table');
+            var url = '/data/' + $('#choice_select').val() + '.csv';
+            $('#position_table').DataTable({
+              'ajax': {
+                'url': url,
+                'dataType': 'text',
+                'dataSrc': function(data) {
+                  var results = Papa.parse(data, { 'skipEmptyLines': true });
+                  var ctx = $('#position_chart').get(0).getContext('2d');
+                  var chart_data = {};
+                  $.each(results.data.slice(1), function(idx, val) {
+                    var n = Math.round(parseFloat(val[6]) / 10000) * 10000;
+                    var bound = "" + (n / 1000) + "-" + ((n/1000) + 10) + "k";
+
+                    if (chart_data[bound] == undefined) {
+                      chart_data[bound] = [];
+                    }
+                    chart_data[bound].push(n);
+                  });
+                  var data = $.map(Object.keys(chart_data).sort(function(a,b) { return parseInt(a.split("-")[0]) - parseInt(b.split("-")[0]); }), function(val) {
+                    return chart_data[val].length;
+                  });
+                  var chart_data = {
+                    labels: Object.keys(chart_data).sort(function(a,b) { return parseInt(a.split("-")[0]) - parseInt(b.split("-")[0]); }),
+                    datasets: [
+                      {
+                        data: data,
+                        fillColor: 'rgba(220,220,220,0.5)',
+                        strokeColor: 'rgba(220,220,220,0.8)',
+                        highlightFill: 'rgba(220,220,220,0.75)',
+                        highlightStroke: 'rgba(220,220,220,1)',
+                      }
+                    ],
+                  };
+                  var chart = new Chart(ctx).Bar(chart_data, { responsive: true });
+                  return results.data.slice(1);
+                }
+              }
+            });
+            $('#position_table_container').show();
+          }
+        });
+
+        $('#choice_select').trigger('change');
+      });
+    </script>
+  </body>
+</html>
